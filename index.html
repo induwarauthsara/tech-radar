@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10131c">
+  <meta name="description" content="A daily technology radar for developer news and GitHub repositories.">
+  <title>Tech Radar | Induwara</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./"><span class="brand-mark">T</span><span>TECH <b>RADAR</b><small>BY INDUWARA</small></span></a>
+    <div class="top-actions"><span class="live-dot"></span><span id="updated-label">Loading latest data…</span><a class="github-link" href="https://github.com/induwarauthsara/tech-radar" target="_blank" rel="noreferrer">GitHub ↗</a></div>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="eyebrow"><span>DAILY SIGNAL, LESS NOISE</span><span class="eyebrow-line"></span></div>
+      <h1>Stay curious.<br><span>Build what’s next.</span></h1>
+      <p class="hero-copy">A handpicked radar of technology news and GitHub projects worth your time. Explore the source, understand the signal, and find your next experiment.</p>
+      <div class="hero-meta"><span>AI & DEV TOOLS</span><i></i><span>OPEN SOURCE</span><i></i><span>CLOUD & ENGINEERING</span></div>
+    </section>
+    <nav class="tabs" aria-label="Radar sections">
+      <button class="tab active" data-view="news">Tech updates <span id="news-count">—</span></button>
+      <button class="tab" data-view="repos">GitHub repos <span id="repo-count">—</span></button>
+      <button class="tab" data-view="developers">Trending developers</button>
+    </nav>
+    <section class="toolbar">
+      <div><div class="section-kicker" id="section-kicker">THE LATEST</div><h2 id="section-title">Technology signals</h2><p id="section-description">Recent stories from public feeds and engineering blogs.</p></div>
+      <div class="filters" id="filters">
+        <label class="search-wrap"><span>⌕</span><input id="search" type="search" placeholder="Search updates…" aria-label="Search updates"></label>
+        <select id="category-filter" aria-label="Filter by category"><option value="all">All topics</option></select>
+      </div>
+    </section>
+    <div id="status" class="status" role="status">Loading radar data…</div>
+    <section id="news-view" class="news-grid" aria-live="polite"></section>
+    <section id="repos-view" class="repo-grid hidden" aria-live="polite"></section>
+    <section id="developers-view" class="developer-grid hidden" aria-live="polite"></section>
+    <section class="bottom-note"><span class="note-icon">↗</span><p><b>Follow the source.</b> Summaries are based on publicly available feed metadata. Open each source for full context. GitHub Trending availability can vary, and scheduled GitHub Actions may run later than planned.</p></section>
+  </main>
+  <footer><span>TECH RADAR <span class="muted">/ DAILY DISCOVERY</span></span><span>Open source, always curious. <a href="https://github.com/induwarauthsara/tech-radar">View project ↗</a></span></footer>
+</body>
+</html>
