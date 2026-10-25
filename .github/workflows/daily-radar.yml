@@ -1,4 +1,4 @@
-name: Refresh and deploy Tech Radar
+name: Refresh Tech Radar data
 
 on:
   schedule:
@@ -16,11 +16,9 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: "tech-radar-pages"
+  group: "tech-radar-refresh"
   cancel-in-progress: false
 
 jobs:
@@ -51,22 +49,3 @@ jobs:
           git add data/
           git commit -m "chore: refresh daily radar data"
           git push
-  deploy:
-    needs: refresh
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out latest main
-        uses: actions/checkout@v4
-        with:
-          ref: main
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-      - name: Upload static site
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: "."
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
