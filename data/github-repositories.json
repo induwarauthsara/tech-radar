@@ -12,46 +12,6 @@
       "trend_period": "Daily"
     },
     {
-      "name": "cindy",
-      "full_name": "makecindy/cindy",
-      "description": "Open-source desktop and mobile client for an AI agent that combines local files, browser/device control, memory, skills, and multi-agent workflows.",
-      "url": "https://github.com/makecindy/cindy",
-      "language": "TypeScript",
-      "stars_label": "5,758",
-      "period_stars": "1,268 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "hallmark",
-      "full_name": "Nutlope/hallmark",
-      "description": "Design skill for coding agents that creates distinct frontend designs and checks rendered pages for common AI-generated design patterns and regressions.",
-      "url": "https://github.com/Nutlope/hallmark",
-      "language": "CSS",
-      "stars_label": "35,170",
-      "period_stars": "2,235 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "impeccable",
-      "full_name": "pbakaus/impeccable",
-      "description": "Cross-agent frontend design skill with design commands, browser iteration, and deterministic checks for common generated-UI issues.",
-      "url": "https://github.com/pbakaus/impeccable",
-      "language": "Rust",
-      "stars_label": "88,492",
-      "period_stars": "1,551 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "VoiceStudio",
-      "full_name": "debpalash/VoiceStudio",
-      "description": "Local-first voice workspace for voice cloning and design, video dubbing, dictation, transcription, audiobook creation, and local API/MCP integrations.",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "language": "Python",
-      "stars_label": "88,011",
-      "period_stars": "2,292 stars today",
-      "trend_period": "Daily"
-    },
-    {
       "name": "openbot",
       "full_name": "nightly-labs/openbot",
       "description": "Local-first desktop workspace for persistent AI teammates with separate workspaces, queues, file transfer, browser control, and agent messaging.",
@@ -100,6 +60,46 @@
       "stars_label": "",
       "period_stars": "Popular repository on Trending Developers (Oct 26)",
       "trend_period": "Developer profile"
+    },
+    {
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Coding-agent skill pack that encourages minimal, maintainable solutions and challenges unnecessary code and complexity.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "language": "JavaScript",
+      "stars_label": "177k",
+      "period_stars": "9,162 stars in 7 days (Oct 25 tracker)",
+      "trend_period": "Weekly tracker / Trending Explore"
+    },
+    {
+      "name": "archify",
+      "full_name": "tt-a1i/archify",
+      "description": "Agent skill that turns ideas, plans, or codebases into interactive architecture and workflow diagrams.",
+      "url": "https://github.com/tt-a1i/archify",
+      "language": "TypeScript",
+      "stars_label": "89.5k",
+      "period_stars": "3,760 stars in 7 days (Oct 25 tracker)",
+      "trend_period": "Weekly tracker"
+    },
+    {
+      "name": "huashu-design",
+      "full_name": "alchaincyf/huashu-design",
+      "description": "Cross-agent design skill for producing web and app prototypes, editable presentations, animations, and infographics from prompts.",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "language": "HTML",
+      "stars_label": "26,483",
+      "period_stars": "177 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "xerj",
+      "full_name": "xerj-org/xerj",
+      "description": "Local-first Rust search engine and MCP server that indexes code, documentation, logs, and structured files for full-text, vector, and hybrid retrieval.",
+      "url": "https://github.com/xerj-org/xerj",
+      "language": "Rust",
+      "stars_label": "15,488",
+      "period_stars": "7,204 stars in 7 days (Oct 25 tracker)",
+      "trend_period": "Weekly tracker"
     }
   ],
   "developers": [
