@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-10-25T17:12:17Z",
+  "updated_at": "2026-10-26T14:09:33Z",
   "items": [
     {
-      "name": "vllm",
-      "full_name": "vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "url": "https://github.com/vllm-project/vllm",
+      "name": "SkillSpector",
+      "full_name": "NVIDIA/SkillSpector",
+      "description": "Scans AI-agent skills for prompt injection, data exfiltration, privilege escalation, unsafe tool use, and supply-chain risks before installation.",
+      "url": "https://github.com/NVIDIA/SkillSpector",
       "language": "Python",
-      "stars_label": "95,463",
-      "period_stars": "1,371 stars this week",
-      "trend_period": "Weekly"
+      "stars_label": "21,751",
+      "period_stars": "203 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "andrej-karpathy-skills",
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "language": "",
-      "stars_label": "223,684",
-      "period_stars": "2,981 stars this week",
-      "trend_period": "Weekly"
-    },
-    {
-      "name": "t3code",
-      "full_name": "pingdotgg/t3code",
-      "description": "",
-      "url": "https://github.com/pingdotgg/t3code",
+      "name": "cindy",
+      "full_name": "makecindy/cindy",
+      "description": "Open-source desktop and mobile client for an AI agent that combines local files, browser/device control, memory, skills, and multi-agent workflows.",
+      "url": "https://github.com/makecindy/cindy",
       "language": "TypeScript",
-      "stars_label": "30,023",
-      "period_stars": "1,778 stars this week",
-      "trend_period": "Weekly"
+      "stars_label": "5,758",
+      "period_stars": "1,268 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "paperclip",
-      "full_name": "paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "url": "https://github.com/paperclipai/paperclip",
-      "language": "TypeScript",
-      "stars_label": "107,201",
-      "period_stars": "25,709 stars this month",
-      "trend_period": "Monthly"
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "description": "Design skill for coding agents that creates distinct frontend designs and checks rendered pages for common AI-generated design patterns and regressions.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "language": "CSS",
+      "stars_label": "35,170",
+      "period_stars": "2,235 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "plugins",
-      "full_name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "url": "https://github.com/cursor/plugins",
-      "language": "TypeScript",
-      "stars_label": "14,004",
-      "period_stars": "5,402 stars this month",
-      "trend_period": "Monthly"
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "description": "Cross-agent frontend design skill with design commands, browser iteration, and deterministic checks for common generated-UI issues.",
+      "url": "https://github.com/pbakaus/impeccable",
+      "language": "Rust",
+      "stars_label": "88,492",
+      "period_stars": "1,551 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "text-to-cad",
-      "full_name": "earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "url": "https://github.com/earthtojake/text-to-cad",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "description": "Local-first voice workspace for voice cloning and design, video dubbing, dictation, transcription, audiobook creation, and local API/MCP integrations.",
+      "url": "https://github.com/debpalash/VoiceStudio",
       "language": "Python",
-      "stars_label": "23,076",
-      "period_stars": "6,675 stars this month",
-      "trend_period": "Monthly"
+      "stars_label": "88,011",
+      "period_stars": "2,292 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "ghidra",
-      "full_name": "NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "language": "Java",
-      "stars_label": "94,219",
-      "period_stars": "14,582 stars this month",
-      "trend_period": "Monthly"
-    },
-    {
-      "name": "ECC",
-      "full_name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC",
-      "language": "JavaScript",
-      "stars_label": "288,619",
-      "period_stars": "22,855 stars this month",
-      "trend_period": "Monthly"
-    },
-    {
-      "name": "freellmapi",
-      "full_name": "tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "name": "openbot",
+      "full_name": "nightly-labs/openbot",
+      "description": "Local-first desktop workspace for persistent AI teammates with separate workspaces, queues, file transfer, browser control, and agent messaging.",
+      "url": "https://github.com/nightly-labs/openbot",
       "language": "TypeScript",
-      "stars_label": "41,415",
-      "period_stars": "12,538 stars this month",
-      "trend_period": "Monthly"
+      "stars_label": "1,115",
+      "period_stars": "86 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "claude-mem",
-      "full_name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "url": "https://github.com/thedotmack/claude-mem",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "CLI tools that let coding agents search and read supported web and community sources, including GitHub, Reddit, YouTube, and selected social platforms.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "language": "Python",
+      "stars_label": "102,950",
+      "period_stars": "723 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "postiz-app",
+      "full_name": "gitroomhq/postiz-app",
+      "description": "Open-source social-media scheduling and analytics platform with a Next.js/NestJS monorepo, PostgreSQL, automation integrations, and self-hosting support.",
+      "url": "https://github.com/gitroomhq/postiz-app",
       "language": "TypeScript",
-      "stars_label": "103,031",
-      "period_stars": "8,637 stars this month",
-      "trend_period": "Monthly"
+      "stars_label": "37,975",
+      "period_stars": "146 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "description": "MCP server and CLI for evidence-backed reverse engineering of websites, desktop apps, JavaScript/Electron apps, and native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "language": "TypeScript",
+      "stars_label": "389k",
+      "period_stars": "Rising this week; tracker snapshot dated Oct 25",
+      "trend_period": "Weekly tracker"
+    },
+    {
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI-agent research skill that searches sources including Reddit, X, YouTube, Hacker News, and the web, then synthesizes a cited, grounded summary.",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "language": "Python",
+      "stars_label": "",
+      "period_stars": "Popular repository on Trending Developers (Oct 26)",
+      "trend_period": "Developer profile"
     }
   ],
   "developers": [
