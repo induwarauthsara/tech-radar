@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T17:12:17Z",
+  "updated_at": "2026-10-26T14:09:33Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -40,6 +40,12 @@
     "https://github.com/NationalSecurityAgency/ghidra",
     "https://github.com/affaan-m/ECC",
     "https://github.com/tashfeenahmed/freellmapi",
-    "https://github.com/thedotmack/claude-mem"
+    "https://github.com/thedotmack/claude-mem",
+    "https://github.com/NVIDIA/SkillSpector",
+    "https://github.com/nightly-labs/openbot",
+    "https://github.com/Panniantong/Agent-Reach",
+    "https://github.com/gitroomhq/postiz-app",
+    "https://github.com/morluto/rea",
+    "https://github.com/mvanhorn/last30days-skill"
   ]
 }
