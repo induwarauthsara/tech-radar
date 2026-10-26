@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T17:12:17Z",
+  "updated_at": "2026-10-26T19:29:58Z",
   "items": [
     {
       "title": "Reinforcement learning with prediction-based rewards",
@@ -101,19 +101,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Introducing gpt-oss-safeguard",
-      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+      "title": "gpt-oss-safeguard technical report",
+      "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using…",
+      "description": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
+      "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
       "source": "OpenAI News",
       "published": "Wed, 29 Oct 2025 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "gpt-oss-safeguard technical report",
-      "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using…",
-      "description": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
-      "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
+      "title": "Introducing gpt-oss-safeguard",
+      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
       "source": "OpenAI News",
       "published": "Wed, 29 Oct 2025 00:00:00 GMT",
       "category": "AI & Agents"
@@ -434,19 +434,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Team update",
-      "summary": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
-      "description": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
-      "url": "https://openai.com/index/team-update",
+      "title": "Adversarial training methods for semi-supervised text classification",
+      "summary": "Open the original source for the full announcement and technical details.",
+      "description": "",
+      "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
       "source": "OpenAI News",
       "published": "Wed, 25 May 2016 07:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Adversarial training methods for semi-supervised text classification",
-      "summary": "Open the original source for the full announcement and technical details.",
-      "description": "",
-      "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
+      "title": "Team update",
+      "summary": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
+      "description": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
+      "url": "https://openai.com/index/team-update",
       "source": "OpenAI News",
       "published": "Wed, 25 May 2016 07:00:00 GMT",
       "category": "AI & Agents"
@@ -596,15 +596,6 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI News",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "AI & Agents"
-    },
-    {
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
@@ -614,13 +605,13 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "url": "https://openai.com/index/ringg",
       "source": "OpenAI News",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "Technology"
+      "category": "AI & Agents"
     },
     {
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
@@ -630,6 +621,15 @@
       "source": "OpenAI News",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
       "category": "Developer Tools"
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "Technology"
     },
     {
       "title": "Introducing MentalHealthBench",

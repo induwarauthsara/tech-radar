@@ -1,117 +1,52 @@
 {
-  "updated_at": "2026-10-26T14:09:33Z",
+  "updated_at": "2026-10-26T19:29:58Z",
   "items": [
     {
-      "name": "SkillSpector",
-      "full_name": "NVIDIA/SkillSpector",
-      "description": "Scans AI-agent skills for prompt injection, data exfiltration, privilege escalation, unsafe tool use, and supply-chain risks before installation.",
-      "url": "https://github.com/NVIDIA/SkillSpector",
+      "name": "agents",
+      "full_name": "wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "url": "https://github.com/wshobson/agents",
       "language": "Python",
-      "stars_label": "21,751",
-      "period_stars": "203 stars today",
-      "trend_period": "Daily"
+      "stars_label": "41,788",
+      "period_stars": "726 stars this week",
+      "trend_period": "Weekly"
     },
     {
-      "name": "openbot",
-      "full_name": "nightly-labs/openbot",
-      "description": "Local-first desktop workspace for persistent AI teammates with separate workspaces, queues, file transfer, browser control, and agent messaging.",
-      "url": "https://github.com/nightly-labs/openbot",
-      "language": "TypeScript",
-      "stars_label": "1,115",
-      "period_stars": "86 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "Agent-Reach",
-      "full_name": "Panniantong/Agent-Reach",
-      "description": "CLI tools that let coding agents search and read supported web and community sources, including GitHub, Reddit, YouTube, and selected social platforms.",
-      "url": "https://github.com/Panniantong/Agent-Reach",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "url": "https://github.com/VectifyAI/PageIndex",
       "language": "Python",
-      "stars_label": "102,950",
-      "period_stars": "723 stars today",
-      "trend_period": "Daily"
+      "stars_label": "39,781",
+      "period_stars": "3,964 stars this month",
+      "trend_period": "Monthly"
     },
     {
-      "name": "postiz-app",
-      "full_name": "gitroomhq/postiz-app",
-      "description": "Open-source social-media scheduling and analytics platform with a Next.js/NestJS monorepo, PostgreSQL, automation integrations, and self-hosting support.",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "language": "TypeScript",
-      "stars_label": "37,975",
-      "period_stars": "146 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "rea",
-      "full_name": "morluto/rea",
-      "description": "MCP server and CLI for evidence-backed reverse engineering of websites, desktop apps, JavaScript/Electron apps, and native binaries.",
-      "url": "https://github.com/morluto/rea",
-      "language": "TypeScript",
-      "stars_label": "389k",
-      "period_stars": "Rising this week; tracker snapshot dated Oct 25",
-      "trend_period": "Weekly tracker"
-    },
-    {
-      "name": "last30days-skill",
-      "full_name": "mvanhorn/last30days-skill",
-      "description": "AI-agent research skill that searches sources including Reddit, X, YouTube, Hacker News, and the web, then synthesizes a cited, grounded summary.",
-      "url": "https://github.com/mvanhorn/last30days-skill",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "language": "Python",
-      "stars_label": "",
-      "period_stars": "Popular repository on Trending Developers (Oct 26)",
-      "trend_period": "Developer profile"
+      "stars_label": "74,299",
+      "period_stars": "16,847 stars this month",
+      "trend_period": "Monthly"
     },
     {
-      "name": "ponytail",
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Coding-agent skill pack that encourages minimal, maintainable solutions and challenges unnecessary code and complexity.",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "language": "JavaScript",
-      "stars_label": "177k",
-      "period_stars": "9,162 stars in 7 days (Oct 25 tracker)",
-      "trend_period": "Weekly tracker / Trending Explore"
-    },
-    {
-      "name": "archify",
-      "full_name": "tt-a1i/archify",
-      "description": "Agent skill that turns ideas, plans, or codebases into interactive architecture and workflow diagrams.",
-      "url": "https://github.com/tt-a1i/archify",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "url": "https://github.com/supabase/supabase",
       "language": "TypeScript",
-      "stars_label": "89.5k",
-      "period_stars": "3,760 stars in 7 days (Oct 25 tracker)",
-      "trend_period": "Weekly tracker"
-    },
-    {
-      "name": "huashu-design",
-      "full_name": "alchaincyf/huashu-design",
-      "description": "Cross-agent design skill for producing web and app prototypes, editable presentations, animations, and infographics from prompts.",
-      "url": "https://github.com/alchaincyf/huashu-design",
-      "language": "HTML",
-      "stars_label": "26,483",
-      "period_stars": "177 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "xerj",
-      "full_name": "xerj-org/xerj",
-      "description": "Local-first Rust search engine and MCP server that indexes code, documentation, logs, and structured files for full-text, vector, and hybrid retrieval.",
-      "url": "https://github.com/xerj-org/xerj",
-      "language": "Rust",
-      "stars_label": "15,488",
-      "period_stars": "7,204 stars in 7 days (Oct 25 tracker)",
-      "trend_period": "Weekly tracker"
+      "stars_label": "114,008",
+      "period_stars": "3,471 stars this month",
+      "trend_period": "Monthly"
     }
   ],
   "developers": [
     {
-      "name": "Matt Van Horn",
-      "username": "mvanhorn",
-      "url": "https://github.com/mvanhorn"
-    },
-    {
-      "name": "Jarrod Watts",
-      "username": "jarrodwatts",
-      "url": "https://github.com/jarrodwatts"
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "url": "https://github.com/max-sixty"
     },
     {
       "name": "Georgios Konstantopoulos",
@@ -119,29 +54,9 @@
       "url": "https://github.com/gakonst"
     },
     {
-      "name": "Zachary Vorhies",
-      "username": "zackees",
-      "url": "https://github.com/zackees"
-    },
-    {
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "url": "https://github.com/max-sixty"
-    },
-    {
-      "name": "Илия",
-      "username": "777genius",
-      "url": "https://github.com/777genius"
-    },
-    {
-      "name": "Gathin",
-      "username": "Gathin23",
-      "url": "https://github.com/Gathin23"
-    },
-    {
-      "name": "sam",
-      "username": "sam-goodwin",
-      "url": "https://github.com/sam-goodwin"
+      "name": "Jarrod Watts",
+      "username": "jarrodwatts",
+      "url": "https://github.com/jarrodwatts"
     },
     {
       "name": "Ruslan Konviser",
@@ -149,29 +64,49 @@
       "url": "https://github.com/evereq"
     },
     {
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "url": "https://github.com/backnotprop"
+      "name": "Kirill Mokevnin",
+      "username": "mokevnin",
+      "url": "https://github.com/mokevnin"
     },
     {
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "url": "https://github.com/pbakaus"
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "url": "https://github.com/mvanhorn"
     },
     {
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "url": "https://github.com/colbymchenry"
+      "name": "Zachary Vorhies",
+      "username": "zackees",
+      "url": "https://github.com/zackees"
     },
     {
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "url": "https://github.com/garrytan"
+      "name": "Gathin",
+      "username": "Gathin23",
+      "url": "https://github.com/Gathin23"
     },
     {
-      "name": "ayangweb",
-      "username": "ayangweb",
-      "url": "https://github.com/ayangweb"
+      "name": "Krille-chan",
+      "username": "krille-chan",
+      "url": "https://github.com/krille-chan"
+    },
+    {
+      "name": "Richie McIlroy",
+      "username": "richiemcilroy",
+      "url": "https://github.com/richiemcilroy"
+    },
+    {
+      "name": "Dash",
+      "username": "dashhuang",
+      "url": "https://github.com/dashhuang"
+    },
+    {
+      "name": "ahmadrosid",
+      "username": "ahmadrosid",
+      "url": "https://github.com/ahmadrosid"
+    },
+    {
+      "name": "Илия",
+      "username": "777genius",
+      "url": "https://github.com/777genius"
     },
     {
       "name": "Shaw",
@@ -179,29 +114,34 @@
       "url": "https://github.com/lalalune"
     },
     {
-      "name": "Lan",
-      "username": "vastsa",
-      "url": "https://github.com/vastsa"
+      "name": "Tienson Qin",
+      "username": "tiensonqin",
+      "url": "https://github.com/tiensonqin"
     },
     {
-      "name": "Joey Orlando",
-      "username": "joeyorlando",
-      "url": "https://github.com/joeyorlando"
+      "name": "Crynta",
+      "username": "crynta",
+      "url": "https://github.com/crynta"
     },
     {
-      "name": "Tony Solomonik",
-      "username": "tontinton",
-      "url": "https://github.com/tontinton"
+      "name": "DaniPopes",
+      "username": "DaniPopes",
+      "url": "https://github.com/DaniPopes"
     },
     {
-      "name": "YHH",
-      "username": "esengine",
-      "url": "https://github.com/esengine"
+      "name": "Cole Murray",
+      "username": "ColeMurray",
+      "url": "https://github.com/ColeMurray"
     },
     {
-      "name": "Elie Habib",
-      "username": "koala73",
-      "url": "https://github.com/koala73"
+      "name": "ayangweb",
+      "username": "ayangweb",
+      "url": "https://github.com/ayangweb"
+    },
+    {
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "url": "https://github.com/garrytan"
     }
   ]
 }
