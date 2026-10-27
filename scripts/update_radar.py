@@ -189,8 +189,11 @@ def main():
     developers = collect_developers()
     if not developers:
         developers = old_repos.get("developers", [])
-    if not picks and not candidates:
-        print("WARN GitHub Trending was unavailable; retaining current repository cards")
+    if not picks:
+        print("WARN no unseen repository candidates; retaining current repository cards")
+        # Do not blank the dashboard when every current trending repository has
+        # already been featured. The saved history still prevents these cards
+        # from being recommended again in a new shortlist.
         picks = old_repos.get("items", [])
     save_json(DATA / "github-repositories.json", {"updated_at": NOW, "items": picks, "developers": developers})
     print(f"Updated {len(news_items)} news items, {len(picks)} fresh repositories and {len(developers)} developer profiles at {NOW}")
