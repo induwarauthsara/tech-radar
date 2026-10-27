@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:29:58Z",
+  "updated_at": "2026-10-27T13:46:00Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -54,6 +54,16 @@
     "https://github.com/wshobson/agents",
     "https://github.com/VectifyAI/PageIndex",
     "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "https://github.com/supabase/supabase"
+    "https://github.com/supabase/supabase",
+    "https://github.com/ahmadrosid/nakama",
+    "https://github.com/vastsa/PI-Desktop",
+    "https://github.com/777genius/agent-teams-ai",
+    "https://github.com/colbymchenry/codegraph",
+    "https://github.com/DeusData/codebase-memory-mcp",
+    "https://github.com/mokevnin/dev-quality-gates",
+    "https://github.com/tontinton/maki",
+    "https://github.com/zackees/transcribe-anything",
+    "https://github.com/enesozturk/dimensional-drawing",
+    "https://github.com/emilk/egui"
   ]
 }
