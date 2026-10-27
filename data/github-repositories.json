@@ -1,105 +1,65 @@
 {
-  "updated_at": "2026-10-27T13:46:00Z",
+  "updated_at": "2026-10-27T13:51:55Z",
   "items": [
     {
-      "name": "nakama",
-      "full_name": "ahmadrosid/nakama",
-      "description": "AI workspace for teams to share agents, skills and automations, with per-agent tools, memory, messaging integrations and role-based team access.",
-      "url": "https://github.com/ahmadrosid/nakama",
-      "language": "TypeScript",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 1
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "language": "Shell",
+      "stars_label": "305,988",
+      "period_stars": "608 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "PI-Desktop",
-      "full_name": "vastsa/PI-Desktop",
-      "description": "Local-first, modular desktop workspace for coding agents with project sessions, model choice, plugins, MCP integrations and parallel worker sessions.",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "language": "TypeScript",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 9
-    },
-    {
-      "name": "agent-teams-ai",
-      "full_name": "777genius/agent-teams-ai",
-      "description": "Desktop workspace for AI agent teams with a Kanban task board, agent-to-agent collaboration, reviews, task history and token/cost budgets.",
-      "url": "https://github.com/777genius/agent-teams-ai",
-      "language": "TypeScript",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 13
-    },
-    {
-      "name": "codegraph",
-      "full_name": "colbymchenry/codegraph",
-      "description": "Local semantic code knowledge graph for coding agents, with MCP integration and automatic graph updates as project files change.",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "language": "TypeScript",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 19
-    },
-    {
-      "name": "codebase-memory-mcp",
-      "full_name": "DeusData/codebase-memory-mcp",
-      "description": "Local MCP server that connects source code, documentation, configuration and infrastructure in a persistent graph for code navigation and change-impact analysis.",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "language": "C",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 21
-    },
-    {
-      "name": "dev-quality-gates",
-      "full_name": "mokevnin/dev-quality-gates",
-      "description": "Opinionated, curated recommendations for linters, formatters, CI checks and other tools that enforce software development standards.",
-      "url": "https://github.com/mokevnin/dev-quality-gates",
-      "language": "Markdown",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 20
-    },
-    {
-      "name": "maki",
-      "full_name": "tontinton/maki",
-      "description": "An efficient terminal-based AI coding agent with Lua plugins, tree-sitter code indexing and support for multiple model providers.",
-      "url": "https://github.com/tontinton/maki",
-      "language": "Rust",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 22
-    },
-    {
-      "name": "transcribe-anything",
-      "full_name": "zackees/transcribe-anything",
-      "description": "Cross-platform Whisper transcription CLI for local media or URLs, with isolated backends, subtitle output and optional speaker diarization.",
-      "url": "https://github.com/zackees/transcribe-anything",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "url": "https://github.com/HKUDS/DeepTutor",
       "language": "Python",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 17
+      "stars_label": "45,061",
+      "period_stars": "1,587 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "dimensional-drawing",
-      "full_name": "enesozturk/dimensional-drawing",
-      "description": "Agent skills that turn UI components into technical dimensional drawings showing layout geometry, spacing, radii and component layers; includes an optional animation workflow.",
-      "url": "https://github.com/enesozturk/dimensional-drawing",
-      "language": "HTML",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 12
+      "name": "jailbreaks",
+      "full_name": "togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "language": "",
+      "stars_label": "4,986",
+      "period_stars": "890 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "egui",
-      "full_name": "emilk/egui",
-      "description": "A portable immediate-mode GUI library written in Rust for native and web applications, with eframe support for Windows, macOS, Linux, Android and WebAssembly.",
-      "url": "https://github.com/emilk/egui",
-      "language": "Rust",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 14
+      "name": "fastapi",
+      "full_name": "fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "url": "https://github.com/fastapi/fastapi",
+      "language": "Python",
+      "stars_label": "104,261",
+      "period_stars": "1,066 stars this week",
+      "trend_period": "Weekly"
+    },
+    {
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "language": "Python",
+      "stars_label": "57,337",
+      "period_stars": "6,869 stars this month",
+      "trend_period": "Monthly"
+    },
+    {
+      "name": "flutter",
+      "full_name": "flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "url": "https://github.com/flutter/flutter",
+      "language": "Dart",
+      "stars_label": "180,402",
+      "period_stars": "1,863 stars this month",
+      "trend_period": "Monthly"
     }
   ],
   "developers": [
@@ -169,6 +129,11 @@
       "url": "https://github.com/777genius"
     },
     {
+      "name": "Eduard van Valkenburg",
+      "username": "eavanvalkenburg",
+      "url": "https://github.com/eavanvalkenburg"
+    },
+    {
       "name": "Emil Ernerfeldt",
       "username": "emilk",
       "url": "https://github.com/emilk"
@@ -197,31 +162,6 @@
       "name": "Colby Mchenry",
       "username": "colbymchenry",
       "url": "https://github.com/colbymchenry"
-    },
-    {
-      "name": "Kirill Mokevnin",
-      "username": "mokevnin",
-      "url": "https://github.com/mokevnin"
-    },
-    {
-      "name": "Martin Vogel",
-      "username": "DeusData",
-      "url": "https://github.com/DeusData"
-    },
-    {
-      "name": "Tony Solomonik",
-      "username": "tontinton",
-      "url": "https://github.com/tontinton"
-    },
-    {
-      "name": "Xinmin Zeng",
-      "username": "fancyboi999",
-      "url": "https://github.com/fancyboi999"
-    },
-    {
-      "name": "Pete Bacon Darwin",
-      "username": "petebacondarwin",
-      "url": "https://github.com/petebacondarwin"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:29:58Z",
+  "updated_at": "2026-10-27T13:51:55Z",
   "items": [
     {
       "title": "Reinforcement learning with prediction-based rewards",
@@ -101,19 +101,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "gpt-oss-safeguard technical report",
-      "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using…",
-      "description": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
-      "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
+      "title": "Introducing gpt-oss-safeguard",
+      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
       "source": "OpenAI News",
       "published": "Wed, 29 Oct 2025 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Introducing gpt-oss-safeguard",
-      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+      "title": "gpt-oss-safeguard technical report",
+      "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using…",
+      "description": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
+      "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
       "source": "OpenAI News",
       "published": "Wed, 29 Oct 2025 00:00:00 GMT",
       "category": "AI & Agents"
@@ -308,19 +308,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "url": "https://openai.com/index/election-safeguards-2026",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "url": "https://openai.com/index/warp",
+      "title": "Election information and safeguards in 2026",
+      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "url": "https://openai.com/index/election-safeguards-2026",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
@@ -389,19 +389,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI News",
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI News",
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "category": "AI & Agents"
@@ -434,19 +434,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Adversarial training methods for semi-supervised text classification",
-      "summary": "Open the original source for the full announcement and technical details.",
-      "description": "",
-      "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
+      "title": "Team update",
+      "summary": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
+      "description": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
+      "url": "https://openai.com/index/team-update",
       "source": "OpenAI News",
       "published": "Wed, 25 May 2016 07:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Team update",
-      "summary": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
-      "description": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
-      "url": "https://openai.com/index/team-update",
+      "title": "Adversarial training methods for semi-supervised text classification",
+      "summary": "Open the original source for the full announcement and technical details.",
+      "description": "",
+      "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
       "source": "OpenAI News",
       "published": "Wed, 25 May 2016 07:00:00 GMT",
       "category": "AI & Agents"
@@ -551,15 +551,6 @@
       "category": "Technology"
     },
     {
-      "title": "Introducing ChatGPT and Whisper APIs",
-      "summary": "Open the original source for the full announcement and technical details.",
-      "description": "",
-      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
-      "source": "OpenAI News",
-      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
-      "category": "Technology"
-    },
-    {
       "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
       "summary": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
       "description": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
@@ -567,6 +558,15 @@
       "source": "OpenAI News",
       "published": "Wed, 24 Apr 2024 00:00:00 GMT",
       "category": "AI & Agents"
+    },
+    {
+      "title": "Introducing ChatGPT and Whisper APIs",
+      "summary": "Open the original source for the full announcement and technical details.",
+      "description": "",
+      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+      "source": "OpenAI News",
+      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
+      "category": "Technology"
     },
     {
       "title": "AWS CRT for JavaScript and AWS IoT Device SDK for JavaScript v2 align with the Node.js release schedule",
@@ -596,24 +596,6 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI News",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "AI & Agents"
-    },
-    {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI News",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "AI & Agents"
-    },
-    {
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
       "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
@@ -623,6 +605,15 @@
       "category": "Developer Tools"
     },
     {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
       "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
@@ -630,6 +621,15 @@
       "source": "OpenAI News",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
       "category": "Technology"
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "AI & Agents"
     },
     {
       "title": "Introducing MentalHealthBench",
