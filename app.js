@@ -11,7 +11,7 @@ function renderNews() {
 }
 function renderRepos() {
   const items = state.repos.filter(item => JSON.stringify(item).toLowerCase().includes(state.query.toLowerCase()));
-  $("repos-view").innerHTML = items.length ? items.map((r,i) => `<article class="repo-card"><div class="card-top"><span class="tag">${esc(r.trend_period || "Trending")}</span><span class="repo-owner">#${String(i+1).padStart(2,"0")}</span></div><h3>${esc(r.full_name || r.name || "GitHub repository")}</h3><p class="description">${esc(r.description || "No description provided. Visit the repository to explore its code and documentation.")}</p><div class="repo-stats"><span>★ ${esc(r.stars_label || "Stars on GitHub")}</span><span>${esc(r.language || "Open source")}</span></div><div class="card-bottom"><span class="source">${esc(r.language || "Repository")}</span><a class="open-link" href="${esc(safeUrl(r.url))}" target="_blank" rel="noreferrer">Explore ↗</a></div></article>`).join("") : '<div class="empty">No repositories match your search. New repositories are collected daily.</div>';
+  $("repos-view").innerHTML = items.length ? items.map((r,i) => `<article class="repo-card"><div class="card-top"><span class="tag">${esc(r.trend_period || "Trending")}</span><span class="repo-owner">#${String(i+1).padStart(2,"0")}</span></div><h3>${esc(r.full_name || r.name || "GitHub repository")}</h3><p class="description">${esc(r.description || "No description provided. Visit the repository to explore its code and documentation.")}</p><div class="repo-stats"><span>${r.discovery_source ? esc(r.discovery_source) : "★ " + esc(r.stars_label || "Stars on GitHub")}</span><span>${esc(r.language || "Open source")}</span></div><div class="card-bottom"><span class="source">${esc(r.language || "Repository")}</span><a class="open-link" href="${esc(safeUrl(r.url))}" target="_blank" rel="noreferrer">Explore ↗</a></div></article>`).join("") : '<div class="empty">No repositories match your search. New repositories are collected daily.</div>';
   $("status").textContent = `${items.length} distinct repository pick${items.length===1?"":"s"} · repeats are excluded using saved history`;
 }
 function renderDevelopers() {
@@ -30,7 +30,7 @@ function updateFilters() {
   document.querySelectorAll(".tab").forEach(tab => tab.classList.toggle("active",tab.dataset.view===state.view));
   $("section-kicker").textContent = isNews ? "THE LATEST" : state.view === "repos" ? "OPEN SOURCE RADAR" : "PEOPLE TO FOLLOW";
   $("section-title").textContent = isNews ? "Technology signals" : state.view === "repos" ? "Repositories worth exploring" : "Developers on the rise";
-  $("section-description").textContent = isNews ? "Recent stories from public feeds and engineering blogs." : state.view === "repos" ? "Fresh picks from GitHub Trending, with previously featured repositories excluded." : "Profiles appearing on GitHub's public trending developers page.";
+  $("section-description").textContent = isNews ? "Recent stories from public feeds and engineering blogs." : state.view === "repos" ? "Fresh picks from GitHub Trending and Trending Developers profile leads, with previously featured repositories excluded." : "Profiles appearing on GitHub's public trending developers page.";
   if (isNews) renderNews(); else if (state.view === "repos") renderRepos(); else renderDevelopers();
 }
 document.querySelectorAll(".tab").forEach(tab => tab.addEventListener("click", () => { state.view = tab.dataset.view; state.query = ""; $("search").value = ""; updateFilters(); }));
