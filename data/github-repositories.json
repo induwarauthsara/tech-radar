@@ -1,65 +1,101 @@
 {
-  "updated_at": "2026-10-27T13:53:10Z",
+  "updated_at": "2026-10-27T13:55:00Z",
   "items": [
     {
       "name": "superpowers",
       "full_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
+      "description": "A composable skills framework and development methodology for coding agents, guiding work through problem clarification, planning, implementation and review.",
       "url": "https://github.com/obra/superpowers",
-      "language": "Shell",
-      "stars_label": "305,988",
-      "period_stars": "608 stars today",
-      "trend_period": "Daily"
+      "language": "Markdown",
+      "trend_period": "Daily",
+      "discovery_source": "GitHub Trending · daily"
     },
     {
       "name": "DeepTutor",
       "full_name": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "description": "An agent-native personalized learning assistant with document-based knowledge, guided learning, question generation, research and persistent tutoring context.",
       "url": "https://github.com/HKUDS/DeepTutor",
-      "language": "Python",
-      "stars_label": "45,061",
-      "period_stars": "1,587 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "jailbreaks",
-      "full_name": "togg53192-cmd/jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "language": "",
-      "stars_label": "4,986",
-      "period_stars": "890 stars today",
-      "trend_period": "Daily"
+      "language": "Python · TypeScript",
+      "trend_period": "Daily",
+      "discovery_source": "GitHub Trending · daily"
     },
     {
       "name": "fastapi",
       "full_name": "fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "description": "A Python API framework built around type hints, request validation and automatically generated OpenAPI documentation.",
       "url": "https://github.com/fastapi/fastapi",
       "language": "Python",
-      "stars_label": "104,261",
-      "period_stars": "1,066 stars this week",
-      "trend_period": "Weekly"
+      "trend_period": "Weekly",
+      "discovery_source": "GitHub Trending · weekly"
     },
     {
       "name": "CLI-Anything",
       "full_name": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description": "A framework and CLI hub for making software agent-native by providing command-line harnesses that AI agents can inspect and operate.",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "language": "Python",
-      "stars_label": "57,337",
-      "period_stars": "6,869 stars this month",
-      "trend_period": "Monthly"
+      "trend_period": "Monthly",
+      "discovery_source": "GitHub Trending · monthly"
     },
     {
-      "name": "flutter",
-      "full_name": "flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "url": "https://github.com/flutter/flutter",
-      "language": "Dart",
-      "stars_label": "180,402",
-      "period_stars": "1,863 stars this month",
-      "trend_period": "Monthly"
+      "name": "PI-Desktop",
+      "full_name": "vastsa/PI-Desktop",
+      "description": "A local-first desktop workspace for coding agents with model-provider choice, plugins, MCP integrations and persistent project sessions.",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "language": "TypeScript",
+      "trend_period": "Trending Developers lead",
+      "discovery_source": "Trending Developers profile",
+      "profile_rank": 9
+    },
+    {
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "description": "A local semantic code knowledge graph for coding agents, with MCP integration and automatic graph updates as project files change.",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "language": "TypeScript",
+      "trend_period": "Trending Developers lead",
+      "discovery_source": "Trending Developers profile",
+      "profile_rank": 19
+    },
+    {
+      "name": "dev-quality-gates",
+      "full_name": "mokevnin/dev-quality-gates",
+      "description": "An opinionated, curated guide to linters, formatters, CI checks and tools that enforce software development standards.",
+      "url": "https://github.com/mokevnin/dev-quality-gates",
+      "language": "Markdown",
+      "trend_period": "Trending Developers lead",
+      "discovery_source": "Trending Developers profile",
+      "profile_rank": 20
+    },
+    {
+      "name": "maki",
+      "full_name": "tontinton/maki",
+      "description": "A terminal-based AI coding agent extensible through Lua plugins, with tree-sitter code indexing and support for multiple model providers.",
+      "url": "https://github.com/tontinton/maki",
+      "language": "Rust",
+      "trend_period": "Trending Developers lead",
+      "discovery_source": "Trending Developers profile",
+      "profile_rank": 22
+    },
+    {
+      "name": "transcribe-anything",
+      "full_name": "zackees/transcribe-anything",
+      "description": "A Whisper-based transcription CLI for local media or URLs, with CPU/GPU backends, subtitle output and optional speaker diarization.",
+      "url": "https://github.com/zackees/transcribe-anything",
+      "language": "Python",
+      "trend_period": "Trending Developers lead",
+      "discovery_source": "Trending Developers profile",
+      "profile_rank": 17
+    },
+    {
+      "name": "dimensional-drawing",
+      "full_name": "enesozturk/dimensional-drawing",
+      "description": "Agent skills for creating technical dimensional drawings of UI components, showing layout geometry, spacing, radii and layers without inventing unknown values.",
+      "url": "https://github.com/enesozturk/dimensional-drawing",
+      "language": "HTML",
+      "trend_period": "Trending Developers lead",
+      "discovery_source": "Trending Developers profile",
+      "profile_rank": 12
     }
   ],
   "developers": [
