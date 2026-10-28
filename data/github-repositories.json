@@ -1,101 +1,85 @@
 {
-  "updated_at": "2026-10-27T18:51:39Z",
+  "updated_at": "2026-10-28T18:59:31Z",
   "items": [
     {
-      "name": "superpowers",
-      "full_name": "obra/superpowers",
-      "description": "A composable skills framework and development methodology for coding agents, guiding work through problem clarification, planning, implementation and review.",
-      "url": "https://github.com/obra/superpowers",
-      "language": "Markdown",
-      "trend_period": "Daily",
-      "discovery_source": "GitHub Trending · daily"
+      "name": "ai-design-skills",
+      "full_name": "elayadesign/ai-design-skills",
+      "description": "",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "language": "",
+      "stars_label": "10,930",
+      "period_stars": "1,395 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "DeepTutor",
-      "full_name": "HKUDS/DeepTutor",
-      "description": "An agent-native personalized learning assistant with document-based knowledge, guided learning, question generation, research and persistent tutoring context.",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "language": "Python · TypeScript",
-      "trend_period": "Daily",
-      "discovery_source": "GitHub Trending · daily"
-    },
-    {
-      "name": "fastapi",
-      "full_name": "fastapi/fastapi",
-      "description": "A Python API framework built around type hints, request validation and automatically generated OpenAPI documentation.",
-      "url": "https://github.com/fastapi/fastapi",
-      "language": "Python",
-      "trend_period": "Weekly",
-      "discovery_source": "GitHub Trending · weekly"
-    },
-    {
-      "name": "CLI-Anything",
-      "full_name": "HKUDS/CLI-Anything",
-      "description": "A framework and CLI hub for making software agent-native by providing command-line harnesses that AI agents can inspect and operate.",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "language": "Python",
-      "trend_period": "Monthly",
-      "discovery_source": "GitHub Trending · monthly"
-    },
-    {
-      "name": "PI-Desktop",
-      "full_name": "vastsa/PI-Desktop",
-      "description": "A local-first desktop workspace for coding agents with model-provider choice, plugins, MCP integrations and persistent project sessions.",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "language": "TypeScript",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 9
-    },
-    {
-      "name": "codegraph",
-      "full_name": "colbymchenry/codegraph",
-      "description": "A local semantic code knowledge graph for coding agents, with MCP integration and automatic graph updates as project files change.",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "language": "TypeScript",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 19
-    },
-    {
-      "name": "dev-quality-gates",
-      "full_name": "mokevnin/dev-quality-gates",
-      "description": "An opinionated, curated guide to linters, formatters, CI checks and tools that enforce software development standards.",
-      "url": "https://github.com/mokevnin/dev-quality-gates",
-      "language": "Markdown",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 20
-    },
-    {
-      "name": "maki",
-      "full_name": "tontinton/maki",
-      "description": "A terminal-based AI coding agent extensible through Lua plugins, with tree-sitter code indexing and support for multiple model providers.",
-      "url": "https://github.com/tontinton/maki",
+      "name": "macro",
+      "full_name": "macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "url": "https://github.com/macro-inc/macro",
       "language": "Rust",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 22
+      "stars_label": "5,312",
+      "period_stars": "106 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "transcribe-anything",
-      "full_name": "zackees/transcribe-anything",
-      "description": "A Whisper-based transcription CLI for local media or URLs, with CPU/GPU backends, subtitle output and optional speaker diarization.",
-      "url": "https://github.com/zackees/transcribe-anything",
-      "language": "Python",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 17
+      "name": "LinkSwift",
+      "full_name": "hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "language": "JavaScript",
+      "stars_label": "34,237",
+      "period_stars": "3,209 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "dimensional-drawing",
-      "full_name": "enesozturk/dimensional-drawing",
-      "description": "Agent skills for creating technical dimensional drawings of UI components, showing layout geometry, spacing, radii and layers without inventing unknown values.",
-      "url": "https://github.com/enesozturk/dimensional-drawing",
-      "language": "HTML",
-      "trend_period": "Trending Developers lead",
-      "discovery_source": "Trending Developers profile",
-      "profile_rank": 12
+      "name": "skills",
+      "full_name": "expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "url": "https://github.com/expo/skills",
+      "language": "Shell",
+      "stars_label": "3,488",
+      "period_stars": "212 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "url": "https://github.com/ruvnet/RuView",
+      "language": "Rust",
+      "stars_label": "100,842",
+      "period_stars": "596 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "the-craft-of-selfteaching",
+      "full_name": "xiaolai/the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "language": "Jupyter Notebook",
+      "stars_label": "18,425",
+      "period_stars": "143 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "taste-skill",
+      "full_name": "Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "language": "JavaScript",
+      "stars_label": "104,254",
+      "period_stars": "3,941 stars this week",
+      "trend_period": "Weekly"
+    },
+    {
+      "name": "skills",
+      "full_name": "jakubkrehel/skills",
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "url": "https://github.com/jakubkrehel/skills",
+      "language": "Markdown",
+      "stars_label": "8,929",
+      "period_stars": "746 stars this week",
+      "trend_period": "Weekly"
     }
   ],
   "developers": [
@@ -105,14 +89,9 @@
       "url": "https://github.com/ahmadrosid"
     },
     {
-      "name": "Shaw",
-      "username": "lalalune",
-      "url": "https://github.com/lalalune"
-    },
-    {
-      "name": "Georgios Konstantopoulos",
-      "username": "gakonst",
-      "url": "https://github.com/gakonst"
+      "name": "Derek Ross",
+      "username": "derekross",
+      "url": "https://github.com/derekross"
     },
     {
       "name": "Thomas Marchand",
@@ -120,49 +99,19 @@
       "url": "https://github.com/Th0rgal"
     },
     {
+      "name": "Maurice Heumann",
+      "username": "momo5502",
+      "url": "https://github.com/momo5502"
+    },
+    {
+      "name": "Shaw",
+      "username": "lalalune",
+      "url": "https://github.com/lalalune"
+    },
+    {
       "name": "Krille-chan",
       "username": "krille-chan",
       "url": "https://github.com/krille-chan"
-    },
-    {
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "url": "https://github.com/max-sixty"
-    },
-    {
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "url": "https://github.com/backnotprop"
-    },
-    {
-      "name": "Matt Van Horn",
-      "username": "mvanhorn",
-      "url": "https://github.com/mvanhorn"
-    },
-    {
-      "name": "Lan",
-      "username": "vastsa",
-      "url": "https://github.com/vastsa"
-    },
-    {
-      "name": "brooklyn!",
-      "username": "OutThisLife",
-      "url": "https://github.com/OutThisLife"
-    },
-    {
-      "name": "Jarrod Watts",
-      "username": "jarrodwatts",
-      "url": "https://github.com/jarrodwatts"
-    },
-    {
-      "name": "Enes",
-      "username": "enesozturk",
-      "url": "https://github.com/enesozturk"
-    },
-    {
-      "name": "Илия",
-      "username": "777genius",
-      "url": "https://github.com/777genius"
     },
     {
       "name": "Eduard van Valkenburg",
@@ -170,34 +119,69 @@
       "url": "https://github.com/eavanvalkenburg"
     },
     {
-      "name": "Emil Ernerfeldt",
-      "username": "emilk",
-      "url": "https://github.com/emilk"
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "url": "https://github.com/max-sixty"
     },
     {
-      "name": "Timothy Carambat",
-      "username": "timothycarambat",
-      "url": "https://github.com/timothycarambat"
+      "name": "Mattt",
+      "username": "mattt",
+      "url": "https://github.com/mattt"
     },
     {
-      "name": "Akshay Deo",
-      "username": "akshaydeo",
-      "url": "https://github.com/akshaydeo"
+      "name": "Yann Collet",
+      "username": "Cyan4973",
+      "url": "https://github.com/Cyan4973"
     },
     {
-      "name": "Zachary Vorhies",
-      "username": "zackees",
-      "url": "https://github.com/zackees"
+      "name": "Georgios Konstantopoulos",
+      "username": "gakonst",
+      "url": "https://github.com/gakonst"
     },
     {
-      "name": "Alex Waygood",
-      "username": "AlexWaygood",
-      "url": "https://github.com/AlexWaygood"
+      "name": "Charlie Marsh",
+      "username": "charliermarsh",
+      "url": "https://github.com/charliermarsh"
     },
     {
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "url": "https://github.com/colbymchenry"
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "url": "https://github.com/backnotprop"
+    },
+    {
+      "name": "Duc",
+      "username": "vanducng",
+      "url": "https://github.com/vanducng"
+    },
+    {
+      "name": "sam",
+      "username": "sam-goodwin",
+      "url": "https://github.com/sam-goodwin"
+    },
+    {
+      "name": "yetone",
+      "username": "yetone",
+      "url": "https://github.com/yetone"
+    },
+    {
+      "name": "brooklyn!",
+      "username": "OutThisLife",
+      "url": "https://github.com/OutThisLife"
+    },
+    {
+      "name": "Dash",
+      "username": "dashhuang",
+      "url": "https://github.com/dashhuang"
+    },
+    {
+      "name": "Babak K. Shandiz",
+      "username": "babakks",
+      "url": "https://github.com/babakks"
+    },
+    {
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "url": "https://github.com/elie222"
     }
   ]
 }
