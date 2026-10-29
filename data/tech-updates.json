@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T18:59:31Z",
+  "updated_at": "2026-10-29T19:07:06Z",
   "items": [
     {
       "title": "Reinforcement learning with prediction-based rewards",
@@ -236,6 +236,33 @@
       "category": "AI & Agents"
     },
     {
+      "title": "The first wired XR glasses powered by Android XR",
+      "summary": "Comments",
+      "description": "Comments",
+      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "source": "Hacker News",
+      "published": "Wed, 28 Oct 2026 23:45:19 +0000",
+      "category": "Technology"
+    },
+    {
+      "title": "The case of the 9 bit AES key",
+      "summary": "Comments",
+      "description": "Comments",
+      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "source": "Hacker News",
+      "published": "Wed, 28 Oct 2026 20:51:44 +0000",
+      "category": "Technology"
+    },
+    {
+      "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
+      "summary": "Comments",
+      "description": "Comments",
+      "url": "https://github.com/theconsensuslabs/noalloc",
+      "source": "Hacker News",
+      "published": "Wed, 28 Oct 2026 18:29:25 +0000",
+      "category": "Technology"
+    },
+    {
       "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
       "summary": "Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview. The post Introducing the Microsoft Copilot harness in Foundry Agent Service appeared first on Microsoft Azure Blog .",
       "description": "Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview. The post Introducing the Microsoft Copilot harness in Foundry Agent Service appeared first on Microsoft Azure Blog .",
@@ -243,51 +270,6 @@
       "source": "Microsoft Azure Blog",
       "published": "Wed, 28 Oct 2026 17:40:56 +0000",
       "category": "AI & Agents"
-    },
-    {
-      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 17:13:29 +0000",
-      "category": "Technology"
-    },
-    {
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 17:10:37 +0000",
-      "category": "Technology"
-    },
-    {
-      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://slidebyside.com/",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 17:07:09 +0000",
-      "category": "Developer Tools"
-    },
-    {
-      "title": "Gemini 4 Carbon",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 17:01:23 +0000",
-      "category": "AI & Agents"
-    },
-    {
-      "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://www.runconverge.com/careers/founding-platform-engineer",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 17:00:24 +0000",
-      "category": "Technology"
     },
     {
       "title": "Publish Visual Studio Marketplace extensions securely with Trusted Publishing",
@@ -317,94 +299,13 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 15:46:30 +0000",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "description": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI News",
+      "published": "Wed, 28 Oct 2026 13:15:00 GMT",
       "category": "AI & Agents"
-    },
-    {
-      "title": "Archive.today links going forward",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 15:31:58 +0000",
-      "category": "Technology"
-    },
-    {
-      "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 15:17:53 +0000",
-      "category": "Technology"
-    },
-    {
-      "title": "CNC Stone Carving",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 14:38:22 +0000",
-      "category": "Technology"
-    },
-    {
-      "title": "AlpineBSD",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://wiki.alpinebsd.org",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 14:30:26 +0000",
-      "category": "Technology"
-    },
-    {
-      "title": "The Agent SDK",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://cursor.com/blog/agent-sdk",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 14:02:20 +0000",
-      "category": "AI & Agents"
-    },
-    {
-      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 13:41:30 +0000",
-      "category": "AI & Agents"
-    },
-    {
-      "title": "Emacs Turns 50",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 13:25:11 +0000",
-      "category": "Technology"
-    },
-    {
-      "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 11:54:23 +0000",
-      "category": "Technology"
-    },
-    {
-      "title": "Apple's git still trusts the compromised eMudhra certificates",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 11:03:40 +0000",
-      "category": "Technology"
     },
     {
       "title": "The future of the firm",
@@ -423,24 +324,6 @@
       "source": "OpenAI News",
       "published": "Wed, 28 Oct 2026 09:30:00 GMT",
       "category": "AI & Agents"
-    },
-    {
-      "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://arxiv.org/abs/2610.36341",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 02:01:51 +0000",
-      "category": "Technology"
-    },
-    {
-      "title": "Git for the US Code",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://lexifina.com/blog/git-for-the-us-code",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 01:47:50 +0000",
-      "category": "Developer Tools"
     },
     {
       "title": "Introducing OpenAI London",
@@ -515,19 +398,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "url": "https://openai.com/index/warp",
+      "title": "Election information and safeguards in 2026",
+      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "url": "https://openai.com/index/election-safeguards-2026",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "url": "https://openai.com/index/election-safeguards-2026",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
@@ -596,19 +479,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI News",
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI News",
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "category": "AI & Agents"
@@ -758,15 +641,6 @@
       "category": "Technology"
     },
     {
-      "title": "Introducing ChatGPT and Whisper APIs",
-      "summary": "Open the original source for the full announcement and technical details.",
-      "description": "",
-      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
-      "source": "OpenAI News",
-      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
-      "category": "Technology"
-    },
-    {
       "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
       "summary": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
       "description": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
@@ -774,6 +648,15 @@
       "source": "OpenAI News",
       "published": "Wed, 24 Apr 2024 00:00:00 GMT",
       "category": "AI & Agents"
+    },
+    {
+      "title": "Introducing ChatGPT and Whisper APIs",
+      "summary": "Open the original source for the full announcement and technical details.",
+      "description": "",
+      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+      "source": "OpenAI News",
+      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
+      "category": "Technology"
     },
     {
       "title": "AWS CRT for JavaScript and AWS IoT Device SDK for JavaScript v2 align with the Node.js release schedule",
@@ -810,6 +693,123 @@
       "source": "OpenAI News",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
       "category": "Technology"
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "Developer Tools"
+    },
+    {
+      "title": "Introducing MentalHealthBench",
+      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "description": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 10:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "description": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 02:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "description": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 01:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "description": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "Simplifying, stabilizing, and scaling continuous-time consistency models",
+      "summary": "We’ve simplified, stabilized, and scaled continuous-time consistency models, achieving comparable sample quality to leading diffusion models, while using only two sampling steps.",
+      "description": "We’ve simplified, stabilized, and scaled continuous-time consistency models, achieving comparable sample quality to leading diffusion models, while using only two sampling steps.",
+      "url": "https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Oct 2024 10:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "Announcing OpenAI DevDay 2025",
+      "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
+      "description": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
+      "url": "https://openai.com/index/announcing-devday-2025",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Jul 2025 00:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "Model ML is helping financial firms rebuild with AI from the ground up",
+      "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "description": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "url": "https://openai.com/index/model-ml-chaz-englander",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Jul 2025 00:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "Introducing our latest image generation model in the API",
+      "summary": "Our latest image generation model is now available in the API via ‘gpt-image-1’—enabling developers and businesses to build professional-grade, customizable visuals directly into their own tools and platforms.",
+      "description": "Our latest image generation model is now available in the API via ‘gpt-image-1’—enabling developers and businesses to build professional-grade, customizable visuals directly into their own tools and platforms.",
+      "url": "https://openai.com/index/image-generation-api",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Apr 2025 10:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "The next chapter for UK sovereign AI",
+      "summary": "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI adoption.",
+      "description": "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI adoption.",
+      "url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai",
+      "source": "OpenAI News",
+      "published": "Wed, 22 Oct 2025 16:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
+      "summary": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
+      "description": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
+      "url": "https://openai.com/index/japan-economic-blueprint",
+      "source": "OpenAI News",
+      "published": "Wed, 22 Oct 2025 00:00:00 GMT",
+      "category": "AI & Agents"
     }
   ]
 }
