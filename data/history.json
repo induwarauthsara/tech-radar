@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T19:07:06Z",
+  "updated_at": "2026-10-30T18:45:01Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -82,6 +82,11 @@
     "https://github.com/milind-soni/OpenMausBot",
     "https://github.com/CopilotKit/OpenBot",
     "https://github.com/Donchitos/Claude-Code-Game-Studios",
-    "https://github.com/php/php-src"
+    "https://github.com/php/php-src",
+    "https://github.com/mattpocock/skills",
+    "https://github.com/anthropics/skills",
+    "https://github.com/lightpanda-io/browser",
+    "https://github.com/mvschwarz/openrig",
+    "https://github.com/vercel-labs/skills"
   ]
 }

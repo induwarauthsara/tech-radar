@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-10-29T19:07:06Z",
+  "updated_at": "2026-10-30T18:45:01Z",
   "items": [
     {
-      "name": "OpenMausBot",
-      "full_name": "milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "language": "TypeScript",
-      "stars_label": "7,317",
-      "period_stars": "1,190 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "OpenBot",
-      "full_name": "CopilotKit/OpenBot",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "language": "TypeScript",
-      "stars_label": "7,994",
-      "period_stars": "240 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "Claude-Code-Game-Studios",
-      "full_name": "Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
       "language": "Shell",
-      "stars_label": "28,971",
-      "period_stars": "538 stars today",
+      "stars_label": "307,309",
+      "period_stars": "882 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "php-src",
-      "full_name": "php/php-src",
-      "description": "The PHP Interpreter",
-      "url": "https://github.com/php/php-src",
-      "language": "C",
-      "stars_label": "41,716",
-      "period_stars": "1,201 stars this week",
-      "trend_period": "Weekly"
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills",
+      "language": "Python",
+      "stars_label": "185,146",
+      "period_stars": "287 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "browser",
+      "full_name": "lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "url": "https://github.com/lightpanda-io/browser",
+      "language": "Zig",
+      "stars_label": "38,157",
+      "period_stars": "559 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "url": "https://github.com/mvschwarz/openrig",
+      "language": "TypeScript",
+      "stars_label": "8,347",
+      "period_stars": "5,720 stars this month",
+      "trend_period": "Monthly"
+    },
+    {
+      "name": "skills",
+      "full_name": "vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "language": "TypeScript",
+      "stars_label": "37,258",
+      "period_stars": "4,512 stars this month",
+      "trend_period": "Monthly"
     }
   ],
   "developers": [
     {
-      "name": "Shaw",
-      "username": "lalalune",
-      "url": "https://github.com/lalalune"
-    },
-    {
-      "name": "morluto",
-      "username": "morluto",
-      "url": "https://github.com/morluto"
-    },
-    {
-      "name": "Lan",
-      "username": "vastsa",
-      "url": "https://github.com/vastsa"
-    },
-    {
       "name": "lauren",
       "username": "poteto",
       "url": "https://github.com/poteto"
+    },
+    {
+      "name": "mxsm",
+      "username": "mxsm",
+      "url": "https://github.com/mxsm"
     },
     {
       "name": "ahmadrosid",
@@ -69,24 +69,29 @@
       "url": "https://github.com/ahmadrosid"
     },
     {
+      "name": "Marcus Quinn",
+      "username": "marcusquinn",
+      "url": "https://github.com/marcusquinn"
+    },
+    {
+      "name": "Mitchell Hashimoto",
+      "username": "mitchellh",
+      "url": "https://github.com/mitchellh"
+    },
+    {
+      "name": "Christian Byrne",
+      "username": "christian-byrne",
+      "url": "https://github.com/christian-byrne"
+    },
+    {
+      "name": "Ben Brandt",
+      "username": "benbrandt",
+      "url": "https://github.com/benbrandt"
+    },
+    {
       "name": "Vincenzo Fornaro",
       "username": "JustVugg",
       "url": "https://github.com/JustVugg"
-    },
-    {
-      "name": "shiaho",
-      "username": "shiaho777",
-      "url": "https://github.com/shiaho777"
-    },
-    {
-      "name": "Thomas Marchand",
-      "username": "Th0rgal",
-      "url": "https://github.com/Th0rgal"
-    },
-    {
-      "name": "Jerel Velarde",
-      "username": "jerelvelarde",
-      "url": "https://github.com/jerelvelarde"
     },
     {
       "name": "Jim Manico",
@@ -94,54 +99,59 @@
       "url": "https://github.com/jmanico"
     },
     {
-      "name": "Krille-chan",
-      "username": "krille-chan",
-      "url": "https://github.com/krille-chan"
-    },
-    {
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "url": "https://github.com/backnotprop"
-    },
-    {
       "name": "Yann Collet",
       "username": "Cyan4973",
       "url": "https://github.com/Cyan4973"
     },
     {
-      "name": "Maurice Heumann",
-      "username": "momo5502",
-      "url": "https://github.com/momo5502"
+      "name": "Dax",
+      "username": "thdxr",
+      "url": "https://github.com/thdxr"
     },
     {
-      "name": "Derek Ross",
-      "username": "derekross",
-      "url": "https://github.com/derekross"
+      "name": "Lan",
+      "username": "vastsa",
+      "url": "https://github.com/vastsa"
     },
     {
-      "name": "Timothy Carambat",
-      "username": "timothycarambat",
-      "url": "https://github.com/timothycarambat"
+      "name": "Randall Hand",
+      "username": "Yeraze",
+      "url": "https://github.com/Yeraze"
     },
     {
-      "name": "wszqkzqk",
-      "username": "wszqkzqk",
-      "url": "https://github.com/wszqkzqk"
+      "name": "Cliff Hall",
+      "username": "cliffhall",
+      "url": "https://github.com/cliffhall"
     },
     {
-      "name": "chengyongru",
-      "username": "chengyongru",
-      "url": "https://github.com/chengyongru"
+      "name": "DeepCold",
+      "username": "deepcoldy",
+      "url": "https://github.com/deepcoldy"
     },
     {
-      "name": "yetone",
-      "username": "yetone",
-      "url": "https://github.com/yetone"
+      "name": "Shaw",
+      "username": "lalalune",
+      "url": "https://github.com/lalalune"
     },
     {
       "name": "YeonGyu-Kim",
       "username": "code-yeongyu",
       "url": "https://github.com/code-yeongyu"
+    },
+    {
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "url": "https://github.com/pbakaus"
+    },
+    {
+      "name": "Fabien Penso",
+      "username": "penso",
+      "url": "https://github.com/penso"
+    },
+    {
+      "name": "mlightcad",
+      "username": "mlightcad",
+      "url": "https://github.com/mlightcad"
     }
   ]
 }
