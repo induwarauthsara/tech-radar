@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T18:45:01Z",
+  "updated_at": "2026-10-31T17:52:02Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -87,6 +87,12 @@
     "https://github.com/anthropics/skills",
     "https://github.com/lightpanda-io/browser",
     "https://github.com/mvschwarz/openrig",
-    "https://github.com/vercel-labs/skills"
+    "https://github.com/vercel-labs/skills",
+    "https://github.com/Orkas-AI/Orkas",
+    "https://github.com/THU-MAIC/OpenMAIC",
+    "https://github.com/bregman-arie/devops-exercises",
+    "https://github.com/vorssaint/vorssaint-utils",
+    "https://github.com/YuJunZhiXue/dsh-purge",
+    "https://github.com/AstrBotDevs/AstrBot"
   ]
 }

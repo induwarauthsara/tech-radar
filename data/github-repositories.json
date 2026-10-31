@@ -1,127 +1,72 @@
 {
-  "updated_at": "2026-10-30T18:45:01Z",
+  "updated_at": "2026-10-31T17:52:02Z",
   "items": [
     {
-      "name": "skills",
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills",
-      "language": "Shell",
-      "stars_label": "307,309",
-      "period_stars": "882 stars today",
+      "name": "Orkas",
+      "full_name": "Orkas-AI/Orkas",
+      "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "language": "JavaScript",
+      "stars_label": "6,006",
+      "period_stars": "1,118 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "skills",
-      "full_name": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "url": "https://github.com/anthropics/skills",
+      "name": "OpenMAIC",
+      "full_name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "language": "TypeScript",
+      "stars_label": "42,101",
+      "period_stars": "115 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "devops-exercises",
+      "full_name": "bregman-arie/devops-exercises",
+      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+      "url": "https://github.com/bregman-arie/devops-exercises",
       "language": "Python",
-      "stars_label": "185,146",
-      "period_stars": "287 stars today",
+      "stars_label": "85,769",
+      "period_stars": "341 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "browser",
-      "full_name": "lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "url": "https://github.com/lightpanda-io/browser",
-      "language": "Zig",
-      "stars_label": "38,157",
-      "period_stars": "559 stars today",
+      "name": "vorssaint-utils",
+      "full_name": "vorssaint/vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "language": "Swift",
+      "stars_label": "31,739",
+      "period_stars": "499 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "openrig",
-      "full_name": "mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "url": "https://github.com/mvschwarz/openrig",
-      "language": "TypeScript",
-      "stars_label": "8,347",
-      "period_stars": "5,720 stars this month",
-      "trend_period": "Monthly"
+      "name": "dsh-purge",
+      "full_name": "YuJunZhiXue/dsh-purge",
+      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "url": "https://github.com/YuJunZhiXue/dsh-purge",
+      "language": "JavaScript",
+      "stars_label": "14,488",
+      "period_stars": "6,665 stars this week",
+      "trend_period": "Weekly"
     },
     {
-      "name": "skills",
-      "full_name": "vercel-labs/skills",
-      "description": "The open agent skills tool - npx skills",
-      "url": "https://github.com/vercel-labs/skills",
-      "language": "TypeScript",
-      "stars_label": "37,258",
-      "period_stars": "4,512 stars this month",
-      "trend_period": "Monthly"
+      "name": "AstrBot",
+      "full_name": "AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "language": "Python",
+      "stars_label": "45,294",
+      "period_stars": "2,133 stars this week",
+      "trend_period": "Weekly"
     }
   ],
   "developers": [
     {
-      "name": "lauren",
-      "username": "poteto",
-      "url": "https://github.com/poteto"
-    },
-    {
-      "name": "mxsm",
-      "username": "mxsm",
-      "url": "https://github.com/mxsm"
-    },
-    {
-      "name": "ahmadrosid",
-      "username": "ahmadrosid",
-      "url": "https://github.com/ahmadrosid"
-    },
-    {
-      "name": "Marcus Quinn",
-      "username": "marcusquinn",
-      "url": "https://github.com/marcusquinn"
-    },
-    {
-      "name": "Mitchell Hashimoto",
-      "username": "mitchellh",
-      "url": "https://github.com/mitchellh"
-    },
-    {
-      "name": "Christian Byrne",
-      "username": "christian-byrne",
-      "url": "https://github.com/christian-byrne"
-    },
-    {
-      "name": "Ben Brandt",
-      "username": "benbrandt",
-      "url": "https://github.com/benbrandt"
-    },
-    {
-      "name": "Vincenzo Fornaro",
-      "username": "JustVugg",
-      "url": "https://github.com/JustVugg"
-    },
-    {
-      "name": "Jim Manico",
-      "username": "jmanico",
-      "url": "https://github.com/jmanico"
-    },
-    {
-      "name": "Yann Collet",
-      "username": "Cyan4973",
-      "url": "https://github.com/Cyan4973"
-    },
-    {
-      "name": "Dax",
-      "username": "thdxr",
-      "url": "https://github.com/thdxr"
-    },
-    {
-      "name": "Lan",
-      "username": "vastsa",
-      "url": "https://github.com/vastsa"
-    },
-    {
-      "name": "Randall Hand",
-      "username": "Yeraze",
-      "url": "https://github.com/Yeraze"
-    },
-    {
-      "name": "Cliff Hall",
-      "username": "cliffhall",
-      "url": "https://github.com/cliffhall"
+      "name": "Maziyar Panahi",
+      "username": "maziyarpanahi",
+      "url": "https://github.com/maziyarpanahi"
     },
     {
       "name": "DeepCold",
@@ -129,19 +74,19 @@
       "url": "https://github.com/deepcoldy"
     },
     {
-      "name": "Shaw",
-      "username": "lalalune",
-      "url": "https://github.com/lalalune"
+      "name": "keys",
+      "username": "drowzeys",
+      "url": "https://github.com/drowzeys"
     },
     {
-      "name": "YeonGyu-Kim",
-      "username": "code-yeongyu",
-      "url": "https://github.com/code-yeongyu"
+      "name": "DrDisagree",
+      "username": "Mahmud0808",
+      "url": "https://github.com/Mahmud0808"
     },
     {
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "url": "https://github.com/pbakaus"
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "url": "https://github.com/colbymchenry"
     },
     {
       "name": "Fabien Penso",
@@ -149,9 +94,74 @@
       "url": "https://github.com/penso"
     },
     {
-      "name": "mlightcad",
-      "username": "mlightcad",
-      "url": "https://github.com/mlightcad"
+      "name": "Jim Manico",
+      "username": "jmanico",
+      "url": "https://github.com/jmanico"
+    },
+    {
+      "name": "Christian Byrne",
+      "username": "christian-byrne",
+      "url": "https://github.com/christian-byrne"
+    },
+    {
+      "name": "Jorrit Rouwe",
+      "username": "jrouwe",
+      "url": "https://github.com/jrouwe"
+    },
+    {
+      "name": "kalil0321",
+      "username": "kalil0321",
+      "url": "https://github.com/kalil0321"
+    },
+    {
+      "name": "Teng Lin",
+      "username": "teng-lin",
+      "url": "https://github.com/teng-lin"
+    },
+    {
+      "name": "Onur Solmaz",
+      "username": "osolmaz",
+      "url": "https://github.com/osolmaz"
+    },
+    {
+      "name": "Pratham Mishra",
+      "username": "Pratham-Mishra04",
+      "url": "https://github.com/Pratham-Mishra04"
+    },
+    {
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "url": "https://github.com/garrytan"
+    },
+    {
+      "name": "R.I.Pienaar",
+      "username": "ripienaar",
+      "url": "https://github.com/ripienaar"
+    },
+    {
+      "name": "Wenyu Chiou",
+      "username": "WenyuChiou",
+      "url": "https://github.com/WenyuChiou"
+    },
+    {
+      "name": "Can Celik",
+      "username": "ogulcancelik",
+      "url": "https://github.com/ogulcancelik"
+    },
+    {
+      "name": "Joakim Eriksson",
+      "username": "joakimeriksson",
+      "url": "https://github.com/joakimeriksson"
+    },
+    {
+      "name": "Micah Hoffman",
+      "username": "WebBreacher",
+      "url": "https://github.com/WebBreacher"
+    },
+    {
+      "name": "Mitchell Hashimoto",
+      "username": "mitchellh",
+      "url": "https://github.com/mitchellh"
     }
   ]
 }
