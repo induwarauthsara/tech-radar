@@ -1,68 +1,118 @@
 {
-  "updated_at": "2026-10-31T17:52:02Z",
+  "updated_at": "2026-11-01T18:29:11Z",
   "items": [
     {
-      "name": "Orkas",
-      "full_name": "Orkas-AI/Orkas",
-      "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-      "url": "https://github.com/Orkas-AI/Orkas",
-      "language": "JavaScript",
-      "stars_label": "6,006",
-      "period_stars": "1,118 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "OpenMAIC",
-      "full_name": "THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "language": "TypeScript",
-      "stars_label": "42,101",
-      "period_stars": "115 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "devops-exercises",
-      "full_name": "bregman-arie/devops-exercises",
-      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-      "url": "https://github.com/bregman-arie/devops-exercises",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "url": "https://github.com/shiyu-coder/Kronos",
       "language": "Python",
-      "stars_label": "85,769",
-      "period_stars": "341 stars today",
+      "stars_label": "45,193",
+      "period_stars": "611 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "vorssaint-utils",
-      "full_name": "vorssaint/vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "language": "Swift",
-      "stars_label": "31,739",
-      "period_stars": "499 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "dsh-purge",
-      "full_name": "YuJunZhiXue/dsh-purge",
-      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
-      "url": "https://github.com/YuJunZhiXue/dsh-purge",
-      "language": "JavaScript",
-      "stars_label": "14,488",
-      "period_stars": "6,665 stars this week",
-      "trend_period": "Weekly"
-    },
-    {
-      "name": "AstrBot",
-      "full_name": "AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
       "language": "Python",
-      "stars_label": "45,294",
-      "period_stars": "2,133 stars this week",
+      "stars_label": "494,342",
+      "period_stars": "298 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "Handy",
+      "full_name": "cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "url": "https://github.com/cjpais/Handy",
+      "language": "Rust",
+      "stars_label": "36,330",
+      "period_stars": "383 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "kornia",
+      "full_name": "kornia/kornia",
+      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "url": "https://github.com/kornia/kornia",
+      "language": "Python",
+      "stars_label": "11,707",
+      "period_stars": "88 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "AiSOC",
+      "full_name": "beenuar/AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "url": "https://github.com/beenuar/AiSOC",
+      "language": "Python",
+      "stars_label": "6,051",
+      "period_stars": "436 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "hex",
+      "full_name": "anomalyco/hex",
+      "description": "Local voice dictation for mac, windows and linux",
+      "url": "https://github.com/anomalyco/hex",
+      "language": "Rust",
+      "stars_label": "2,975",
+      "period_stars": "1,329 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "ai-engineering-hub",
+      "full_name": "patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "language": "Jupyter Notebook",
+      "stars_label": "40,046",
+      "period_stars": "573 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "FreeToken",
+      "full_name": "FlashML-org/FreeToken",
+      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "language": "Python",
+      "stars_label": "15,259",
+      "period_stars": "232 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "language": "C++",
+      "stars_label": "39,267",
+      "period_stars": "91 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "ghostty",
+      "full_name": "ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "language": "Zig",
+      "stars_label": "63,155",
+      "period_stars": "556 stars this week",
       "trend_period": "Weekly"
     }
   ],
   "developers": [
+    {
+      "name": "Dax",
+      "username": "thdxr",
+      "url": "https://github.com/thdxr"
+    },
+    {
+      "name": "JJ Eaton",
+      "username": "jayleaton",
+      "url": "https://github.com/jayleaton"
+    },
     {
       "name": "Maziyar Panahi",
       "username": "maziyarpanahi",
@@ -74,69 +124,19 @@
       "url": "https://github.com/deepcoldy"
     },
     {
-      "name": "keys",
-      "username": "drowzeys",
-      "url": "https://github.com/drowzeys"
-    },
-    {
-      "name": "DrDisagree",
-      "username": "Mahmud0808",
-      "url": "https://github.com/Mahmud0808"
-    },
-    {
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "url": "https://github.com/colbymchenry"
-    },
-    {
       "name": "Fabien Penso",
       "username": "penso",
       "url": "https://github.com/penso"
     },
     {
-      "name": "Jim Manico",
-      "username": "jmanico",
-      "url": "https://github.com/jmanico"
+      "name": "Ikalus1988",
+      "username": "Ikalus1988",
+      "url": "https://github.com/Ikalus1988"
     },
     {
-      "name": "Christian Byrne",
-      "username": "christian-byrne",
-      "url": "https://github.com/christian-byrne"
-    },
-    {
-      "name": "Jorrit Rouwe",
-      "username": "jrouwe",
-      "url": "https://github.com/jrouwe"
-    },
-    {
-      "name": "kalil0321",
-      "username": "kalil0321",
-      "url": "https://github.com/kalil0321"
-    },
-    {
-      "name": "Teng Lin",
-      "username": "teng-lin",
-      "url": "https://github.com/teng-lin"
-    },
-    {
-      "name": "Onur Solmaz",
-      "username": "osolmaz",
-      "url": "https://github.com/osolmaz"
-    },
-    {
-      "name": "Pratham Mishra",
-      "username": "Pratham-Mishra04",
-      "url": "https://github.com/Pratham-Mishra04"
-    },
-    {
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "url": "https://github.com/garrytan"
-    },
-    {
-      "name": "R.I.Pienaar",
-      "username": "ripienaar",
-      "url": "https://github.com/ripienaar"
+      "name": "Dmytro Mishkin",
+      "username": "ducha-aiki",
+      "url": "https://github.com/ducha-aiki"
     },
     {
       "name": "Wenyu Chiou",
@@ -144,14 +144,54 @@
       "url": "https://github.com/WenyuChiou"
     },
     {
-      "name": "Can Celik",
-      "username": "ogulcancelik",
-      "url": "https://github.com/ogulcancelik"
+      "name": "Christian Byrne",
+      "username": "christian-byrne",
+      "url": "https://github.com/christian-byrne"
     },
     {
-      "name": "Joakim Eriksson",
-      "username": "joakimeriksson",
-      "url": "https://github.com/joakimeriksson"
+      "name": "keys",
+      "username": "drowzeys",
+      "url": "https://github.com/drowzeys"
+    },
+    {
+      "name": "Jorrit Rouwe",
+      "username": "jrouwe",
+      "url": "https://github.com/jrouwe"
+    },
+    {
+      "name": "Onur Solmaz",
+      "username": "osolmaz",
+      "url": "https://github.com/osolmaz"
+    },
+    {
+      "name": "Vincenzo Fornaro",
+      "username": "JustVugg",
+      "url": "https://github.com/JustVugg"
+    },
+    {
+      "name": "Rach",
+      "username": "justrach",
+      "url": "https://github.com/justrach"
+    },
+    {
+      "name": "Jim Manico",
+      "username": "jmanico",
+      "url": "https://github.com/jmanico"
+    },
+    {
+      "name": "kalil0321",
+      "username": "kalil0321",
+      "url": "https://github.com/kalil0321"
+    },
+    {
+      "name": "DrDisagree",
+      "username": "Mahmud0808",
+      "url": "https://github.com/Mahmud0808"
+    },
+    {
+      "name": "jxxghp",
+      "username": "jxxghp",
+      "url": "https://github.com/jxxghp"
     },
     {
       "name": "Micah Hoffman",
@@ -159,9 +199,9 @@
       "url": "https://github.com/WebBreacher"
     },
     {
-      "name": "Mitchell Hashimoto",
-      "username": "mitchellh",
-      "url": "https://github.com/mitchellh"
+      "name": "Teng Lin",
+      "username": "teng-lin",
+      "url": "https://github.com/teng-lin"
     }
   ]
 }

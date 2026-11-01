@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T17:52:02Z",
+  "updated_at": "2026-11-01T18:29:11Z",
   "items": [
     {
       "title": "Reinforcement learning with prediction-based rewards",
@@ -101,19 +101,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "gpt-oss-safeguard technical report",
-      "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using…",
-      "description": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
-      "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
+      "title": "Introducing gpt-oss-safeguard",
+      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
       "source": "OpenAI News",
       "published": "Wed, 29 Oct 2025 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Introducing gpt-oss-safeguard",
-      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+      "title": "gpt-oss-safeguard technical report",
+      "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using…",
+      "description": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
+      "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
       "source": "OpenAI News",
       "published": "Wed, 29 Oct 2025 00:00:00 GMT",
       "category": "AI & Agents"
@@ -236,6 +236,15 @@
       "category": "AI & Agents"
     },
     {
+      "title": "Radiation Map of the World",
+      "summary": "Comments",
+      "description": "Comments",
+      "url": "https://radiaverse.com/",
+      "source": "Hacker News",
+      "published": "Wed, 28 Oct 2026 20:06:27 +0000",
+      "category": "Technology"
+    },
+    {
       "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
       "summary": "Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview. The post Introducing the Microsoft Copilot harness in Foundry Agent Service appeared first on Microsoft Azure Blog .",
       "description": "Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview. The post Introducing the Microsoft Copilot harness in Foundry Agent Service appeared first on Microsoft Azure Blog .",
@@ -243,15 +252,6 @@
       "source": "Microsoft Azure Blog",
       "published": "Wed, 28 Oct 2026 17:40:56 +0000",
       "category": "AI & Agents"
-    },
-    {
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://github.com/chris124567/cfsolve",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 17:29:23 +0000",
-      "category": "Cloud & DevOps"
     },
     {
       "title": "Publish Visual Studio Marketplace extensions securely with Trusted Publishing",
@@ -281,15 +281,6 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Redox: Ring Buffers Project Summary",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://www.redox-os.org/news/nlnet-rb-summary/",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 14:27:12 +0000",
-      "category": "Technology"
-    },
-    {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "description": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
@@ -306,15 +297,6 @@
       "source": "OpenAI News",
       "published": "Wed, 28 Oct 2026 10:00:00 GMT",
       "category": "AI & Agents"
-    },
-    {
-      "title": "Reading and writing are less symmetric than you (probably) think",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 09:38:07 +0000",
-      "category": "Technology"
     },
     {
       "title": "Legora is building the agentic operating system for legal work",
@@ -353,19 +335,19 @@
       "category": "Developer Tools"
     },
     {
-      "title": "The next chapter for AI in the EU",
-      "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-      "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "title": "EMEA Youth & Wellbeing Grant",
+      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
       "source": "OpenAI News",
       "published": "Wed, 28 Jan 2026 01:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "EMEA Youth & Wellbeing Grant",
-      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-      "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "title": "The next chapter for AI in the EU",
+      "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
       "source": "OpenAI News",
       "published": "Wed, 28 Jan 2026 01:00:00 GMT",
       "category": "AI & Agents"
@@ -398,19 +380,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "url": "https://openai.com/index/election-safeguards-2026",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "url": "https://openai.com/index/warp",
+      "title": "Election information and safeguards in 2026",
+      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "url": "https://openai.com/index/election-safeguards-2026",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
@@ -641,15 +623,6 @@
       "category": "Technology"
     },
     {
-      "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
-      "summary": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
-      "description": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
-      "url": "https://openai.com/index/gpt-4-api-general-availability",
-      "source": "OpenAI News",
-      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
-      "category": "AI & Agents"
-    },
-    {
       "title": "Introducing ChatGPT and Whisper APIs",
       "summary": "Open the original source for the full announcement and technical details.",
       "description": "",
@@ -657,6 +630,15 @@
       "source": "OpenAI News",
       "published": "Wed, 24 Apr 2024 00:00:00 GMT",
       "category": "Technology"
+    },
+    {
+      "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
+      "summary": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
+      "description": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
+      "url": "https://openai.com/index/gpt-4-api-general-availability",
+      "source": "OpenAI News",
+      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
+      "category": "AI & Agents"
     },
     {
       "title": "AWS CRT for JavaScript and AWS IoT Device SDK for JavaScript v2 align with the Node.js release schedule",
@@ -686,15 +668,6 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI News",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "AI & Agents"
-    },
-    {
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
       "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
@@ -720,6 +693,15 @@
       "source": "OpenAI News",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
       "category": "Technology"
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "AI & Agents"
     },
     {
       "title": "Introducing MentalHealthBench",
@@ -809,6 +791,24 @@
       "url": "https://openai.com/index/japan-economic-blueprint",
       "source": "OpenAI News",
       "published": "Wed, 22 Oct 2025 00:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "A landmark multi-year global partnership with News Corp",
+      "summary": "Companies Join Forces to Enrich OpenAI’s Generative AI Products and Platforms with Premium Journalism",
+      "description": "Companies Join Forces to Enrich OpenAI’s Generative AI Products and Platforms with Premium Journalism",
+      "url": "https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership",
+      "source": "OpenAI News",
+      "published": "Wed, 22 May 2024 13:15:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI News",
+      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
       "category": "AI & Agents"
     }
   ]
