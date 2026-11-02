@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T18:29:11Z",
+  "updated_at": "2026-11-02T22:25:56Z",
   "items": [
     {
       "title": "Reinforcement learning with prediction-based rewards",
@@ -236,15 +236,6 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Radiation Map of the World",
-      "summary": "Comments",
-      "description": "Comments",
-      "url": "https://radiaverse.com/",
-      "source": "Hacker News",
-      "published": "Wed, 28 Oct 2026 20:06:27 +0000",
-      "category": "Technology"
-    },
-    {
       "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
       "summary": "Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview. The post Introducing the Microsoft Copilot harness in Foundry Agent Service appeared first on Microsoft Azure Blog .",
       "description": "Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview. The post Introducing the Microsoft Copilot harness in Foundry Agent Service appeared first on Microsoft Azure Blog .",
@@ -380,19 +371,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "url": "https://openai.com/index/warp",
+      "title": "Election information and safeguards in 2026",
+      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "url": "https://openai.com/index/election-safeguards-2026",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "url": "https://openai.com/index/election-safeguards-2026",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
@@ -623,15 +614,6 @@
       "category": "Technology"
     },
     {
-      "title": "Introducing ChatGPT and Whisper APIs",
-      "summary": "Open the original source for the full announcement and technical details.",
-      "description": "",
-      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
-      "source": "OpenAI News",
-      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
-      "category": "Technology"
-    },
-    {
       "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
       "summary": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
       "description": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
@@ -639,6 +621,15 @@
       "source": "OpenAI News",
       "published": "Wed, 24 Apr 2024 00:00:00 GMT",
       "category": "AI & Agents"
+    },
+    {
+      "title": "Introducing ChatGPT and Whisper APIs",
+      "summary": "Open the original source for the full announcement and technical details.",
+      "description": "",
+      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+      "source": "OpenAI News",
+      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
+      "category": "Technology"
     },
     {
       "title": "AWS CRT for JavaScript and AWS IoT Device SDK for JavaScript v2 align with the Node.js release schedule",
@@ -807,6 +798,15 @@
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI News",
+      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "category": "AI & Agents"
+    },
+    {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "description": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
       "source": "OpenAI News",
       "published": "Wed, 22 Jul 2026 13:00:00 GMT",
       "category": "AI & Agents"

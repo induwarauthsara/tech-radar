@@ -1,122 +1,142 @@
 {
-  "updated_at": "2026-11-01T18:29:11Z",
+  "updated_at": "2026-11-02T22:25:56Z",
   "items": [
     {
-      "name": "Kronos",
-      "full_name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "language": "Python",
-      "stars_label": "45,193",
-      "period_stars": "611 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "public-apis",
-      "full_name": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "url": "https://github.com/public-apis/public-apis",
-      "language": "Python",
-      "stars_label": "494,342",
-      "period_stars": "298 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "Handy",
-      "full_name": "cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "url": "https://github.com/cjpais/Handy",
+      "name": "agent-desktop",
+      "full_name": "vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-desktop",
       "language": "Rust",
-      "stars_label": "36,330",
-      "period_stars": "383 stars today",
+      "stars_label": "9,394",
+      "period_stars": "2,243 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "kornia",
-      "full_name": "kornia/kornia",
-      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "url": "https://github.com/kornia/kornia",
+      "name": "Scrapling",
+      "full_name": "D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "url": "https://github.com/D4Vinci/Scrapling",
       "language": "Python",
-      "stars_label": "11,707",
-      "period_stars": "88 stars today",
+      "stars_label": "92,729",
+      "period_stars": "858 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "AiSOC",
-      "full_name": "beenuar/AiSOC",
-      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
-      "url": "https://github.com/beenuar/AiSOC",
+      "name": "nanochat",
+      "full_name": "karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "url": "https://github.com/karpathy/nanochat",
       "language": "Python",
-      "stars_label": "6,051",
-      "period_stars": "436 stars today",
+      "stars_label": "59,835",
+      "period_stars": "325 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "hex",
-      "full_name": "anomalyco/hex",
-      "description": "Local voice dictation for mac, windows and linux",
-      "url": "https://github.com/anomalyco/hex",
-      "language": "Rust",
-      "stars_label": "2,975",
-      "period_stars": "1,329 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "ai-engineering-hub",
-      "full_name": "patchy631/ai-engineering-hub",
-      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "language": "Jupyter Notebook",
-      "stars_label": "40,046",
-      "period_stars": "573 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "FreeToken",
-      "full_name": "FlashML-org/FreeToken",
-      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-      "url": "https://github.com/FlashML-org/FreeToken",
+      "name": "heretic",
+      "full_name": "p-e-w/heretic",
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "url": "https://github.com/p-e-w/heretic",
       "language": "Python",
-      "stars_label": "15,259",
-      "period_stars": "232 stars today",
+      "stars_label": "38,036",
+      "period_stars": "404 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "Hyprland",
-      "full_name": "hyprwm/Hyprland",
-      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "url": "https://github.com/hyprwm/Hyprland",
-      "language": "C++",
-      "stars_label": "39,267",
-      "period_stars": "91 stars today",
-      "trend_period": "Daily"
+      "name": "e2e",
+      "full_name": "tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "url": "https://github.com/tester-army/e2e",
+      "language": "TypeScript",
+      "stars_label": "12,612",
+      "period_stars": "12,433 stars this month",
+      "trend_period": "Monthly"
     },
     {
-      "name": "ghostty",
-      "full_name": "ghostty-org/ghostty",
-      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "url": "https://github.com/ghostty-org/ghostty",
-      "language": "Zig",
-      "stars_label": "63,155",
-      "period_stars": "556 stars this week",
-      "trend_period": "Weekly"
+      "name": "billion-context",
+      "full_name": "ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "language": "TypeScript",
+      "stars_label": "3,705",
+      "period_stars": "3,150 stars this month",
+      "trend_period": "Monthly"
+    },
+    {
+      "name": "pstack-claude",
+      "full_name": "michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "language": "TypeScript",
+      "stars_label": "3,793",
+      "period_stars": "2,996 stars this month",
+      "trend_period": "Monthly"
     }
   ],
   "developers": [
-    {
-      "name": "Dax",
-      "username": "thdxr",
-      "url": "https://github.com/thdxr"
-    },
     {
       "name": "JJ Eaton",
       "username": "jayleaton",
       "url": "https://github.com/jayleaton"
     },
     {
-      "name": "Maziyar Panahi",
-      "username": "maziyarpanahi",
-      "url": "https://github.com/maziyarpanahi"
+      "name": "Chimney",
+      "username": "ccch1mneyyy",
+      "url": "https://github.com/ccch1mneyyy"
+    },
+    {
+      "name": "Dax",
+      "username": "thdxr",
+      "url": "https://github.com/thdxr"
+    },
+    {
+      "name": "Christian Byrne",
+      "username": "christian-byrne",
+      "url": "https://github.com/christian-byrne"
+    },
+    {
+      "name": "Ash",
+      "username": "ashhart",
+      "url": "https://github.com/ashhart"
+    },
+    {
+      "name": "Rach",
+      "username": "justrach",
+      "url": "https://github.com/justrach"
+    },
+    {
+      "name": "Kevin Goedecke",
+      "username": "kgoedecke",
+      "url": "https://github.com/kgoedecke"
+    },
+    {
+      "name": "Ersin KOÇ",
+      "username": "ersinkoc",
+      "url": "https://github.com/ersinkoc"
+    },
+    {
+      "name": "Ikalus1988",
+      "username": "Ikalus1988",
+      "url": "https://github.com/Ikalus1988"
+    },
+    {
+      "name": "Vlad Shulcz",
+      "username": "vshulcz",
+      "url": "https://github.com/vshulcz"
+    },
+    {
+      "name": "Wenyu Chiou",
+      "username": "WenyuChiou",
+      "url": "https://github.com/WenyuChiou"
+    },
+    {
+      "name": "Kirill Mokevnin",
+      "username": "mokevnin",
+      "url": "https://github.com/mokevnin"
+    },
+    {
+      "name": "Shangjie Chen",
+      "username": "DeanChensj",
+      "url": "https://github.com/DeanChensj"
     },
     {
       "name": "DeepCold",
@@ -129,54 +149,9 @@
       "url": "https://github.com/penso"
     },
     {
-      "name": "Ikalus1988",
-      "username": "Ikalus1988",
-      "url": "https://github.com/Ikalus1988"
-    },
-    {
-      "name": "Dmytro Mishkin",
-      "username": "ducha-aiki",
-      "url": "https://github.com/ducha-aiki"
-    },
-    {
-      "name": "Wenyu Chiou",
-      "username": "WenyuChiou",
-      "url": "https://github.com/WenyuChiou"
-    },
-    {
-      "name": "Christian Byrne",
-      "username": "christian-byrne",
-      "url": "https://github.com/christian-byrne"
-    },
-    {
-      "name": "keys",
-      "username": "drowzeys",
-      "url": "https://github.com/drowzeys"
-    },
-    {
-      "name": "Jorrit Rouwe",
-      "username": "jrouwe",
-      "url": "https://github.com/jrouwe"
-    },
-    {
-      "name": "Onur Solmaz",
-      "username": "osolmaz",
-      "url": "https://github.com/osolmaz"
-    },
-    {
-      "name": "Vincenzo Fornaro",
-      "username": "JustVugg",
-      "url": "https://github.com/JustVugg"
-    },
-    {
-      "name": "Rach",
-      "username": "justrach",
-      "url": "https://github.com/justrach"
-    },
-    {
-      "name": "Jim Manico",
-      "username": "jmanico",
-      "url": "https://github.com/jmanico"
+      "name": "DrDisagree",
+      "username": "Mahmud0808",
+      "url": "https://github.com/Mahmud0808"
     },
     {
       "name": "kalil0321",
@@ -184,24 +159,19 @@
       "url": "https://github.com/kalil0321"
     },
     {
-      "name": "DrDisagree",
-      "username": "Mahmud0808",
-      "url": "https://github.com/Mahmud0808"
+      "name": "Elie Habib",
+      "username": "koala73",
+      "url": "https://github.com/koala73"
+    },
+    {
+      "name": "keys",
+      "username": "drowzeys",
+      "url": "https://github.com/drowzeys"
     },
     {
       "name": "jxxghp",
       "username": "jxxghp",
       "url": "https://github.com/jxxghp"
-    },
-    {
-      "name": "Micah Hoffman",
-      "username": "WebBreacher",
-      "url": "https://github.com/WebBreacher"
-    },
-    {
-      "name": "Teng Lin",
-      "username": "teng-lin",
-      "url": "https://github.com/teng-lin"
     }
   ]
 }
