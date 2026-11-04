@@ -1,34 +1,104 @@
 {
-  "updated_at": "2026-11-03T20:14:05Z",
+  "updated_at": "2026-11-04T20:30:03Z",
   "items": [
     {
-      "name": "portal-ai-plugins",
-      "full_name": "spotify/portal-ai-plugins",
-      "description": "",
-      "url": "https://github.com/spotify/portal-ai-plugins",
-      "language": "TypeScript",
-      "stars_label": "3,003",
-      "period_stars": "94 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "floci",
-      "full_name": "floci-io/floci",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "url": "https://github.com/floci-io/floci",
-      "language": "Java",
-      "stars_label": "28,600",
-      "period_stars": "679 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "ai-goofish-monitor",
-      "full_name": "Usagi-org/ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "name": "auto-ontology",
+      "full_name": "NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "url": "https://github.com/NVIDIA/auto-ontology",
       "language": "Python",
-      "stars_label": "16,313",
-      "period_stars": "204 stars today",
+      "stars_label": "4,621",
+      "period_stars": "2,053 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "spec-kit",
+      "full_name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "url": "https://github.com/github/spec-kit",
+      "language": "Python",
+      "stars_label": "147,201",
+      "period_stars": "810 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "pr-agent",
+      "full_name": "The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "language": "Python",
+      "stars_label": "14,668",
+      "period_stars": "279 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "language": "Python",
+      "stars_label": "138,847",
+      "period_stars": "615 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "gstack",
+      "full_name": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "url": "https://github.com/garrytan/gstack",
+      "language": "TypeScript",
+      "stars_label": "139,252",
+      "period_stars": "285 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "kimi-k3-in-c",
+      "full_name": "FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "language": "C",
+      "stars_label": "10,192",
+      "period_stars": "351 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "DiscImageStudio",
+      "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "description": "",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "language": "C#",
+      "stars_label": "6,428",
+      "period_stars": "1,792 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "90DaysOfDevOps",
+      "full_name": "MichaelCade/90DaysOfDevOps",
+      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "language": "Shell",
+      "stars_label": "30,334",
+      "period_stars": "156 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "Horizon",
+      "full_name": "Thysrael/Horizon",
+      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+      "url": "https://github.com/Thysrael/Horizon",
+      "language": "Python",
+      "stars_label": "12,429",
+      "period_stars": "121 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "skills",
+      "full_name": "scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "url": "https://github.com/scenario-labs/skills",
+      "language": "Python",
+      "stars_label": "2,335",
+      "period_stars": "224 stars today",
       "trend_period": "Daily"
     }
   ],
@@ -39,69 +109,9 @@
       "url": "https://github.com/code-yeongyu"
     },
     {
-      "name": "Alpamys Makazhan",
-      "username": "MakazhanAlpamys",
-      "url": "https://github.com/MakazhanAlpamys"
-    },
-    {
-      "name": "Vincenzo Fornaro",
-      "username": "JustVugg",
-      "url": "https://github.com/JustVugg"
-    },
-    {
-      "name": "Shangjie Chen",
-      "username": "DeanChensj",
-      "url": "https://github.com/DeanChensj"
-    },
-    {
-      "name": "Wenyu Chiou",
-      "username": "WenyuChiou",
-      "url": "https://github.com/WenyuChiou"
-    },
-    {
       "name": "Kevin Goedecke",
       "username": "kgoedecke",
       "url": "https://github.com/kgoedecke"
-    },
-    {
-      "name": "Rach",
-      "username": "justrach",
-      "url": "https://github.com/justrach"
-    },
-    {
-      "name": "Elie Habib",
-      "username": "koala73",
-      "url": "https://github.com/koala73"
-    },
-    {
-      "name": "DeepCold",
-      "username": "deepcoldy",
-      "url": "https://github.com/deepcoldy"
-    },
-    {
-      "name": "Pratham Mishra",
-      "username": "Pratham-Mishra04",
-      "url": "https://github.com/Pratham-Mishra04"
-    },
-    {
-      "name": "kalil0321",
-      "username": "kalil0321",
-      "url": "https://github.com/kalil0321"
-    },
-    {
-      "name": "Fabien Penso",
-      "username": "penso",
-      "url": "https://github.com/penso"
-    },
-    {
-      "name": "Dax",
-      "username": "thdxr",
-      "url": "https://github.com/thdxr"
-    },
-    {
-      "name": "jxxghp",
-      "username": "jxxghp",
-      "url": "https://github.com/jxxghp"
     },
     {
       "name": "Henry Krupp",
@@ -109,9 +119,9 @@
       "url": "https://github.com/doobidoo"
     },
     {
-      "name": "Chimney",
-      "username": "ccch1mneyyy",
-      "url": "https://github.com/ccch1mneyyy"
+      "name": "Roberto Viola",
+      "username": "cagnulein",
+      "url": "https://github.com/cagnulein"
     },
     {
       "name": "Abue Ammar",
@@ -119,9 +129,19 @@
       "url": "https://github.com/abue-ammar"
     },
     {
-      "name": "AmirHossein Abdolmotallebi",
-      "username": "amir1376",
-      "url": "https://github.com/amir1376"
+      "name": "Rach",
+      "username": "justrach",
+      "url": "https://github.com/justrach"
+    },
+    {
+      "name": "Shangjie Chen",
+      "username": "DeanChensj",
+      "url": "https://github.com/DeanChensj"
+    },
+    {
+      "name": "Alpamys Makazhan",
+      "username": "MakazhanAlpamys",
+      "url": "https://github.com/MakazhanAlpamys"
     },
     {
       "name": "Eric Buehler",
@@ -129,9 +149,59 @@
       "url": "https://github.com/EricLBuehler"
     },
     {
-      "name": "Maziyar Panahi",
-      "username": "maziyarpanahi",
-      "url": "https://github.com/maziyarpanahi"
+      "name": "jxxghp",
+      "username": "jxxghp",
+      "url": "https://github.com/jxxghp"
+    },
+    {
+      "name": "Kun Chen",
+      "username": "kunchenguid",
+      "url": "https://github.com/kunchenguid"
+    },
+    {
+      "name": "Vlad Shulcz",
+      "username": "vshulcz",
+      "url": "https://github.com/vshulcz"
+    },
+    {
+      "name": "Garrett Johnson",
+      "username": "gkjohnson",
+      "url": "https://github.com/gkjohnson"
+    },
+    {
+      "name": "M0Rf30",
+      "username": "M0Rf30",
+      "url": "https://github.com/M0Rf30"
+    },
+    {
+      "name": "rUv",
+      "username": "ruvnet",
+      "url": "https://github.com/ruvnet"
+    },
+    {
+      "name": "JJ Eaton",
+      "username": "jayleaton",
+      "url": "https://github.com/jayleaton"
+    },
+    {
+      "name": "Matthias Seitz",
+      "username": "mattsse",
+      "url": "https://github.com/mattsse"
+    },
+    {
+      "name": "Nico Burns",
+      "username": "nicoburns",
+      "url": "https://github.com/nicoburns"
+    },
+    {
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "url": "https://github.com/elie222"
+    },
+    {
+      "name": "Danila Poyarkov",
+      "username": "dannote",
+      "url": "https://github.com/dannote"
     }
   ]
 }
