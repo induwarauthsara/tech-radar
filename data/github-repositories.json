@@ -1,142 +1,82 @@
 {
-  "updated_at": "2026-11-04T20:30:03Z",
+  "updated_at": "2026-11-05T20:46:38Z",
   "items": [
     {
-      "name": "auto-ontology",
-      "full_name": "NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "language": "Python",
-      "stars_label": "4,621",
-      "period_stars": "2,053 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "spec-kit",
-      "full_name": "github/spec-kit",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "url": "https://github.com/github/spec-kit",
-      "language": "Python",
-      "stars_label": "147,201",
-      "period_stars": "810 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "pr-agent",
-      "full_name": "The-PR-Agent/pr-agent",
-      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "url": "https://github.com/The-PR-Agent/pr-agent",
-      "language": "Python",
-      "stars_label": "14,668",
-      "period_stars": "279 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "MoneyPrinterTurbo",
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "language": "Python",
-      "stars_label": "138,847",
-      "period_stars": "615 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "gstack",
-      "full_name": "garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "url": "https://github.com/garrytan/gstack",
-      "language": "TypeScript",
-      "stars_label": "139,252",
-      "period_stars": "285 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "kimi-k3-in-c",
-      "full_name": "FareedKhan-dev/kimi-k3-in-c",
-      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "url": "https://github.com/lz4/lz4",
       "language": "C",
-      "stars_label": "10,192",
-      "period_stars": "351 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "DiscImageStudio",
-      "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "description": "",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "language": "C#",
-      "stars_label": "6,428",
-      "period_stars": "1,792 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "90DaysOfDevOps",
-      "full_name": "MichaelCade/90DaysOfDevOps",
-      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
-      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
-      "language": "Shell",
-      "stars_label": "30,334",
-      "period_stars": "156 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "Horizon",
-      "full_name": "Thysrael/Horizon",
-      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
-      "url": "https://github.com/Thysrael/Horizon",
-      "language": "Python",
-      "stars_label": "12,429",
-      "period_stars": "121 stars today",
+      "stars_label": "12,336",
+      "period_stars": "16 stars today",
       "trend_period": "Daily"
     },
     {
       "name": "skills",
-      "full_name": "scenario-labs/skills",
-      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "url": "https://github.com/scenario-labs/skills",
+      "full_name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "url": "https://github.com/google/skills",
       "language": "Python",
-      "stars_label": "2,335",
-      "period_stars": "224 stars today",
+      "stars_label": "22,298",
+      "period_stars": "199 stars today",
       "trend_period": "Daily"
+    },
+    {
+      "name": "agent-browser",
+      "full_name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "language": "Rust",
+      "stars_label": "45,801",
+      "period_stars": "181 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "garden-skills",
+      "full_name": "ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "language": "JavaScript",
+      "stars_label": "14,075",
+      "period_stars": "241 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "language": "Python",
+      "stars_label": "55,761",
+      "period_stars": "214 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "language": "Python",
+      "stars_label": "77,086",
+      "period_stars": "3,743 stars this week",
+      "trend_period": "Weekly"
+    },
+    {
+      "name": "AnyPS5",
+      "full_name": "boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "language": "C++",
+      "stars_label": "51,444",
+      "period_stars": "47,878 stars this month",
+      "trend_period": "Monthly"
     }
   ],
   "developers": [
     {
-      "name": "YeonGyu-Kim",
-      "username": "code-yeongyu",
-      "url": "https://github.com/code-yeongyu"
-    },
-    {
-      "name": "Kevin Goedecke",
-      "username": "kgoedecke",
-      "url": "https://github.com/kgoedecke"
-    },
-    {
-      "name": "Henry Krupp",
-      "username": "doobidoo",
-      "url": "https://github.com/doobidoo"
-    },
-    {
-      "name": "Roberto Viola",
-      "username": "cagnulein",
-      "url": "https://github.com/cagnulein"
-    },
-    {
-      "name": "Abue Ammar",
-      "username": "abue-ammar",
-      "url": "https://github.com/abue-ammar"
-    },
-    {
-      "name": "Rach",
-      "username": "justrach",
-      "url": "https://github.com/justrach"
-    },
-    {
-      "name": "Shangjie Chen",
-      "username": "DeanChensj",
-      "url": "https://github.com/DeanChensj"
+      "name": "Matt Abate",
+      "username": "mattabate",
+      "url": "https://github.com/mattabate"
     },
     {
       "name": "Alpamys Makazhan",
@@ -144,19 +84,29 @@
       "url": "https://github.com/MakazhanAlpamys"
     },
     {
-      "name": "Eric Buehler",
-      "username": "EricLBuehler",
-      "url": "https://github.com/EricLBuehler"
-    },
-    {
-      "name": "jxxghp",
-      "username": "jxxghp",
-      "url": "https://github.com/jxxghp"
-    },
-    {
       "name": "Kun Chen",
       "username": "kunchenguid",
       "url": "https://github.com/kunchenguid"
+    },
+    {
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "url": "https://github.com/garrytan"
+    },
+    {
+      "name": "Henry Krupp",
+      "username": "doobidoo",
+      "url": "https://github.com/doobidoo"
+    },
+    {
+      "name": "Илия",
+      "username": "777genius",
+      "url": "https://github.com/777genius"
+    },
+    {
+      "name": "Elie Habib",
+      "username": "koala73",
+      "url": "https://github.com/koala73"
     },
     {
       "name": "Vlad Shulcz",
@@ -164,44 +114,64 @@
       "url": "https://github.com/vshulcz"
     },
     {
+      "name": "dkhamsing",
+      "username": "dkhamsing",
+      "url": "https://github.com/dkhamsing"
+    },
+    {
+      "name": "Abue Ammar",
+      "username": "abue-ammar",
+      "url": "https://github.com/abue-ammar"
+    },
+    {
+      "name": "YeonGyu-Kim",
+      "username": "code-yeongyu",
+      "url": "https://github.com/code-yeongyu"
+    },
+    {
+      "name": "Andrew Nakas",
+      "username": "andrewnakas",
+      "url": "https://github.com/andrewnakas"
+    },
+    {
       "name": "Garrett Johnson",
       "username": "gkjohnson",
       "url": "https://github.com/gkjohnson"
     },
     {
-      "name": "M0Rf30",
-      "username": "M0Rf30",
-      "url": "https://github.com/M0Rf30"
+      "name": "Lysander Su",
+      "username": "zts212653",
+      "url": "https://github.com/zts212653"
     },
     {
-      "name": "rUv",
-      "username": "ruvnet",
-      "url": "https://github.com/ruvnet"
+      "name": "ranxianglei",
+      "username": "ranxianglei",
+      "url": "https://github.com/ranxianglei"
     },
     {
-      "name": "JJ Eaton",
-      "username": "jayleaton",
-      "url": "https://github.com/jayleaton"
+      "name": "Rach",
+      "username": "justrach",
+      "url": "https://github.com/justrach"
     },
     {
-      "name": "Matthias Seitz",
-      "username": "mattsse",
-      "url": "https://github.com/mattsse"
+      "name": "Wellington Cristi Vilela Santana",
+      "username": "Wellington01",
+      "url": "https://github.com/Wellington01"
     },
     {
-      "name": "Nico Burns",
-      "username": "nicoburns",
-      "url": "https://github.com/nicoburns"
+      "name": "Richie McIlroy",
+      "username": "richiemcilroy",
+      "url": "https://github.com/richiemcilroy"
     },
     {
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "url": "https://github.com/elie222"
+      "name": "Eric Buehler",
+      "username": "EricLBuehler",
+      "url": "https://github.com/EricLBuehler"
     },
     {
-      "name": "Danila Poyarkov",
-      "username": "dannote",
-      "url": "https://github.com/dannote"
+      "name": "James Tenniswood",
+      "username": "jtenniswood",
+      "url": "https://github.com/jtenniswood"
     }
   ]
 }

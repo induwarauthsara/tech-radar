@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T20:30:03Z",
+  "updated_at": "2026-11-05T20:46:38Z",
   "items": [
     {
       "title": "Reinforcement learning with prediction-based rewards",
@@ -101,19 +101,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Introducing gpt-oss-safeguard",
-      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+      "title": "gpt-oss-safeguard technical report",
+      "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using…",
+      "description": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
+      "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
       "source": "OpenAI News",
       "published": "Wed, 29 Oct 2025 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "gpt-oss-safeguard technical report",
-      "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using…",
-      "description": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
-      "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
+      "title": "Introducing gpt-oss-safeguard",
+      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
       "source": "OpenAI News",
       "published": "Wed, 29 Oct 2025 00:00:00 GMT",
       "category": "AI & Agents"
@@ -461,19 +461,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI News",
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI News",
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "category": "AI & Agents"
@@ -623,15 +623,6 @@
       "category": "Technology"
     },
     {
-      "title": "Introducing ChatGPT and Whisper APIs",
-      "summary": "Open the original source for the full announcement and technical details.",
-      "description": "",
-      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
-      "source": "OpenAI News",
-      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
-      "category": "Technology"
-    },
-    {
       "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
       "summary": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
       "description": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
@@ -639,6 +630,15 @@
       "source": "OpenAI News",
       "published": "Wed, 24 Apr 2024 00:00:00 GMT",
       "category": "AI & Agents"
+    },
+    {
+      "title": "Introducing ChatGPT and Whisper APIs",
+      "summary": "Open the original source for the full announcement and technical details.",
+      "description": "",
+      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+      "source": "OpenAI News",
+      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
+      "category": "Technology"
     },
     {
       "title": "AWS CRT for JavaScript and AWS IoT Device SDK for JavaScript v2 align with the Node.js release schedule",
@@ -677,6 +677,15 @@
       "category": "AI & Agents"
     },
     {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "Technology"
+    },
+    {
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
@@ -693,15 +702,6 @@
       "source": "OpenAI News",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
       "category": "Developer Tools"
-    },
-    {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI News",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "Technology"
     },
     {
       "title": "Introducing MentalHealthBench",
@@ -749,19 +749,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Announcing OpenAI DevDay 2025",
-      "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
-      "description": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
-      "url": "https://openai.com/index/announcing-devday-2025",
+      "title": "Model ML is helping financial firms rebuild with AI from the ground up",
+      "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "description": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "url": "https://openai.com/index/model-ml-chaz-englander",
       "source": "OpenAI News",
       "published": "Wed, 23 Jul 2025 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Model ML is helping financial firms rebuild with AI from the ground up",
-      "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
-      "description": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
-      "url": "https://openai.com/index/model-ml-chaz-englander",
+      "title": "Announcing OpenAI DevDay 2025",
+      "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
+      "description": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
+      "url": "https://openai.com/index/announcing-devday-2025",
       "source": "OpenAI News",
       "published": "Wed, 23 Jul 2025 00:00:00 GMT",
       "category": "AI & Agents"
