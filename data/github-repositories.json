@@ -1,87 +1,142 @@
 {
-  "updated_at": "2026-11-05T20:46:38Z",
+  "updated_at": "2026-11-06T20:01:48Z",
   "items": [
     {
-      "name": "lz4",
-      "full_name": "lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "url": "https://github.com/lz4/lz4",
-      "language": "C",
-      "stars_label": "12,336",
-      "period_stars": "16 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "skills",
-      "full_name": "google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "url": "https://github.com/google/skills",
-      "language": "Python",
-      "stars_label": "22,298",
-      "period_stars": "199 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "agent-browser",
-      "full_name": "vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "url": "https://github.com/vercel-labs/agent-browser",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "url": "https://github.com/zed-industries/zed",
       "language": "Rust",
-      "stars_label": "45,801",
-      "period_stars": "181 stars today",
+      "stars_label": "93,430",
+      "period_stars": "292 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "garden-skills",
-      "full_name": "ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "url": "https://github.com/ConardLi/garden-skills",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "description": "Ruby on Rails",
+      "url": "https://github.com/rails/rails",
+      "language": "Ruby",
+      "stars_label": "58,965",
+      "period_stars": "152 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "url": "https://github.com/mpv-player/mpv",
+      "language": "C",
+      "stars_label": "37,838",
+      "period_stars": "36 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "url": "https://github.com/rust-lang/rust",
+      "language": "Rust",
+      "stars_label": "121,340",
+      "period_stars": "186 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "react",
+      "full_name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "url": "https://github.com/react/react",
       "language": "JavaScript",
-      "stars_label": "14,075",
-      "period_stars": "241 stars today",
+      "stars_label": "252,180",
+      "period_stars": "244 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "VibeVoice",
-      "full_name": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "language": "Python",
-      "stars_label": "55,761",
-      "period_stars": "214 stars today",
+      "name": "angular",
+      "full_name": "angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "url": "https://github.com/angular/angular",
+      "language": "TypeScript",
+      "stars_label": "101,257",
+      "period_stars": "128 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "OpenMontage",
-      "full_name": "calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "language": "Python",
-      "stars_label": "77,086",
-      "period_stars": "3,743 stars this week",
-      "trend_period": "Weekly"
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "url": "https://github.com/symfony/symfony",
+      "language": "PHP",
+      "stars_label": "31,348",
+      "period_stars": "89 stars today",
+      "trend_period": "Daily"
     },
     {
-      "name": "AnyPS5",
-      "full_name": "boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "language": "C++",
-      "stars_label": "51,444",
-      "period_stars": "47,878 stars this month",
-      "trend_period": "Monthly"
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "url": "https://github.com/prometheus/prometheus",
+      "language": "Go",
+      "stars_label": "67,096",
+      "period_stars": "140 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "vscode",
+      "full_name": "microsoft/vscode",
+      "description": "Visual Studio Code",
+      "url": "https://github.com/microsoft/vscode",
+      "language": "TypeScript",
+      "stars_label": "194,933",
+      "period_stars": "295 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "nushell",
+      "full_name": "nushell/nushell",
+      "description": "A new type of shell",
+      "url": "https://github.com/nushell/nushell",
+      "language": "Rust",
+      "stars_label": "40,894",
+      "period_stars": "88 stars today",
+      "trend_period": "Daily"
     }
   ],
   "developers": [
+    {
+      "name": "Matthias Seitz",
+      "username": "mattsse",
+      "url": "https://github.com/mattsse"
+    },
+    {
+      "name": "Tom Plant",
+      "username": "pl4nty",
+      "url": "https://github.com/pl4nty"
+    },
+    {
+      "name": "Jeong-Sik Yun",
+      "username": "jeong-sik",
+      "url": "https://github.com/jeong-sik"
+    },
+    {
+      "name": "Gaurav Gosain",
+      "username": "Gaurav-Gosain",
+      "url": "https://github.com/Gaurav-Gosain"
+    },
+    {
+      "name": "Tim Besard",
+      "username": "maleadt",
+      "url": "https://github.com/maleadt"
+    },
     {
       "name": "Matt Abate",
       "username": "mattabate",
       "url": "https://github.com/mattabate"
     },
     {
-      "name": "Alpamys Makazhan",
-      "username": "MakazhanAlpamys",
-      "url": "https://github.com/MakazhanAlpamys"
+      "name": "David Heinemeier Hansson",
+      "username": "dhh",
+      "url": "https://github.com/dhh"
     },
     {
       "name": "Kun Chen",
@@ -89,44 +144,24 @@
       "url": "https://github.com/kunchenguid"
     },
     {
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "url": "https://github.com/garrytan"
-    },
-    {
-      "name": "Henry Krupp",
-      "username": "doobidoo",
-      "url": "https://github.com/doobidoo"
-    },
-    {
-      "name": "Илия",
-      "username": "777genius",
-      "url": "https://github.com/777genius"
-    },
-    {
-      "name": "Elie Habib",
-      "username": "koala73",
-      "url": "https://github.com/koala73"
-    },
-    {
-      "name": "Vlad Shulcz",
-      "username": "vshulcz",
-      "url": "https://github.com/vshulcz"
-    },
-    {
-      "name": "dkhamsing",
-      "username": "dkhamsing",
-      "url": "https://github.com/dkhamsing"
-    },
-    {
       "name": "Abue Ammar",
       "username": "abue-ammar",
       "url": "https://github.com/abue-ammar"
     },
     {
-      "name": "YeonGyu-Kim",
-      "username": "code-yeongyu",
-      "url": "https://github.com/code-yeongyu"
+      "name": "Ruben Fiszel",
+      "username": "rubenfiszel",
+      "url": "https://github.com/rubenfiszel"
+    },
+    {
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "url": "https://github.com/garrytan"
+    },
+    {
+      "name": "Kim Morrison",
+      "username": "kim-em",
+      "url": "https://github.com/kim-em"
     },
     {
       "name": "Andrew Nakas",
@@ -134,14 +169,9 @@
       "url": "https://github.com/andrewnakas"
     },
     {
-      "name": "Garrett Johnson",
-      "username": "gkjohnson",
-      "url": "https://github.com/gkjohnson"
-    },
-    {
-      "name": "Lysander Su",
-      "username": "zts212653",
-      "url": "https://github.com/zts212653"
+      "name": "YeonGyu-Kim",
+      "username": "code-yeongyu",
+      "url": "https://github.com/code-yeongyu"
     },
     {
       "name": "ranxianglei",
@@ -149,29 +179,29 @@
       "url": "https://github.com/ranxianglei"
     },
     {
-      "name": "Rach",
-      "username": "justrach",
-      "url": "https://github.com/justrach"
+      "name": "Cristiano Calcagno",
+      "username": "cristianoc",
+      "url": "https://github.com/cristianoc"
     },
     {
-      "name": "Wellington Cristi Vilela Santana",
-      "username": "Wellington01",
-      "url": "https://github.com/Wellington01"
+      "name": "Bartlomiej Plotka",
+      "username": "bwplotka",
+      "url": "https://github.com/bwplotka"
     },
     {
-      "name": "Richie McIlroy",
-      "username": "richiemcilroy",
-      "url": "https://github.com/richiemcilroy"
+      "name": "wangzitian0",
+      "username": "wangzitian0",
+      "url": "https://github.com/wangzitian0"
     },
     {
-      "name": "Eric Buehler",
-      "username": "EricLBuehler",
-      "url": "https://github.com/EricLBuehler"
+      "name": "Robin Malfait",
+      "username": "RobinMalfait",
+      "url": "https://github.com/RobinMalfait"
     },
     {
-      "name": "James Tenniswood",
-      "username": "jtenniswood",
-      "url": "https://github.com/jtenniswood"
+      "name": "Mitchell Hashimoto",
+      "username": "mitchellh",
+      "url": "https://github.com/mitchellh"
     }
   ]
 }

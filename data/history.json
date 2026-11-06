@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T20:46:38Z",
+  "updated_at": "2026-11-06T20:01:48Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -130,6 +130,16 @@
     "https://github.com/ConardLi/garden-skills",
     "https://github.com/microsoft/VibeVoice",
     "https://github.com/calesthio/OpenMontage",
-    "https://github.com/boykopovar/AnyPS5"
+    "https://github.com/boykopovar/AnyPS5",
+    "https://github.com/zed-industries/zed",
+    "https://github.com/rails/rails",
+    "https://github.com/mpv-player/mpv",
+    "https://github.com/rust-lang/rust",
+    "https://github.com/react/react",
+    "https://github.com/angular/angular",
+    "https://github.com/symfony/symfony",
+    "https://github.com/prometheus/prometheus",
+    "https://github.com/microsoft/vscode",
+    "https://github.com/nushell/nushell"
   ]
 }
