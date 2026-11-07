@@ -1,167 +1,82 @@
 {
-  "updated_at": "2026-11-06T20:01:48Z",
+  "updated_at": "2026-11-07T18:11:38Z",
   "items": [
     {
-      "name": "zed",
-      "full_name": "zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "url": "https://github.com/zed-industries/zed",
-      "language": "Rust",
-      "stars_label": "93,430",
-      "period_stars": "292 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "rails",
-      "full_name": "rails/rails",
-      "description": "Ruby on Rails",
-      "url": "https://github.com/rails/rails",
-      "language": "Ruby",
-      "stars_label": "58,965",
-      "period_stars": "152 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "mpv",
-      "full_name": "mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "url": "https://github.com/mpv-player/mpv",
-      "language": "C",
-      "stars_label": "37,838",
-      "period_stars": "36 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "rust",
-      "full_name": "rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "url": "https://github.com/rust-lang/rust",
-      "language": "Rust",
-      "stars_label": "121,340",
-      "period_stars": "186 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "react",
-      "full_name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "url": "https://github.com/react/react",
-      "language": "JavaScript",
-      "stars_label": "252,180",
-      "period_stars": "244 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "angular",
-      "full_name": "angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
-      "url": "https://github.com/angular/angular",
+      "name": "astryx",
+      "full_name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "url": "https://github.com/meta/astryx",
       "language": "TypeScript",
-      "stars_label": "101,257",
-      "period_stars": "128 stars today",
+      "stars_label": "14,304",
+      "period_stars": "185 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "symfony",
-      "full_name": "symfony/symfony",
-      "description": "The Symfony PHP framework",
-      "url": "https://github.com/symfony/symfony",
-      "language": "PHP",
-      "stars_label": "31,348",
-      "period_stars": "89 stars today",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "language": "Python",
+      "stars_label": "100,062",
+      "period_stars": "1,819 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "prometheus",
-      "full_name": "prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "url": "https://github.com/prometheus/prometheus",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "url": "https://github.com/astral-sh/ruff",
+      "language": "Rust",
+      "stars_label": "50,900",
+      "period_stars": "350 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "tailwindcss",
+      "full_name": "tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "language": "TypeScript",
+      "stars_label": "98,337",
+      "period_stars": "181 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "localthings",
+      "full_name": "mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "url": "https://github.com/mbillow/localthings",
+      "language": "Python",
+      "stars_label": "1,004",
+      "period_stars": "184 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "nvke",
+      "full_name": "dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "url": "https://github.com/dsx-ai-factory/nvke",
       "language": "Go",
-      "stars_label": "67,096",
-      "period_stars": "140 stars today",
+      "stars_label": "462",
+      "period_stars": "125 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "vscode",
-      "full_name": "microsoft/vscode",
-      "description": "Visual Studio Code",
-      "url": "https://github.com/microsoft/vscode",
-      "language": "TypeScript",
-      "stars_label": "194,933",
-      "period_stars": "295 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "nushell",
-      "full_name": "nushell/nushell",
-      "description": "A new type of shell",
-      "url": "https://github.com/nushell/nushell",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "url": "https://github.com/storytold/artcraft",
       "language": "Rust",
-      "stars_label": "40,894",
-      "period_stars": "88 stars today",
-      "trend_period": "Daily"
+      "stars_label": "39,492",
+      "period_stars": "36,600 stars this month",
+      "trend_period": "Monthly"
     }
   ],
   "developers": [
     {
-      "name": "Matthias Seitz",
-      "username": "mattsse",
-      "url": "https://github.com/mattsse"
-    },
-    {
-      "name": "Tom Plant",
-      "username": "pl4nty",
-      "url": "https://github.com/pl4nty"
-    },
-    {
-      "name": "Jeong-Sik Yun",
-      "username": "jeong-sik",
-      "url": "https://github.com/jeong-sik"
-    },
-    {
-      "name": "Gaurav Gosain",
-      "username": "Gaurav-Gosain",
-      "url": "https://github.com/Gaurav-Gosain"
-    },
-    {
-      "name": "Tim Besard",
-      "username": "maleadt",
-      "url": "https://github.com/maleadt"
-    },
-    {
-      "name": "Matt Abate",
-      "username": "mattabate",
-      "url": "https://github.com/mattabate"
-    },
-    {
-      "name": "David Heinemeier Hansson",
-      "username": "dhh",
-      "url": "https://github.com/dhh"
-    },
-    {
-      "name": "Kun Chen",
-      "username": "kunchenguid",
-      "url": "https://github.com/kunchenguid"
-    },
-    {
-      "name": "Abue Ammar",
-      "username": "abue-ammar",
-      "url": "https://github.com/abue-ammar"
-    },
-    {
-      "name": "Ruben Fiszel",
-      "username": "rubenfiszel",
-      "url": "https://github.com/rubenfiszel"
-    },
-    {
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "url": "https://github.com/garrytan"
-    },
-    {
-      "name": "Kim Morrison",
-      "username": "kim-em",
-      "url": "https://github.com/kim-em"
+      "name": "ranxianglei",
+      "username": "ranxianglei",
+      "url": "https://github.com/ranxianglei"
     },
     {
       "name": "Andrew Nakas",
@@ -169,34 +84,89 @@
       "url": "https://github.com/andrewnakas"
     },
     {
-      "name": "YeonGyu-Kim",
-      "username": "code-yeongyu",
-      "url": "https://github.com/code-yeongyu"
+      "name": "Abue Ammar",
+      "username": "abue-ammar",
+      "url": "https://github.com/abue-ammar"
     },
     {
-      "name": "ranxianglei",
-      "username": "ranxianglei",
-      "url": "https://github.com/ranxianglei"
+      "name": "Matt Abate",
+      "username": "mattabate",
+      "url": "https://github.com/mattabate"
     },
     {
-      "name": "Cristiano Calcagno",
-      "username": "cristianoc",
-      "url": "https://github.com/cristianoc"
+      "name": "Gaurav Gosain",
+      "username": "Gaurav-Gosain",
+      "url": "https://github.com/Gaurav-Gosain"
     },
     {
-      "name": "Bartlomiej Plotka",
-      "username": "bwplotka",
-      "url": "https://github.com/bwplotka"
+      "name": "Tom Plant",
+      "username": "pl4nty",
+      "url": "https://github.com/pl4nty"
     },
     {
-      "name": "wangzitian0",
-      "username": "wangzitian0",
-      "url": "https://github.com/wangzitian0"
+      "name": "Matthias Seitz",
+      "username": "mattsse",
+      "url": "https://github.com/mattsse"
     },
     {
-      "name": "Robin Malfait",
-      "username": "RobinMalfait",
-      "url": "https://github.com/RobinMalfait"
+      "name": "Lysander Su",
+      "username": "zts212653",
+      "url": "https://github.com/zts212653"
+    },
+    {
+      "name": "morluto",
+      "username": "morluto",
+      "url": "https://github.com/morluto"
+    },
+    {
+      "name": "Ruben Fiszel",
+      "username": "rubenfiszel",
+      "url": "https://github.com/rubenfiszel"
+    },
+    {
+      "name": "rUv",
+      "username": "ruvnet",
+      "url": "https://github.com/ruvnet"
+    },
+    {
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "url": "https://github.com/tt-a1i"
+    },
+    {
+      "name": "Mantra",
+      "username": "mantrakp04",
+      "url": "https://github.com/mantrakp04"
+    },
+    {
+      "name": "Aditya Reddy",
+      "username": "adityareddy-dev",
+      "url": "https://github.com/adityareddy-dev"
+    },
+    {
+      "name": "Илия",
+      "username": "777genius",
+      "url": "https://github.com/777genius"
+    },
+    {
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "url": "https://github.com/backnotprop"
+    },
+    {
+      "name": "Kun Chen",
+      "username": "kunchenguid",
+      "url": "https://github.com/kunchenguid"
+    },
+    {
+      "name": "Wellington Cristi Vilela Santana",
+      "username": "Wellington01",
+      "url": "https://github.com/Wellington01"
+    },
+    {
+      "name": "dkhamsing",
+      "username": "dkhamsing",
+      "url": "https://github.com/dkhamsing"
     },
     {
       "name": "Mitchell Hashimoto",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T20:01:48Z",
+  "updated_at": "2026-11-07T18:11:38Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -140,6 +140,13 @@
     "https://github.com/symfony/symfony",
     "https://github.com/prometheus/prometheus",
     "https://github.com/microsoft/vscode",
-    "https://github.com/nushell/nushell"
+    "https://github.com/nushell/nushell",
+    "https://github.com/meta/astryx",
+    "https://github.com/sherlock-project/sherlock",
+    "https://github.com/astral-sh/ruff",
+    "https://github.com/tailwindlabs/tailwindcss",
+    "https://github.com/mbillow/localthings",
+    "https://github.com/dsx-ai-factory/nvke",
+    "https://github.com/storytold/artcraft"
   ]
 }
