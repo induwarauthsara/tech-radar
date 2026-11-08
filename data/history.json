@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T18:11:38Z",
+  "updated_at": "2026-11-08T18:25:58Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -147,6 +147,9 @@
     "https://github.com/tailwindlabs/tailwindcss",
     "https://github.com/mbillow/localthings",
     "https://github.com/dsx-ai-factory/nvke",
-    "https://github.com/storytold/artcraft"
+    "https://github.com/storytold/artcraft",
+    "https://github.com/anthropics/claude-quickstarts",
+    "https://github.com/google-deepmind/mujoco",
+    "https://github.com/blader/humanizer"
   ]
 }

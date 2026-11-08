@@ -1,137 +1,47 @@
 {
-  "updated_at": "2026-11-07T18:11:38Z",
+  "updated_at": "2026-11-08T18:25:58Z",
   "items": [
     {
-      "name": "astryx",
-      "full_name": "meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "url": "https://github.com/meta/astryx",
-      "language": "TypeScript",
-      "stars_label": "14,304",
-      "period_stars": "185 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "sherlock",
-      "full_name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "url": "https://github.com/sherlock-project/sherlock",
+      "name": "claude-quickstarts",
+      "full_name": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "url": "https://github.com/anthropics/claude-quickstarts",
       "language": "Python",
-      "stars_label": "100,062",
-      "period_stars": "1,819 stars today",
+      "stars_label": "19,307",
+      "period_stars": "28 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "ruff",
-      "full_name": "astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "url": "https://github.com/astral-sh/ruff",
-      "language": "Rust",
-      "stars_label": "50,900",
-      "period_stars": "350 stars today",
+      "name": "mujoco",
+      "full_name": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "language": "C++",
+      "stars_label": "16,288",
+      "period_stars": "26 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "tailwindcss",
-      "full_name": "tailwindlabs/tailwindcss",
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "language": "TypeScript",
-      "stars_label": "98,337",
-      "period_stars": "181 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "localthings",
-      "full_name": "mbillow/localthings",
-      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "url": "https://github.com/mbillow/localthings",
+      "name": "humanizer",
+      "full_name": "blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "url": "https://github.com/blader/humanizer",
       "language": "Python",
-      "stars_label": "1,004",
-      "period_stars": "184 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "nvke",
-      "full_name": "dsx-ai-factory/nvke",
-      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "language": "Go",
-      "stars_label": "462",
-      "period_stars": "125 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "artcraft",
-      "full_name": "storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "url": "https://github.com/storytold/artcraft",
-      "language": "Rust",
-      "stars_label": "39,492",
-      "period_stars": "36,600 stars this month",
-      "trend_period": "Monthly"
+      "stars_label": "66,329",
+      "period_stars": "3,067 stars this week",
+      "trend_period": "Weekly"
     }
   ],
   "developers": [
-    {
-      "name": "ranxianglei",
-      "username": "ranxianglei",
-      "url": "https://github.com/ranxianglei"
-    },
-    {
-      "name": "Andrew Nakas",
-      "username": "andrewnakas",
-      "url": "https://github.com/andrewnakas"
-    },
-    {
-      "name": "Abue Ammar",
-      "username": "abue-ammar",
-      "url": "https://github.com/abue-ammar"
-    },
-    {
-      "name": "Matt Abate",
-      "username": "mattabate",
-      "url": "https://github.com/mattabate"
-    },
-    {
-      "name": "Gaurav Gosain",
-      "username": "Gaurav-Gosain",
-      "url": "https://github.com/Gaurav-Gosain"
-    },
     {
       "name": "Tom Plant",
       "username": "pl4nty",
       "url": "https://github.com/pl4nty"
     },
     {
-      "name": "Matthias Seitz",
-      "username": "mattsse",
-      "url": "https://github.com/mattsse"
-    },
-    {
-      "name": "Lysander Su",
-      "username": "zts212653",
-      "url": "https://github.com/zts212653"
-    },
-    {
-      "name": "morluto",
-      "username": "morluto",
-      "url": "https://github.com/morluto"
-    },
-    {
-      "name": "Ruben Fiszel",
-      "username": "rubenfiszel",
-      "url": "https://github.com/rubenfiszel"
-    },
-    {
-      "name": "rUv",
-      "username": "ruvnet",
-      "url": "https://github.com/ruvnet"
-    },
-    {
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "url": "https://github.com/tt-a1i"
+      "name": "ranxianglei",
+      "username": "ranxianglei",
+      "url": "https://github.com/ranxianglei"
     },
     {
       "name": "Mantra",
@@ -139,39 +49,89 @@
       "url": "https://github.com/mantrakp04"
     },
     {
-      "name": "Aditya Reddy",
-      "username": "adityareddy-dev",
-      "url": "https://github.com/adityareddy-dev"
+      "name": "Gaurav Gosain",
+      "username": "Gaurav-Gosain",
+      "url": "https://github.com/Gaurav-Gosain"
     },
     {
-      "name": "Илия",
-      "username": "777genius",
-      "url": "https://github.com/777genius"
+      "name": "Derek Ross",
+      "username": "derekross",
+      "url": "https://github.com/derekross"
     },
     {
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "url": "https://github.com/backnotprop"
+      "name": "Tanish Manku",
+      "username": "tanish2k09",
+      "url": "https://github.com/tanish2k09"
     },
     {
-      "name": "Kun Chen",
-      "username": "kunchenguid",
-      "url": "https://github.com/kunchenguid"
+      "name": "f (x)",
+      "username": "fzn0x",
+      "url": "https://github.com/fzn0x"
     },
     {
-      "name": "Wellington Cristi Vilela Santana",
-      "username": "Wellington01",
-      "url": "https://github.com/Wellington01"
+      "name": "morluto",
+      "username": "morluto",
+      "url": "https://github.com/morluto"
     },
     {
-      "name": "dkhamsing",
-      "username": "dkhamsing",
-      "url": "https://github.com/dkhamsing"
+      "name": "Kurt Himebauch",
+      "username": "xXJSONDeruloXx",
+      "url": "https://github.com/xXJSONDeruloXx"
     },
     {
-      "name": "Mitchell Hashimoto",
-      "username": "mitchellh",
-      "url": "https://github.com/mitchellh"
+      "name": "Maziyar Panahi",
+      "username": "maziyarpanahi",
+      "url": "https://github.com/maziyarpanahi"
+    },
+    {
+      "name": "Amir Raminfar",
+      "username": "amir20",
+      "url": "https://github.com/amir20"
+    },
+    {
+      "name": "Lysander Su",
+      "username": "zts212653",
+      "url": "https://github.com/zts212653"
+    },
+    {
+      "name": "Cindy Zhang",
+      "username": "cixzhang",
+      "url": "https://github.com/cixzhang"
+    },
+    {
+      "name": "Elie Habib",
+      "username": "koala73",
+      "url": "https://github.com/koala73"
+    },
+    {
+      "name": "Luke Curley",
+      "username": "kixelated",
+      "url": "https://github.com/kixelated"
+    },
+    {
+      "name": "LIghtJUNction",
+      "username": "LIghtJUNction",
+      "url": "https://github.com/LIghtJUNction"
+    },
+    {
+      "name": "Josh McKinney",
+      "username": "joshka",
+      "url": "https://github.com/joshka"
+    },
+    {
+      "name": "Robin Malfait",
+      "username": "RobinMalfait",
+      "url": "https://github.com/RobinMalfait"
+    },
+    {
+      "name": "Hello World",
+      "username": "wuwentao",
+      "url": "https://github.com/wuwentao"
+    },
+    {
+      "name": "Malte Ubl",
+      "username": "cramforce",
+      "url": "https://github.com/cramforce"
     }
   ]
 }
