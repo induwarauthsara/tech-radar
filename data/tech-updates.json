@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T18:25:58Z",
+  "updated_at": "2026-11-09T23:06:07Z",
   "items": [
     {
       "title": "Reinforcement learning with prediction-based rewards",
@@ -506,19 +506,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Team update",
-      "summary": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
-      "description": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
-      "url": "https://openai.com/index/team-update",
+      "title": "Adversarial training methods for semi-supervised text classification",
+      "summary": "Open the original source for the full announcement and technical details.",
+      "description": "",
+      "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
       "source": "OpenAI News",
       "published": "Wed, 25 May 2016 07:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Adversarial training methods for semi-supervised text classification",
-      "summary": "Open the original source for the full announcement and technical details.",
-      "description": "",
-      "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
+      "title": "Team update",
+      "summary": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
+      "description": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
+      "url": "https://openai.com/index/team-update",
       "source": "OpenAI News",
       "published": "Wed, 25 May 2016 07:00:00 GMT",
       "category": "AI & Agents"
@@ -623,15 +623,6 @@
       "category": "Technology"
     },
     {
-      "title": "Introducing ChatGPT and Whisper APIs",
-      "summary": "Open the original source for the full announcement and technical details.",
-      "description": "",
-      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
-      "source": "OpenAI News",
-      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
-      "category": "Technology"
-    },
-    {
       "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
       "summary": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
       "description": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
@@ -639,6 +630,15 @@
       "source": "OpenAI News",
       "published": "Wed, 24 Apr 2024 00:00:00 GMT",
       "category": "AI & Agents"
+    },
+    {
+      "title": "Introducing ChatGPT and Whisper APIs",
+      "summary": "Open the original source for the full announcement and technical details.",
+      "description": "",
+      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+      "source": "OpenAI News",
+      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
+      "category": "Technology"
     },
     {
       "title": "AWS CRT for JavaScript and AWS IoT Device SDK for JavaScript v2 align with the Node.js release schedule",
@@ -668,28 +668,10 @@
       "category": "AI & Agents"
     },
     {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI News",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "Developer Tools"
-    },
-    {
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI News",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "AI & Agents"
-    },
-    {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "url": "https://openai.com/index/ringg",
       "source": "OpenAI News",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
       "category": "AI & Agents"
@@ -702,6 +684,24 @@
       "source": "OpenAI News",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
       "category": "Technology"
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "Developer Tools"
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "AI & Agents"
     },
     {
       "title": "Introducing MentalHealthBench",
@@ -749,19 +749,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Announcing OpenAI DevDay 2025",
-      "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
-      "description": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
-      "url": "https://openai.com/index/announcing-devday-2025",
+      "title": "Model ML is helping financial firms rebuild with AI from the ground up",
+      "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "description": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "url": "https://openai.com/index/model-ml-chaz-englander",
       "source": "OpenAI News",
       "published": "Wed, 23 Jul 2025 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Model ML is helping financial firms rebuild with AI from the ground up",
-      "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
-      "description": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
-      "url": "https://openai.com/index/model-ml-chaz-englander",
+      "title": "Announcing OpenAI DevDay 2025",
+      "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
+      "description": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
+      "url": "https://openai.com/index/announcing-devday-2025",
       "source": "OpenAI News",
       "published": "Wed, 23 Jul 2025 00:00:00 GMT",
       "category": "AI & Agents"

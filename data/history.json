@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T18:25:58Z",
+  "updated_at": "2026-11-09T23:06:07Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -150,6 +150,9 @@
     "https://github.com/storytold/artcraft",
     "https://github.com/anthropics/claude-quickstarts",
     "https://github.com/google-deepmind/mujoco",
-    "https://github.com/blader/humanizer"
+    "https://github.com/blader/humanizer",
+    "https://github.com/garrytan/gbrain",
+    "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "https://github.com/homeassistant-ai/ha-mcp"
   ]
 }

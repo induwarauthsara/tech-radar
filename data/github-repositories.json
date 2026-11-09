@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-08T18:25:58Z",
+  "updated_at": "2026-11-09T23:06:07Z",
   "items": [
     {
-      "name": "claude-quickstarts",
-      "full_name": "anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "language": "Python",
-      "stars_label": "19,307",
-      "period_stars": "28 stars today",
+      "name": "gbrain",
+      "full_name": "garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "url": "https://github.com/garrytan/gbrain",
+      "language": "TypeScript",
+      "stars_label": "32,107",
+      "period_stars": "215 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "mujoco",
-      "full_name": "google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "language": "C++",
-      "stars_label": "16,288",
-      "period_stars": "26 stars today",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "language": "Python",
+      "stars_label": "68,794",
+      "period_stars": "505 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "humanizer",
-      "full_name": "blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "url": "https://github.com/blader/humanizer",
+      "name": "ha-mcp",
+      "full_name": "homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
       "language": "Python",
-      "stars_label": "66,329",
-      "period_stars": "3,067 stars this week",
-      "trend_period": "Weekly"
+      "stars_label": "5,915",
+      "period_stars": "31 stars today",
+      "trend_period": "Daily"
     }
   ],
   "developers": [
@@ -39,29 +39,9 @@
       "url": "https://github.com/pl4nty"
     },
     {
-      "name": "ranxianglei",
-      "username": "ranxianglei",
-      "url": "https://github.com/ranxianglei"
-    },
-    {
       "name": "Mantra",
       "username": "mantrakp04",
       "url": "https://github.com/mantrakp04"
-    },
-    {
-      "name": "Gaurav Gosain",
-      "username": "Gaurav-Gosain",
-      "url": "https://github.com/Gaurav-Gosain"
-    },
-    {
-      "name": "Derek Ross",
-      "username": "derekross",
-      "url": "https://github.com/derekross"
-    },
-    {
-      "name": "Tanish Manku",
-      "username": "tanish2k09",
-      "url": "https://github.com/tanish2k09"
     },
     {
       "name": "f (x)",
@@ -69,19 +49,19 @@
       "url": "https://github.com/fzn0x"
     },
     {
-      "name": "morluto",
-      "username": "morluto",
-      "url": "https://github.com/morluto"
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "url": "https://github.com/backnotprop"
     },
     {
-      "name": "Kurt Himebauch",
-      "username": "xXJSONDeruloXx",
-      "url": "https://github.com/xXJSONDeruloXx"
+      "name": "ranxianglei",
+      "username": "ranxianglei",
+      "url": "https://github.com/ranxianglei"
     },
     {
-      "name": "Maziyar Panahi",
-      "username": "maziyarpanahi",
-      "url": "https://github.com/maziyarpanahi"
+      "name": "zhulinsen",
+      "username": "ZhuLinsen",
+      "url": "https://github.com/ZhuLinsen"
     },
     {
       "name": "Amir Raminfar",
@@ -89,9 +69,24 @@
       "url": "https://github.com/amir20"
     },
     {
-      "name": "Lysander Su",
-      "username": "zts212653",
-      "url": "https://github.com/zts212653"
+      "name": "JUN",
+      "username": "lidge-jun",
+      "url": "https://github.com/lidge-jun"
+    },
+    {
+      "name": "morluto",
+      "username": "morluto",
+      "url": "https://github.com/morluto"
+    },
+    {
+      "name": "Charlie Gao",
+      "username": "shikokuchuo",
+      "url": "https://github.com/shikokuchuo"
+    },
+    {
+      "name": "Alpamys Makazhan",
+      "username": "MakazhanAlpamys",
+      "url": "https://github.com/MakazhanAlpamys"
     },
     {
       "name": "Cindy Zhang",
@@ -99,39 +94,44 @@
       "url": "https://github.com/cixzhang"
     },
     {
-      "name": "Elie Habib",
-      "username": "koala73",
-      "url": "https://github.com/koala73"
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "url": "https://github.com/garrytan"
     },
     {
-      "name": "Luke Curley",
-      "username": "kixelated",
-      "url": "https://github.com/kixelated"
+      "name": "Gaurav Gosain",
+      "username": "Gaurav-Gosain",
+      "url": "https://github.com/Gaurav-Gosain"
     },
     {
-      "name": "LIghtJUNction",
-      "username": "LIghtJUNction",
-      "url": "https://github.com/LIghtJUNction"
+      "name": "Frankie-Xu",
+      "username": "Frankie-Xu",
+      "url": "https://github.com/Frankie-Xu"
     },
     {
-      "name": "Josh McKinney",
-      "username": "joshka",
-      "url": "https://github.com/joshka"
+      "name": "YeonGyu-Kim",
+      "username": "code-yeongyu",
+      "url": "https://github.com/code-yeongyu"
     },
     {
-      "name": "Robin Malfait",
-      "username": "RobinMalfait",
-      "url": "https://github.com/RobinMalfait"
+      "name": "Matthew Parker",
+      "username": "SysAdminDoc",
+      "url": "https://github.com/SysAdminDoc"
     },
     {
-      "name": "Hello World",
-      "username": "wuwentao",
-      "url": "https://github.com/wuwentao"
+      "name": "yetone",
+      "username": "yetone",
+      "url": "https://github.com/yetone"
     },
     {
-      "name": "Malte Ubl",
-      "username": "cramforce",
-      "url": "https://github.com/cramforce"
+      "name": "ikaijua",
+      "username": "ikaijua",
+      "url": "https://github.com/ikaijua"
+    },
+    {
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "url": "https://github.com/elie222"
     }
   ]
 }
