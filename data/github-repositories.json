@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-11-09T23:06:07Z",
+  "updated_at": "2026-11-10T20:33:14Z",
   "items": [
     {
-      "name": "gbrain",
-      "full_name": "garrytan/gbrain",
-      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-      "url": "https://github.com/garrytan/gbrain",
-      "language": "TypeScript",
-      "stars_label": "32,107",
-      "period_stars": "215 stars today",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "language": "JavaScript",
+      "stars_label": "115,046",
+      "period_stars": "465 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "daily_stock_analysis",
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "language": "Python",
-      "stars_label": "68,794",
-      "period_stars": "505 stars today",
+      "name": "sure",
+      "full_name": "we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "url": "https://github.com/we-promise/sure",
+      "language": "Ruby",
+      "stars_label": "11,794",
+      "period_stars": "184 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "ha-mcp",
-      "full_name": "homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "language": "Python",
-      "stars_label": "5,915",
-      "period_stars": "31 stars today",
+      "name": "topcoat",
+      "full_name": "tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "language": "Rust",
+      "stars_label": "6,730",
+      "period_stars": "192 stars today",
       "trend_period": "Daily"
     }
   ],
   "developers": [
     {
-      "name": "Tom Plant",
-      "username": "pl4nty",
-      "url": "https://github.com/pl4nty"
+      "name": "ranxianglei",
+      "username": "ranxianglei",
+      "url": "https://github.com/ranxianglei"
     },
     {
       "name": "Mantra",
@@ -44,9 +44,19 @@
       "url": "https://github.com/mantrakp04"
     },
     {
-      "name": "f (x)",
-      "username": "fzn0x",
-      "url": "https://github.com/fzn0x"
+      "name": "zhulinsen",
+      "username": "ZhuLinsen",
+      "url": "https://github.com/ZhuLinsen"
+    },
+    {
+      "name": "rUv",
+      "username": "ruvnet",
+      "url": "https://github.com/ruvnet"
+    },
+    {
+      "name": "Jules Lasne",
+      "username": "Seluj78",
+      "url": "https://github.com/Seluj78"
     },
     {
       "name": "Michael Ramos",
@@ -54,39 +64,9 @@
       "url": "https://github.com/backnotprop"
     },
     {
-      "name": "ranxianglei",
-      "username": "ranxianglei",
-      "url": "https://github.com/ranxianglei"
-    },
-    {
-      "name": "zhulinsen",
-      "username": "ZhuLinsen",
-      "url": "https://github.com/ZhuLinsen"
-    },
-    {
-      "name": "Amir Raminfar",
-      "username": "amir20",
-      "url": "https://github.com/amir20"
-    },
-    {
-      "name": "JUN",
-      "username": "lidge-jun",
-      "url": "https://github.com/lidge-jun"
-    },
-    {
-      "name": "morluto",
-      "username": "morluto",
-      "url": "https://github.com/morluto"
-    },
-    {
-      "name": "Charlie Gao",
-      "username": "shikokuchuo",
-      "url": "https://github.com/shikokuchuo"
-    },
-    {
-      "name": "Alpamys Makazhan",
-      "username": "MakazhanAlpamys",
-      "url": "https://github.com/MakazhanAlpamys"
+      "name": "Bernhard Mueller",
+      "username": "muellerberndt",
+      "url": "https://github.com/muellerberndt"
     },
     {
       "name": "Cindy Zhang",
@@ -94,44 +74,64 @@
       "url": "https://github.com/cixzhang"
     },
     {
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "url": "https://github.com/garrytan"
+      "name": "Emil Ernerfeldt",
+      "username": "emilk",
+      "url": "https://github.com/emilk"
     },
     {
-      "name": "Gaurav Gosain",
-      "username": "Gaurav-Gosain",
-      "url": "https://github.com/Gaurav-Gosain"
+      "name": "Amir Raminfar",
+      "username": "amir20",
+      "url": "https://github.com/amir20"
     },
     {
-      "name": "Frankie-Xu",
-      "username": "Frankie-Xu",
-      "url": "https://github.com/Frankie-Xu"
+      "name": "morluto",
+      "username": "morluto",
+      "url": "https://github.com/morluto"
     },
     {
-      "name": "YeonGyu-Kim",
-      "username": "code-yeongyu",
-      "url": "https://github.com/code-yeongyu"
+      "name": "DeepCold",
+      "username": "deepcoldy",
+      "url": "https://github.com/deepcoldy"
     },
     {
-      "name": "Matthew Parker",
-      "username": "SysAdminDoc",
-      "url": "https://github.com/SysAdminDoc"
+      "name": "Jean-Marc Collin",
+      "username": "jmcollin78",
+      "url": "https://github.com/jmcollin78"
     },
     {
-      "name": "yetone",
-      "username": "yetone",
-      "url": "https://github.com/yetone"
+      "name": "EVA",
+      "username": "100yenadmin",
+      "url": "https://github.com/100yenadmin"
     },
     {
-      "name": "ikaijua",
-      "username": "ikaijua",
-      "url": "https://github.com/ikaijua"
+      "name": "Peak Twilight",
+      "username": "peaktwilight",
+      "url": "https://github.com/peaktwilight"
     },
     {
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "url": "https://github.com/elie222"
+      "name": "f (x)",
+      "username": "fzn0x",
+      "url": "https://github.com/fzn0x"
+    },
+    {
+      "name": "Samuel Schlesinger",
+      "username": "SamuelSchlesinger",
+      "url": "https://github.com/SamuelSchlesinger"
+    },
+    {
+      "name": "Chris Fregly",
+      "username": "cfregly",
+      "url": "https://github.com/cfregly"
+    },
+    {
+      "name": "Willie",
+      "username": "runkids",
+      "url": "https://github.com/runkids"
+    },
+    {
+      "name": "Marcus Quinn",
+      "username": "marcusquinn",
+      "url": "https://github.com/marcusquinn"
     }
   ]
 }
