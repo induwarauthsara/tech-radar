@@ -1,47 +1,62 @@
 {
-  "updated_at": "2026-11-10T20:33:14Z",
+  "updated_at": "2026-11-11T20:17:30Z",
   "items": [
     {
-      "name": "agent-skills",
-      "full_name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "language": "JavaScript",
-      "stars_label": "115,046",
-      "period_stars": "465 stars today",
+      "name": "modern-web-guidance-src",
+      "full_name": "GoogleChrome/modern-web-guidance-src",
+      "description": "",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "language": "TypeScript",
+      "stars_label": "1,643",
+      "period_stars": "133 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "sure",
-      "full_name": "we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "url": "https://github.com/we-promise/sure",
-      "language": "Ruby",
-      "stars_label": "11,794",
-      "period_stars": "184 stars today",
+      "name": "improve",
+      "full_name": "shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "url": "https://github.com/shadcn/improve",
+      "language": "",
+      "stars_label": "10,726",
+      "period_stars": "333 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "topcoat",
-      "full_name": "tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "url": "https://github.com/tokio-rs/topcoat",
+      "name": "codex-security",
+      "full_name": "openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "language": "TypeScript",
+      "stars_label": "11,616",
+      "period_stars": "20 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "Java",
+      "full_name": "TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "language": "Java",
+      "stars_label": "66,957",
+      "period_stars": "108 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "herdr",
+      "full_name": "herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
+      "url": "https://github.com/herdrdev/herdr",
       "language": "Rust",
-      "stars_label": "6,730",
-      "period_stars": "192 stars today",
-      "trend_period": "Daily"
+      "stars_label": "50,278",
+      "period_stars": "2,196 stars this week",
+      "trend_period": "Weekly"
     }
   ],
   "developers": [
     {
-      "name": "ranxianglei",
-      "username": "ranxianglei",
-      "url": "https://github.com/ranxianglei"
-    },
-    {
-      "name": "Mantra",
-      "username": "mantrakp04",
-      "url": "https://github.com/mantrakp04"
+      "name": "rUv",
+      "username": "ruvnet",
+      "url": "https://github.com/ruvnet"
     },
     {
       "name": "zhulinsen",
@@ -49,44 +64,9 @@
       "url": "https://github.com/ZhuLinsen"
     },
     {
-      "name": "rUv",
-      "username": "ruvnet",
-      "url": "https://github.com/ruvnet"
-    },
-    {
-      "name": "Jules Lasne",
-      "username": "Seluj78",
-      "url": "https://github.com/Seluj78"
-    },
-    {
       "name": "Michael Ramos",
       "username": "backnotprop",
       "url": "https://github.com/backnotprop"
-    },
-    {
-      "name": "Bernhard Mueller",
-      "username": "muellerberndt",
-      "url": "https://github.com/muellerberndt"
-    },
-    {
-      "name": "Cindy Zhang",
-      "username": "cixzhang",
-      "url": "https://github.com/cixzhang"
-    },
-    {
-      "name": "Emil Ernerfeldt",
-      "username": "emilk",
-      "url": "https://github.com/emilk"
-    },
-    {
-      "name": "Amir Raminfar",
-      "username": "amir20",
-      "url": "https://github.com/amir20"
-    },
-    {
-      "name": "morluto",
-      "username": "morluto",
-      "url": "https://github.com/morluto"
     },
     {
       "name": "DeepCold",
@@ -94,24 +74,44 @@
       "url": "https://github.com/deepcoldy"
     },
     {
-      "name": "Jean-Marc Collin",
-      "username": "jmcollin78",
-      "url": "https://github.com/jmcollin78"
+      "name": "ranxianglei",
+      "username": "ranxianglei",
+      "url": "https://github.com/ranxianglei"
     },
     {
-      "name": "EVA",
-      "username": "100yenadmin",
-      "url": "https://github.com/100yenadmin"
+      "name": "ikaijua",
+      "username": "ikaijua",
+      "url": "https://github.com/ikaijua"
     },
     {
-      "name": "Peak Twilight",
-      "username": "peaktwilight",
-      "url": "https://github.com/peaktwilight"
-    },
-    {
-      "name": "f (x)",
+      "name": "F",
       "username": "fzn0x",
       "url": "https://github.com/fzn0x"
+    },
+    {
+      "name": "Mantra",
+      "username": "mantrakp04",
+      "url": "https://github.com/mantrakp04"
+    },
+    {
+      "name": "JUN",
+      "username": "lidge-jun",
+      "url": "https://github.com/lidge-jun"
+    },
+    {
+      "name": "Paul Irish",
+      "username": "paulirish",
+      "url": "https://github.com/paulirish"
+    },
+    {
+      "name": "Owen Schwartz",
+      "username": "oschwartz10612",
+      "url": "https://github.com/oschwartz10612"
+    },
+    {
+      "name": "Cindy Zhang",
+      "username": "cixzhang",
+      "url": "https://github.com/cixzhang"
     },
     {
       "name": "Samuel Schlesinger",
@@ -119,9 +119,9 @@
       "url": "https://github.com/SamuelSchlesinger"
     },
     {
-      "name": "Chris Fregly",
-      "username": "cfregly",
-      "url": "https://github.com/cfregly"
+      "name": "朱昆鹏",
+      "username": "zhukunpenglinyutong",
+      "url": "https://github.com/zhukunpenglinyutong"
     },
     {
       "name": "Willie",
@@ -129,9 +129,29 @@
       "url": "https://github.com/runkids"
     },
     {
-      "name": "Marcus Quinn",
-      "username": "marcusquinn",
-      "url": "https://github.com/marcusquinn"
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "url": "https://github.com/mvanhorn"
+    },
+    {
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "url": "https://github.com/elie222"
+    },
+    {
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "url": "https://github.com/pbakaus"
+    },
+    {
+      "name": "Liangsheng Yin",
+      "username": "hnyls2002",
+      "url": "https://github.com/hnyls2002"
+    },
+    {
+      "name": "Garry Tan",
+      "username": "garrytan",
+      "url": "https://github.com/garrytan"
     }
   ]
 }

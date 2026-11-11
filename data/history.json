@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T20:33:14Z",
+  "updated_at": "2026-11-11T20:17:30Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -156,6 +156,11 @@
     "https://github.com/homeassistant-ai/ha-mcp",
     "https://github.com/addyosmani/agent-skills",
     "https://github.com/we-promise/sure",
-    "https://github.com/tokio-rs/topcoat"
+    "https://github.com/tokio-rs/topcoat",
+    "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "https://github.com/shadcn/improve",
+    "https://github.com/openai/codex-security",
+    "https://github.com/TheAlgorithms/Java",
+    "https://github.com/herdrdev/herdr"
   ]
 }
