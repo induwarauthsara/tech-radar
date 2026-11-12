@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T20:17:30Z",
+  "updated_at": "2026-11-12T21:00:12Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -161,6 +161,13 @@
     "https://github.com/shadcn/improve",
     "https://github.com/openai/codex-security",
     "https://github.com/TheAlgorithms/Java",
-    "https://github.com/herdrdev/herdr"
+    "https://github.com/herdrdev/herdr",
+    "https://github.com/nvm-sh/nvm",
+    "https://github.com/pookjw/HermesEnabler",
+    "https://github.com/QwenLM/qwen-code",
+    "https://github.com/ashhart/TensorFold",
+    "https://github.com/nodejs/node",
+    "https://github.com/Alishahryar1/free-claude-code",
+    "https://github.com/ggml-org/llama.cpp"
   ]
 }

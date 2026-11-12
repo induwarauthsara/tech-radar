@@ -1,72 +1,82 @@
 {
-  "updated_at": "2026-11-11T20:17:30Z",
+  "updated_at": "2026-11-12T21:00:12Z",
   "items": [
     {
-      "name": "modern-web-guidance-src",
-      "full_name": "GoogleChrome/modern-web-guidance-src",
-      "description": "",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "url": "https://github.com/nvm-sh/nvm",
+      "language": "Shell",
+      "stars_label": "95,985",
+      "period_stars": "107 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "HermesEnabler",
+      "full_name": "pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "language": "Objective-C",
+      "stars_label": "1,491",
+      "period_stars": "300 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "qwen-code",
+      "full_name": "QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "url": "https://github.com/QwenLM/qwen-code",
       "language": "TypeScript",
-      "stars_label": "1,643",
+      "stars_label": "29,736",
+      "period_stars": "151 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "TensorFold",
+      "full_name": "ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "url": "https://github.com/ashhart/TensorFold",
+      "language": "Zig",
+      "stars_label": "1,912",
+      "period_stars": "94 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "node",
+      "full_name": "nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "url": "https://github.com/nodejs/node",
+      "language": "JavaScript",
+      "stars_label": "123,571",
       "period_stars": "133 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "improve",
-      "full_name": "shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "url": "https://github.com/shadcn/improve",
-      "language": "",
-      "stars_label": "10,726",
-      "period_stars": "333 stars today",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "language": "Python",
+      "stars_label": "69,179",
+      "period_stars": "461 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "codex-security",
-      "full_name": "openai/codex-security",
-      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "language": "TypeScript",
-      "stars_label": "11,616",
-      "period_stars": "20 stars today",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "language": "C++",
+      "stars_label": "134,477",
+      "period_stars": "287 stars today",
       "trend_period": "Daily"
-    },
-    {
-      "name": "Java",
-      "full_name": "TheAlgorithms/Java",
-      "description": "All Algorithms implemented in Java",
-      "url": "https://github.com/TheAlgorithms/Java",
-      "language": "Java",
-      "stars_label": "66,957",
-      "period_stars": "108 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "herdr",
-      "full_name": "herdrdev/herdr",
-      "description": "the runtime your coding agents live on",
-      "url": "https://github.com/herdrdev/herdr",
-      "language": "Rust",
-      "stars_label": "50,278",
-      "period_stars": "2,196 stars this week",
-      "trend_period": "Weekly"
     }
   ],
   "developers": [
     {
-      "name": "rUv",
-      "username": "ruvnet",
-      "url": "https://github.com/ruvnet"
-    },
-    {
-      "name": "zhulinsen",
-      "username": "ZhuLinsen",
-      "url": "https://github.com/ZhuLinsen"
-    },
-    {
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "url": "https://github.com/backnotprop"
+      "name": "JUN",
+      "username": "lidge-jun",
+      "url": "https://github.com/lidge-jun"
     },
     {
       "name": "DeepCold",
@@ -74,54 +84,14 @@
       "url": "https://github.com/deepcoldy"
     },
     {
-      "name": "ranxianglei",
-      "username": "ranxianglei",
-      "url": "https://github.com/ranxianglei"
+      "name": "David Heinemeier Hansson",
+      "username": "dhh",
+      "url": "https://github.com/dhh"
     },
     {
-      "name": "ikaijua",
-      "username": "ikaijua",
-      "url": "https://github.com/ikaijua"
-    },
-    {
-      "name": "F",
-      "username": "fzn0x",
-      "url": "https://github.com/fzn0x"
-    },
-    {
-      "name": "Mantra",
-      "username": "mantrakp04",
-      "url": "https://github.com/mantrakp04"
-    },
-    {
-      "name": "JUN",
-      "username": "lidge-jun",
-      "url": "https://github.com/lidge-jun"
-    },
-    {
-      "name": "Paul Irish",
-      "username": "paulirish",
-      "url": "https://github.com/paulirish"
-    },
-    {
-      "name": "Owen Schwartz",
-      "username": "oschwartz10612",
-      "url": "https://github.com/oschwartz10612"
-    },
-    {
-      "name": "Cindy Zhang",
-      "username": "cixzhang",
-      "url": "https://github.com/cixzhang"
-    },
-    {
-      "name": "Samuel Schlesinger",
-      "username": "SamuelSchlesinger",
-      "url": "https://github.com/SamuelSchlesinger"
-    },
-    {
-      "name": "朱昆鹏",
-      "username": "zhukunpenglinyutong",
-      "url": "https://github.com/zhukunpenglinyutong"
+      "name": "Karan Bansal",
+      "username": "karanb192",
+      "url": "https://github.com/karanb192"
     },
     {
       "name": "Willie",
@@ -129,29 +99,79 @@
       "url": "https://github.com/runkids"
     },
     {
-      "name": "Matt Van Horn",
-      "username": "mvanhorn",
-      "url": "https://github.com/mvanhorn"
+      "name": "Yaowei Zheng",
+      "username": "hiyouga",
+      "url": "https://github.com/hiyouga"
     },
     {
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "url": "https://github.com/elie222"
+      "name": "Paul Irish",
+      "username": "paulirish",
+      "url": "https://github.com/paulirish"
     },
     {
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "url": "https://github.com/pbakaus"
+      "name": "zhulinsen",
+      "username": "ZhuLinsen",
+      "url": "https://github.com/ZhuLinsen"
     },
     {
-      "name": "Liangsheng Yin",
-      "username": "hnyls2002",
-      "url": "https://github.com/hnyls2002"
+      "name": "rUv",
+      "username": "ruvnet",
+      "url": "https://github.com/ruvnet"
     },
     {
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "url": "https://github.com/garrytan"
+      "name": "morluto",
+      "username": "morluto",
+      "url": "https://github.com/morluto"
+    },
+    {
+      "name": "Dash",
+      "username": "dashhuang",
+      "url": "https://github.com/dashhuang"
+    },
+    {
+      "name": "朱昆鹏",
+      "username": "zhukunpenglinyutong",
+      "url": "https://github.com/zhukunpenglinyutong"
+    },
+    {
+      "name": "Gregory M. Kurtzer",
+      "username": "gmkurtzer",
+      "url": "https://github.com/gmkurtzer"
+    },
+    {
+      "name": "Henrik Rydgård",
+      "username": "hrydgard",
+      "url": "https://github.com/hrydgard"
+    },
+    {
+      "name": "Derek Ross",
+      "username": "derekross",
+      "url": "https://github.com/derekross"
+    },
+    {
+      "name": "Andrew",
+      "username": "aandrew-me",
+      "url": "https://github.com/aandrew-me"
+    },
+    {
+      "name": "Joakim Eriksson",
+      "username": "joakimeriksson",
+      "url": "https://github.com/joakimeriksson"
+    },
+    {
+      "name": "Ayaan Zaidi",
+      "username": "obviyus",
+      "url": "https://github.com/obviyus"
+    },
+    {
+      "name": "Cliff Hall",
+      "username": "cliffhall",
+      "url": "https://github.com/cliffhall"
+    },
+    {
+      "name": "Trevin Chow",
+      "username": "tmchow",
+      "url": "https://github.com/tmchow"
     }
   ]
 }
