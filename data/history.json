@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T21:00:12Z",
+  "updated_at": "2026-11-13T20:36:37Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -168,6 +168,16 @@
     "https://github.com/ashhart/TensorFold",
     "https://github.com/nodejs/node",
     "https://github.com/Alishahryar1/free-claude-code",
-    "https://github.com/ggml-org/llama.cpp"
+    "https://github.com/ggml-org/llama.cpp",
+    "https://github.com/alibaba/open-code-review",
+    "https://github.com/backnotprop/plannotator",
+    "https://github.com/louislam/uptime-kuma",
+    "https://github.com/block/buzz",
+    "https://github.com/tradermonty/claude-trading-skills",
+    "https://github.com/tailscale/tailcat",
+    "https://github.com/Likely7/Veyra-NRVideo",
+    "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "https://github.com/google/elephant-goldfish-model",
+    "https://github.com/lobehub/lobehub"
   ]
 }

@@ -1,117 +1,127 @@
 {
-  "updated_at": "2026-11-12T21:00:12Z",
+  "updated_at": "2026-11-13T20:36:37Z",
   "items": [
     {
-      "name": "nvm",
-      "full_name": "nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "url": "https://github.com/nvm-sh/nvm",
-      "language": "Shell",
-      "stars_label": "95,985",
-      "period_stars": "107 stars today",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "url": "https://github.com/alibaba/open-code-review",
+      "language": "Go",
+      "stars_label": "50,499",
+      "period_stars": "206 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "HermesEnabler",
-      "full_name": "pookjw/HermesEnabler",
-      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
-      "url": "https://github.com/pookjw/HermesEnabler",
-      "language": "Objective-C",
-      "stars_label": "1,491",
-      "period_stars": "300 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "qwen-code",
-      "full_name": "QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "url": "https://github.com/QwenLM/qwen-code",
+      "name": "plannotator",
+      "full_name": "backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "url": "https://github.com/backnotprop/plannotator",
       "language": "TypeScript",
-      "stars_label": "29,736",
-      "period_stars": "151 stars today",
+      "stars_label": "10,389",
+      "period_stars": "100 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "TensorFold",
-      "full_name": "ashhart/TensorFold",
-      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
-      "url": "https://github.com/ashhart/TensorFold",
-      "language": "Zig",
-      "stars_label": "1,912",
-      "period_stars": "94 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "node",
-      "full_name": "nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "url": "https://github.com/nodejs/node",
+      "name": "uptime-kuma",
+      "full_name": "louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "url": "https://github.com/louislam/uptime-kuma",
       "language": "JavaScript",
-      "stars_label": "123,571",
-      "period_stars": "133 stars today",
+      "stars_label": "93,797",
+      "period_stars": "61 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "free-claude-code",
-      "full_name": "Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "name": "buzz",
+      "full_name": "block/buzz",
+      "description": "A hive mind communication platform",
+      "url": "https://github.com/block/buzz",
+      "language": "Rust",
+      "stars_label": "37,266",
+      "period_stars": "95 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "claude-trading-skills",
+      "full_name": "tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
       "language": "Python",
-      "stars_label": "69,179",
-      "period_stars": "461 stars today",
+      "stars_label": "4,088",
+      "period_stars": "60 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "llama.cpp",
-      "full_name": "ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "language": "C++",
-      "stars_label": "134,477",
-      "period_stars": "287 stars today",
+      "name": "tailcat",
+      "full_name": "tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "language": "Go",
+      "stars_label": "9,380",
+      "period_stars": "324 stars today",
       "trend_period": "Daily"
+    },
+    {
+      "name": "Veyra-NRVideo",
+      "full_name": "Likely7/Veyra-NRVideo",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "language": "C++",
+      "stars_label": "1,567",
+      "period_stars": "245 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "language": "TypeScript",
+      "stars_label": "55,388",
+      "period_stars": "145 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "elephant-goldfish-model",
+      "full_name": "google/elephant-goldfish-model",
+      "description": "Open-source plugin for designing and reviewing software with agents",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "language": "Python",
+      "stars_label": "18,552",
+      "period_stars": "5,555 stars this week",
+      "trend_period": "Weekly"
+    },
+    {
+      "name": "lobehub",
+      "full_name": "lobehub/lobehub",
+      "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+      "url": "https://github.com/lobehub/lobehub",
+      "language": "TypeScript",
+      "stars_label": "85,357",
+      "period_stars": "1,186 stars this week",
+      "trend_period": "Weekly"
     }
   ],
   "developers": [
-    {
-      "name": "JUN",
-      "username": "lidge-jun",
-      "url": "https://github.com/lidge-jun"
-    },
     {
       "name": "DeepCold",
       "username": "deepcoldy",
       "url": "https://github.com/deepcoldy"
     },
     {
-      "name": "David Heinemeier Hansson",
-      "username": "dhh",
-      "url": "https://github.com/dhh"
+      "name": "JUN",
+      "username": "lidge-jun",
+      "url": "https://github.com/lidge-jun"
     },
     {
-      "name": "Karan Bansal",
-      "username": "karanb192",
-      "url": "https://github.com/karanb192"
+      "name": "Baris Sencan",
+      "username": "isair",
+      "url": "https://github.com/isair"
     },
     {
-      "name": "Willie",
-      "username": "runkids",
-      "url": "https://github.com/runkids"
-    },
-    {
-      "name": "Yaowei Zheng",
-      "username": "hiyouga",
-      "url": "https://github.com/hiyouga"
-    },
-    {
-      "name": "Paul Irish",
-      "username": "paulirish",
-      "url": "https://github.com/paulirish"
-    },
-    {
-      "name": "zhulinsen",
-      "username": "ZhuLinsen",
-      "url": "https://github.com/ZhuLinsen"
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "url": "https://github.com/elie222"
     },
     {
       "name": "rUv",
@@ -119,39 +129,24 @@
       "url": "https://github.com/ruvnet"
     },
     {
-      "name": "morluto",
-      "username": "morluto",
-      "url": "https://github.com/morluto"
+      "name": "Ersin KOÇ",
+      "username": "ersinkoc",
+      "url": "https://github.com/ersinkoc"
     },
     {
-      "name": "Dash",
-      "username": "dashhuang",
-      "url": "https://github.com/dashhuang"
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "url": "https://github.com/backnotprop"
     },
     {
-      "name": "朱昆鹏",
-      "username": "zhukunpenglinyutong",
-      "url": "https://github.com/zhukunpenglinyutong"
+      "name": "zhulinsen",
+      "username": "ZhuLinsen",
+      "url": "https://github.com/ZhuLinsen"
     },
     {
-      "name": "Gregory M. Kurtzer",
-      "username": "gmkurtzer",
-      "url": "https://github.com/gmkurtzer"
-    },
-    {
-      "name": "Henrik Rydgård",
-      "username": "hrydgard",
-      "url": "https://github.com/hrydgard"
-    },
-    {
-      "name": "Derek Ross",
-      "username": "derekross",
-      "url": "https://github.com/derekross"
-    },
-    {
-      "name": "Andrew",
-      "username": "aandrew-me",
-      "url": "https://github.com/aandrew-me"
+      "name": "Vincenzo Fornaro",
+      "username": "JustVugg",
+      "url": "https://github.com/JustVugg"
     },
     {
       "name": "Joakim Eriksson",
@@ -159,14 +154,49 @@
       "url": "https://github.com/joakimeriksson"
     },
     {
-      "name": "Ayaan Zaidi",
-      "username": "obviyus",
-      "url": "https://github.com/obviyus"
+      "name": "ikaijua",
+      "username": "ikaijua",
+      "url": "https://github.com/ikaijua"
     },
     {
-      "name": "Cliff Hall",
-      "username": "cliffhall",
-      "url": "https://github.com/cliffhall"
+      "name": "Willie",
+      "username": "runkids",
+      "url": "https://github.com/runkids"
+    },
+    {
+      "name": "Daniel Meppiel",
+      "username": "danielmeppiel",
+      "url": "https://github.com/danielmeppiel"
+    },
+    {
+      "name": "Tom Owers",
+      "username": "Gilbert09",
+      "url": "https://github.com/Gilbert09"
+    },
+    {
+      "name": "Terry Jia",
+      "username": "jtydhr88",
+      "url": "https://github.com/jtydhr88"
+    },
+    {
+      "name": "朱昆鹏",
+      "username": "zhukunpenglinyutong",
+      "url": "https://github.com/zhukunpenglinyutong"
+    },
+    {
+      "name": "Alpamys Makazhan",
+      "username": "MakazhanAlpamys",
+      "url": "https://github.com/MakazhanAlpamys"
+    },
+    {
+      "name": "Chimney",
+      "username": "ccch1mneyyy",
+      "url": "https://github.com/ccch1mneyyy"
+    },
+    {
+      "name": "Pedro Henrique Penna",
+      "username": "ppenna",
+      "url": "https://github.com/ppenna"
     },
     {
       "name": "Trevin Chow",
