@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T20:36:37Z",
+  "updated_at": "2026-11-14T18:48:37Z",
   "items": [
     {
       "title": "Reinforcement learning with prediction-based rewards",
@@ -101,19 +101,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "gpt-oss-safeguard technical report",
-      "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using…",
-      "description": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
-      "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
+      "title": "Introducing gpt-oss-safeguard",
+      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
       "source": "OpenAI News",
       "published": "Wed, 29 Oct 2025 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Introducing gpt-oss-safeguard",
-      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+      "title": "gpt-oss-safeguard technical report",
+      "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using…",
+      "description": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
+      "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
       "source": "OpenAI News",
       "published": "Wed, 29 Oct 2025 00:00:00 GMT",
       "category": "AI & Agents"
@@ -335,19 +335,19 @@
       "category": "Developer Tools"
     },
     {
-      "title": "The next chapter for AI in the EU",
-      "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-      "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "title": "EMEA Youth & Wellbeing Grant",
+      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
       "source": "OpenAI News",
       "published": "Wed, 28 Jan 2026 01:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "EMEA Youth & Wellbeing Grant",
-      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-      "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "title": "The next chapter for AI in the EU",
+      "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
       "source": "OpenAI News",
       "published": "Wed, 28 Jan 2026 01:00:00 GMT",
       "category": "AI & Agents"
@@ -380,19 +380,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "url": "https://openai.com/index/warp",
+      "title": "Election information and safeguards in 2026",
+      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "url": "https://openai.com/index/election-safeguards-2026",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "url": "https://openai.com/index/election-safeguards-2026",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
@@ -461,19 +461,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI News",
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI News",
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "category": "AI & Agents"
@@ -686,15 +686,6 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI News",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "Technology"
-    },
-    {
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
       "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
@@ -702,6 +693,15 @@
       "source": "OpenAI News",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
       "category": "AI & Agents"
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "Technology"
     },
     {
       "title": "Introducing MentalHealthBench",

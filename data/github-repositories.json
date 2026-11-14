@@ -1,162 +1,72 @@
 {
-  "updated_at": "2026-11-13T20:36:37Z",
+  "updated_at": "2026-11-14T18:48:37Z",
   "items": [
     {
-      "name": "open-code-review",
-      "full_name": "alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "url": "https://github.com/alibaba/open-code-review",
-      "language": "Go",
-      "stars_label": "50,499",
-      "period_stars": "206 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "plannotator",
-      "full_name": "backnotprop/plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "url": "https://github.com/backnotprop/plannotator",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "url": "https://github.com/dream-num/univer",
       "language": "TypeScript",
-      "stars_label": "10,389",
-      "period_stars": "100 stars today",
+      "stars_label": "24,370",
+      "period_stars": "495 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "uptime-kuma",
-      "full_name": "louislam/uptime-kuma",
-      "description": "A fancy self-hosted monitoring tool",
-      "url": "https://github.com/louislam/uptime-kuma",
-      "language": "JavaScript",
-      "stars_label": "93,797",
-      "period_stars": "61 stars today",
+      "name": "ag-ui",
+      "full_name": "ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "language": "TypeScript",
+      "stars_label": "17,273",
+      "period_stars": "9 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "buzz",
-      "full_name": "block/buzz",
-      "description": "A hive mind communication platform",
-      "url": "https://github.com/block/buzz",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "language": "Go",
+      "stars_label": "119,944",
+      "period_stars": "227 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "LoopForge",
+      "full_name": "Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "url": "https://github.com/Tencent/LoopForge",
+      "language": "Go",
+      "stars_label": "808",
+      "period_stars": "101 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "airgorah",
+      "full_name": "martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
+      "url": "https://github.com/martin-olivier/airgorah",
       "language": "Rust",
-      "stars_label": "37,266",
-      "period_stars": "95 stars today",
+      "stars_label": "5,696",
+      "period_stars": "269 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "claude-trading-skills",
-      "full_name": "tradermonty/claude-trading-skills",
-      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "language": "Python",
-      "stars_label": "4,088",
-      "period_stars": "60 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "tailcat",
-      "full_name": "tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "url": "https://github.com/tailscale/tailcat",
-      "language": "Go",
-      "stars_label": "9,380",
-      "period_stars": "324 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "Veyra-NRVideo",
-      "full_name": "Likely7/Veyra-NRVideo",
-      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
-      "url": "https://github.com/Likely7/Veyra-NRVideo",
-      "language": "C++",
-      "stars_label": "1,567",
-      "period_stars": "245 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "chrome-devtools-mcp",
-      "full_name": "ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "name": "video-shotcraft",
+      "full_name": "Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
       "language": "TypeScript",
-      "stars_label": "55,388",
-      "period_stars": "145 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "elephant-goldfish-model",
-      "full_name": "google/elephant-goldfish-model",
-      "description": "Open-source plugin for designing and reviewing software with agents",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "language": "Python",
-      "stars_label": "18,552",
-      "period_stars": "5,555 stars this week",
-      "trend_period": "Weekly"
-    },
-    {
-      "name": "lobehub",
-      "full_name": "lobehub/lobehub",
-      "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
-      "url": "https://github.com/lobehub/lobehub",
-      "language": "TypeScript",
-      "stars_label": "85,357",
-      "period_stars": "1,186 stars this week",
-      "trend_period": "Weekly"
+      "stars_label": "19,503",
+      "period_stars": "7,584 stars this month",
+      "trend_period": "Monthly"
     }
   ],
   "developers": [
     {
-      "name": "DeepCold",
-      "username": "deepcoldy",
-      "url": "https://github.com/deepcoldy"
-    },
-    {
       "name": "JUN",
       "username": "lidge-jun",
       "url": "https://github.com/lidge-jun"
-    },
-    {
-      "name": "Baris Sencan",
-      "username": "isair",
-      "url": "https://github.com/isair"
-    },
-    {
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "url": "https://github.com/elie222"
-    },
-    {
-      "name": "rUv",
-      "username": "ruvnet",
-      "url": "https://github.com/ruvnet"
-    },
-    {
-      "name": "Ersin KOÇ",
-      "username": "ersinkoc",
-      "url": "https://github.com/ersinkoc"
-    },
-    {
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "url": "https://github.com/backnotprop"
-    },
-    {
-      "name": "zhulinsen",
-      "username": "ZhuLinsen",
-      "url": "https://github.com/ZhuLinsen"
-    },
-    {
-      "name": "Vincenzo Fornaro",
-      "username": "JustVugg",
-      "url": "https://github.com/JustVugg"
-    },
-    {
-      "name": "Joakim Eriksson",
-      "username": "joakimeriksson",
-      "url": "https://github.com/joakimeriksson"
-    },
-    {
-      "name": "ikaijua",
-      "username": "ikaijua",
-      "url": "https://github.com/ikaijua"
     },
     {
       "name": "Willie",
@@ -164,44 +74,94 @@
       "url": "https://github.com/runkids"
     },
     {
-      "name": "Daniel Meppiel",
-      "username": "danielmeppiel",
-      "url": "https://github.com/danielmeppiel"
+      "name": "Baris Sencan",
+      "username": "isair",
+      "url": "https://github.com/isair"
     },
     {
-      "name": "Tom Owers",
-      "username": "Gilbert09",
-      "url": "https://github.com/Gilbert09"
+      "name": "Vincenzo Fornaro",
+      "username": "JustVugg",
+      "url": "https://github.com/JustVugg"
     },
     {
-      "name": "Terry Jia",
-      "username": "jtydhr88",
-      "url": "https://github.com/jtydhr88"
+      "name": "DeepCold",
+      "username": "deepcoldy",
+      "url": "https://github.com/deepcoldy"
     },
     {
-      "name": "朱昆鹏",
-      "username": "zhukunpenglinyutong",
-      "url": "https://github.com/zhukunpenglinyutong"
+      "name": "Aashish Mahato",
+      "username": "aashish254",
+      "url": "https://github.com/aashish254"
     },
     {
-      "name": "Alpamys Makazhan",
-      "username": "MakazhanAlpamys",
-      "url": "https://github.com/MakazhanAlpamys"
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "url": "https://github.com/tt-a1i"
     },
     {
-      "name": "Chimney",
-      "username": "ccch1mneyyy",
-      "url": "https://github.com/ccch1mneyyy"
+      "name": "Elie Habib",
+      "username": "koala73",
+      "url": "https://github.com/koala73"
     },
     {
-      "name": "Pedro Henrique Penna",
-      "username": "ppenna",
-      "url": "https://github.com/ppenna"
+      "name": "LNP",
+      "username": "LNPANDY",
+      "url": "https://github.com/LNPANDY"
     },
     {
-      "name": "Trevin Chow",
-      "username": "tmchow",
-      "url": "https://github.com/tmchow"
+      "name": "Yann Collet",
+      "username": "Cyan4973",
+      "url": "https://github.com/Cyan4973"
+    },
+    {
+      "name": "Chong Liu",
+      "username": "ImChong",
+      "url": "https://github.com/ImChong"
+    },
+    {
+      "name": "Shaw",
+      "username": "lalalune",
+      "url": "https://github.com/lalalune"
+    },
+    {
+      "name": "Andrew Nakas",
+      "username": "andrewnakas",
+      "url": "https://github.com/andrewnakas"
+    },
+    {
+      "name": "Karan Bansal",
+      "username": "karanb192",
+      "url": "https://github.com/karanb192"
+    },
+    {
+      "name": "Joakim Eriksson",
+      "username": "joakimeriksson",
+      "url": "https://github.com/joakimeriksson"
+    },
+    {
+      "name": "Michael Hunger",
+      "username": "jexp",
+      "url": "https://github.com/jexp"
+    },
+    {
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "url": "https://github.com/elie222"
+    },
+    {
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "url": "https://github.com/pbakaus"
+    },
+    {
+      "name": "Kun Chen",
+      "username": "kunchenguid",
+      "url": "https://github.com/kunchenguid"
+    },
+    {
+      "name": "Ersin KOÇ",
+      "username": "ersinkoc",
+      "url": "https://github.com/ersinkoc"
     }
   ]
 }
