@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T18:48:37Z",
+  "updated_at": "2026-11-15T19:26:12Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -184,6 +184,10 @@
     "https://github.com/JuliusBrussee/caveman",
     "https://github.com/Tencent/LoopForge",
     "https://github.com/martin-olivier/airgorah",
-    "https://github.com/Vincentwei1021/video-shotcraft"
+    "https://github.com/Vincentwei1021/video-shotcraft",
+    "https://github.com/google-labs-code/stitch-skills",
+    "https://github.com/ggml-org/ggml",
+    "https://github.com/elementalsouls/Claude-BugHunter",
+    "https://github.com/NVIDIA/SkillEvaluator"
   ]
 }
