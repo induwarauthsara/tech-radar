@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T19:26:12Z",
+  "updated_at": "2026-11-16T22:58:38Z",
   "items": [
     {
       "title": "Reinforcement learning with prediction-based rewards",
@@ -335,19 +335,19 @@
       "category": "Developer Tools"
     },
     {
-      "title": "EMEA Youth & Wellbeing Grant",
-      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-      "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "title": "The next chapter for AI in the EU",
+      "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
       "source": "OpenAI News",
       "published": "Wed, 28 Jan 2026 01:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "The next chapter for AI in the EU",
-      "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-      "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "title": "EMEA Youth & Wellbeing Grant",
+      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
       "source": "OpenAI News",
       "published": "Wed, 28 Jan 2026 01:00:00 GMT",
       "category": "AI & Agents"
@@ -380,19 +380,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Election information and safeguards in 2026",
-      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-      "url": "https://openai.com/index/election-safeguards-2026",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "url": "https://openai.com/index/warp",
+      "title": "Election information and safeguards in 2026",
+      "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "description": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
+      "url": "https://openai.com/index/election-safeguards-2026",
       "source": "OpenAI News",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
       "category": "AI & Agents"
@@ -506,19 +506,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Adversarial training methods for semi-supervised text classification",
-      "summary": "Open the original source for the full announcement and technical details.",
-      "description": "",
-      "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
+      "title": "Team update",
+      "summary": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
+      "description": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
+      "url": "https://openai.com/index/team-update",
       "source": "OpenAI News",
       "published": "Wed, 25 May 2016 07:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Team update",
-      "summary": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
-      "description": "We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)",
-      "url": "https://openai.com/index/team-update",
+      "title": "Adversarial training methods for semi-supervised text classification",
+      "summary": "Open the original source for the full announcement and technical details.",
+      "description": "",
+      "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
       "source": "OpenAI News",
       "published": "Wed, 25 May 2016 07:00:00 GMT",
       "category": "AI & Agents"
@@ -623,15 +623,6 @@
       "category": "Technology"
     },
     {
-      "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
-      "summary": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
-      "description": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
-      "url": "https://openai.com/index/gpt-4-api-general-availability",
-      "source": "OpenAI News",
-      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
-      "category": "AI & Agents"
-    },
-    {
       "title": "Introducing ChatGPT and Whisper APIs",
       "summary": "Open the original source for the full announcement and technical details.",
       "description": "",
@@ -639,6 +630,15 @@
       "source": "OpenAI News",
       "published": "Wed, 24 Apr 2024 00:00:00 GMT",
       "category": "Technology"
+    },
+    {
+      "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
+      "summary": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
+      "description": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
+      "url": "https://openai.com/index/gpt-4-api-general-availability",
+      "source": "OpenAI News",
+      "published": "Wed, 24 Apr 2024 00:00:00 GMT",
+      "category": "AI & Agents"
     },
     {
       "title": "AWS CRT for JavaScript and AWS IoT Device SDK for JavaScript v2 align with the Node.js release schedule",
@@ -668,22 +668,13 @@
       "category": "AI & Agents"
     },
     {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "source": "OpenAI News",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "Developer Tools"
-    },
-    {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI News",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "AI & Agents"
+      "category": "Technology"
     },
     {
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -695,13 +686,22 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "source": "OpenAI News",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "category": "Technology"
+      "category": "AI & Agents"
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI News",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "category": "Developer Tools"
     },
     {
       "title": "Introducing MentalHealthBench",
@@ -749,19 +749,19 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Model ML is helping financial firms rebuild with AI from the ground up",
-      "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
-      "description": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
-      "url": "https://openai.com/index/model-ml-chaz-englander",
+      "title": "Announcing OpenAI DevDay 2025",
+      "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
+      "description": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
+      "url": "https://openai.com/index/announcing-devday-2025",
       "source": "OpenAI News",
       "published": "Wed, 23 Jul 2025 00:00:00 GMT",
       "category": "AI & Agents"
     },
     {
-      "title": "Announcing OpenAI DevDay 2025",
-      "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
-      "description": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
-      "url": "https://openai.com/index/announcing-devday-2025",
+      "title": "Model ML is helping financial firms rebuild with AI from the ground up",
+      "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "description": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "url": "https://openai.com/index/model-ml-chaz-englander",
       "source": "OpenAI News",
       "published": "Wed, 23 Jul 2025 00:00:00 GMT",
       "category": "AI & Agents"
