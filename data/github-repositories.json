@@ -1,67 +1,22 @@
 {
-  "updated_at": "2026-11-16T22:58:38Z",
+  "updated_at": "2026-11-17T21:51:52Z",
   "items": [
     {
-      "name": "arcane",
-      "full_name": "getarcaneapp/arcane",
-      "description": "Modern Docker Management, Designed for Everyone",
-      "url": "https://github.com/getarcaneapp/arcane",
-      "language": "Go",
-      "stars_label": "8,670",
-      "period_stars": "31 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "jiangshan-map",
-      "full_name": "DeanChensj/jiangshan-map",
-      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
-      "url": "https://github.com/DeanChensj/jiangshan-map",
-      "language": "JavaScript",
-      "stars_label": "6,670",
-      "period_stars": "285 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "paper-orchestra",
-      "full_name": "google-research/paper-orchestra",
-      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "url": "https://github.com/google-research/paper-orchestra",
+      "name": "minimind",
+      "full_name": "jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "url": "https://github.com/jingyaogong/minimind",
       "language": "Python",
-      "stars_label": "1,429",
-      "period_stars": "306 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "svelte",
-      "full_name": "sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "url": "https://github.com/sveltejs/svelte",
-      "language": "JavaScript",
-      "stars_label": "88,956",
-      "period_stars": "58 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "ffmpeg-skill",
-      "full_name": "kajisho5/ffmpeg-skill",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "language": "Python",
-      "stars_label": "6,626",
-      "period_stars": "475 stars today",
+      "stars_label": "65,890",
+      "period_stars": "188 stars today",
       "trend_period": "Daily"
     }
   ],
   "developers": [
     {
-      "name": "Georgios Konstantopoulos",
-      "username": "gakonst",
-      "url": "https://github.com/gakonst"
-    },
-    {
-      "name": "Ersin KOÇ",
-      "username": "ersinkoc",
-      "url": "https://github.com/ersinkoc"
+      "name": "SaladDay",
+      "username": "SaladDay",
+      "url": "https://github.com/SaladDay"
     },
     {
       "name": "YHH",
@@ -69,24 +24,14 @@
       "url": "https://github.com/esengine"
     },
     {
-      "name": "morluto",
-      "username": "morluto",
-      "url": "https://github.com/morluto"
+      "name": "Ersin KOÇ",
+      "username": "ersinkoc",
+      "url": "https://github.com/ersinkoc"
     },
     {
-      "name": "Elie Habib",
-      "username": "koala73",
-      "url": "https://github.com/koala73"
-    },
-    {
-      "name": "SaladDay",
-      "username": "SaladDay",
-      "url": "https://github.com/SaladDay"
-    },
-    {
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "url": "https://github.com/tt-a1i"
+      "name": "Georgios Konstantopoulos",
+      "username": "gakonst",
+      "url": "https://github.com/gakonst"
     },
     {
       "name": "Matt Van Horn",
@@ -94,9 +39,29 @@
       "url": "https://github.com/mvanhorn"
     },
     {
-      "name": "Kurt Himebauch",
-      "username": "xXJSONDeruloXx",
-      "url": "https://github.com/xXJSONDeruloXx"
+      "name": "Tristan Teufel",
+      "username": "firsttris",
+      "url": "https://github.com/firsttris"
+    },
+    {
+      "name": "Jim Manico",
+      "username": "jmanico",
+      "url": "https://github.com/jmanico"
+    },
+    {
+      "name": "Elie Steinbock",
+      "username": "elie222",
+      "url": "https://github.com/elie222"
+    },
+    {
+      "name": "Elie Habib",
+      "username": "koala73",
+      "url": "https://github.com/koala73"
+    },
+    {
+      "name": "anionex",
+      "username": "Anionex",
+      "url": "https://github.com/Anionex"
     },
     {
       "name": "seven332",
@@ -109,49 +74,44 @@
       "url": "https://github.com/tobi"
     },
     {
-      "name": "Garry Tan",
-      "username": "garrytan",
-      "url": "https://github.com/garrytan"
+      "name": "lif",
+      "username": "majiayu000",
+      "url": "https://github.com/majiayu000"
     },
     {
-      "name": "Willie",
-      "username": "runkids",
-      "url": "https://github.com/runkids"
+      "name": "lauren",
+      "username": "poteto",
+      "url": "https://github.com/poteto"
     },
     {
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "url": "https://github.com/elie222"
+      "name": "Chris Tate",
+      "username": "ctate",
+      "url": "https://github.com/ctate"
     },
     {
-      "name": "Baris Sencan",
-      "username": "isair",
-      "url": "https://github.com/isair"
+      "name": "Tom Owers",
+      "username": "Gilbert09",
+      "url": "https://github.com/Gilbert09"
     },
     {
-      "name": "mxsm",
-      "username": "mxsm",
-      "url": "https://github.com/mxsm"
+      "name": "boykopovar",
+      "username": "boykopovar",
+      "url": "https://github.com/boykopovar"
     },
     {
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "url": "https://github.com/backnotprop"
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "url": "https://github.com/max-sixty"
     },
     {
-      "name": "odykyi",
-      "username": "odykyi",
-      "url": "https://github.com/odykyi"
+      "name": "Eden Zimbelman",
+      "username": "zimeg",
+      "url": "https://github.com/zimeg"
     },
     {
-      "name": "Marcus Quinn",
-      "username": "marcusquinn",
-      "url": "https://github.com/marcusquinn"
-    },
-    {
-      "name": "Roberto Viola",
-      "username": "cagnulein",
-      "url": "https://github.com/cagnulein"
+      "name": "hypery11",
+      "username": "hypery11",
+      "url": "https://github.com/hypery11"
     }
   ]
 }
