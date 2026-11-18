@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T21:51:52Z",
+  "updated_at": "2026-11-18T21:30:39Z",
   "seen_repositories": [
     "https://github.com/makecindy/cindy",
     "https://github.com/Nutlope/hallmark",
@@ -194,6 +194,13 @@
     "https://github.com/google-research/paper-orchestra",
     "https://github.com/sveltejs/svelte",
     "https://github.com/kajisho5/ffmpeg-skill",
-    "https://github.com/jingyaogong/minimind"
+    "https://github.com/jingyaogong/minimind",
+    "https://github.com/astral-sh/uv",
+    "https://github.com/jquery/jquery",
+    "https://github.com/appwrite/appwrite",
+    "https://github.com/openvinotoolkit/openvino",
+    "https://github.com/n8n-io/n8n",
+    "https://github.com/solidjs/solid",
+    "https://github.com/punkpeye/awesome-mcp-servers"
   ]
 }

@@ -1,14 +1,74 @@
 {
-  "updated_at": "2026-11-17T21:51:52Z",
+  "updated_at": "2026-11-18T21:30:39Z",
   "items": [
     {
-      "name": "minimind",
-      "full_name": "jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "url": "https://github.com/jingyaogong/minimind",
-      "language": "Python",
-      "stars_label": "65,890",
-      "period_stars": "188 stars today",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "url": "https://github.com/astral-sh/uv",
+      "language": "Rust",
+      "stars_label": "92,203",
+      "period_stars": "260 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "jquery",
+      "full_name": "jquery/jquery",
+      "description": "jQuery JavaScript Library",
+      "url": "https://github.com/jquery/jquery",
+      "language": "JavaScript",
+      "stars_label": "60,003",
+      "period_stars": "268 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "appwrite",
+      "full_name": "appwrite/appwrite",
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "url": "https://github.com/appwrite/appwrite",
+      "language": "TypeScript",
+      "stars_label": "58,204",
+      "period_stars": "239 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "openvino",
+      "full_name": "openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "language": "C++",
+      "stars_label": "11,303",
+      "period_stars": "18 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "url": "https://github.com/n8n-io/n8n",
+      "language": "TypeScript",
+      "stars_label": "211,017",
+      "period_stars": "315 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "solid",
+      "full_name": "solidjs/solid",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "url": "https://github.com/solidjs/solid",
+      "language": "TypeScript",
+      "stars_label": "36,538",
+      "period_stars": "37 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "awesome-mcp-servers",
+      "full_name": "punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "language": "",
+      "stars_label": "97,992",
+      "period_stars": "52 stars today",
       "trend_period": "Daily"
     }
   ],
@@ -19,24 +79,9 @@
       "url": "https://github.com/SaladDay"
     },
     {
-      "name": "YHH",
-      "username": "esengine",
-      "url": "https://github.com/esengine"
-    },
-    {
       "name": "Ersin KOÇ",
       "username": "ersinkoc",
       "url": "https://github.com/ersinkoc"
-    },
-    {
-      "name": "Georgios Konstantopoulos",
-      "username": "gakonst",
-      "url": "https://github.com/gakonst"
-    },
-    {
-      "name": "Matt Van Horn",
-      "username": "mvanhorn",
-      "url": "https://github.com/mvanhorn"
     },
     {
       "name": "Tristan Teufel",
@@ -44,24 +89,69 @@
       "url": "https://github.com/firsttris"
     },
     {
+      "name": "YHH",
+      "username": "esengine",
+      "url": "https://github.com/esengine"
+    },
+    {
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "url": "https://github.com/mvanhorn"
+    },
+    {
+      "name": "rUv",
+      "username": "ruvnet",
+      "url": "https://github.com/ruvnet"
+    },
+    {
+      "name": "Georgios Konstantopoulos",
+      "username": "gakonst",
+      "url": "https://github.com/gakonst"
+    },
+    {
       "name": "Jim Manico",
       "username": "jmanico",
       "url": "https://github.com/jmanico"
     },
     {
-      "name": "Elie Steinbock",
-      "username": "elie222",
-      "url": "https://github.com/elie222"
+      "name": "Gil Megidish",
+      "username": "gmegidish",
+      "url": "https://github.com/gmegidish"
     },
     {
-      "name": "Elie Habib",
-      "username": "koala73",
-      "url": "https://github.com/koala73"
+      "name": "Maziyar Panahi",
+      "username": "maziyarpanahi",
+      "url": "https://github.com/maziyarpanahi"
     },
     {
-      "name": "anionex",
-      "username": "Anionex",
-      "url": "https://github.com/Anionex"
+      "name": "Mitchell Hashimoto",
+      "username": "mitchellh",
+      "url": "https://github.com/mitchellh"
+    },
+    {
+      "name": "Mahmoud Mabrouk",
+      "username": "mmabrouk",
+      "url": "https://github.com/mmabrouk"
+    },
+    {
+      "name": "Mattt",
+      "username": "mattt",
+      "url": "https://github.com/mattt"
+    },
+    {
+      "name": "YeonGyu-Kim",
+      "username": "code-yeongyu",
+      "url": "https://github.com/code-yeongyu"
+    },
+    {
+      "name": "Tienson Qin",
+      "username": "tiensonqin",
+      "url": "https://github.com/tiensonqin"
+    },
+    {
+      "name": "Yaowei Zheng",
+      "username": "hiyouga",
+      "url": "https://github.com/hiyouga"
     },
     {
       "name": "seven332",
@@ -69,49 +159,19 @@
       "url": "https://github.com/seven332"
     },
     {
-      "name": "Tobias Lütke",
-      "username": "tobi",
-      "url": "https://github.com/tobi"
+      "name": "Harsh",
+      "username": "Kaos599",
+      "url": "https://github.com/Kaos599"
     },
     {
-      "name": "lif",
-      "username": "majiayu000",
-      "url": "https://github.com/majiayu000"
+      "name": "Elie Habib",
+      "username": "koala73",
+      "url": "https://github.com/koala73"
     },
     {
-      "name": "lauren",
-      "username": "poteto",
-      "url": "https://github.com/poteto"
-    },
-    {
-      "name": "Chris Tate",
-      "username": "ctate",
-      "url": "https://github.com/ctate"
-    },
-    {
-      "name": "Tom Owers",
-      "username": "Gilbert09",
-      "url": "https://github.com/Gilbert09"
-    },
-    {
-      "name": "boykopovar",
-      "username": "boykopovar",
-      "url": "https://github.com/boykopovar"
-    },
-    {
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "url": "https://github.com/max-sixty"
-    },
-    {
-      "name": "Eden Zimbelman",
-      "username": "zimeg",
-      "url": "https://github.com/zimeg"
-    },
-    {
-      "name": "hypery11",
-      "username": "hypery11",
-      "url": "https://github.com/hypery11"
+      "name": "Xiaoxia",
+      "username": "78",
+      "url": "https://github.com/78"
     }
   ]
 }
