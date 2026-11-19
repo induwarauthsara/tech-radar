@@ -1,87 +1,102 @@
 {
-  "updated_at": "2026-11-18T21:30:39Z",
+  "updated_at": "2026-11-19T21:43:33Z",
   "items": [
     {
-      "name": "uv",
-      "full_name": "astral-sh/uv",
-      "description": "An extremely fast Python package and project manager, written in Rust.",
-      "url": "https://github.com/astral-sh/uv",
-      "language": "Rust",
-      "stars_label": "92,203",
-      "period_stars": "260 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "jquery",
-      "full_name": "jquery/jquery",
-      "description": "jQuery JavaScript Library",
-      "url": "https://github.com/jquery/jquery",
-      "language": "JavaScript",
-      "stars_label": "60,003",
-      "period_stars": "268 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "appwrite",
-      "full_name": "appwrite/appwrite",
-      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-      "url": "https://github.com/appwrite/appwrite",
+      "name": "firecrawl",
+      "full_name": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "url": "https://github.com/firecrawl/firecrawl",
       "language": "TypeScript",
-      "stars_label": "58,204",
-      "period_stars": "239 stars today",
+      "stars_label": "204,076",
+      "period_stars": "795 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "openvino",
-      "full_name": "openvinotoolkit/openvino",
-      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "url": "https://github.com/openvinotoolkit/openvino",
-      "language": "C++",
-      "stars_label": "11,303",
-      "period_stars": "18 stars today",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "url": "https://github.com/nginx/nginx",
+      "language": "C",
+      "stars_label": "32,302",
+      "period_stars": "66 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "n8n",
-      "full_name": "n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "url": "https://github.com/n8n-io/n8n",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "language": "HTML",
+      "stars_label": "68,571",
+      "period_stars": "332 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "app-store-compliance",
+      "full_name": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "language": "Shell",
+      "stars_label": "1,761",
+      "period_stars": "542 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "opensre",
+      "full_name": "Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "language": "Python",
+      "stars_label": "13,069",
+      "period_stars": "25 stars today",
+      "trend_period": "Daily"
+    },
+    {
+      "name": "AFFiNE",
+      "full_name": "toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "url": "https://github.com/toeverything/AFFiNE",
       "language": "TypeScript",
-      "stars_label": "211,017",
-      "period_stars": "315 stars today",
+      "stars_label": "75,091",
+      "period_stars": "170 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "solid",
-      "full_name": "solidjs/solid",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "url": "https://github.com/solidjs/solid",
-      "language": "TypeScript",
-      "stars_label": "36,538",
-      "period_stars": "37 stars today",
+      "name": "Ghost-Downloader-3",
+      "full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "language": "Python",
+      "stars_label": "12,608",
+      "period_stars": "449 stars today",
       "trend_period": "Daily"
     },
     {
-      "name": "awesome-mcp-servers",
-      "full_name": "punkpeye/awesome-mcp-servers",
-      "description": "A collection of MCP servers.",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "language": "",
-      "stars_label": "97,992",
-      "period_stars": "52 stars today",
+      "name": "autoclip",
+      "full_name": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "language": "Python",
+      "stars_label": "11,156",
+      "period_stars": "110 stars today",
       "trend_period": "Daily"
+    },
+    {
+      "name": "instagram-agent-skill",
+      "full_name": "Jakeschincariol/instagram-agent-skill",
+      "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+      "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
+      "language": "Python",
+      "stars_label": "7,323",
+      "period_stars": "5,309 stars this month",
+      "trend_period": "Monthly"
     }
   ],
   "developers": [
     {
-      "name": "SaladDay",
-      "username": "SaladDay",
-      "url": "https://github.com/SaladDay"
-    },
-    {
-      "name": "Ersin KOÇ",
-      "username": "ersinkoc",
-      "url": "https://github.com/ersinkoc"
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "url": "https://github.com/colbymchenry"
     },
     {
       "name": "Tristan Teufel",
@@ -89,9 +104,24 @@
       "url": "https://github.com/firsttris"
     },
     {
-      "name": "YHH",
-      "username": "esengine",
-      "url": "https://github.com/esengine"
+      "name": "Matt",
+      "username": "mattzcarey",
+      "url": "https://github.com/mattzcarey"
+    },
+    {
+      "name": "Brigs",
+      "username": "abrignoni",
+      "url": "https://github.com/abrignoni"
+    },
+    {
+      "name": "SaladDay",
+      "username": "SaladDay",
+      "url": "https://github.com/SaladDay"
+    },
+    {
+      "name": "Amir Raminfar",
+      "username": "amir20",
+      "url": "https://github.com/amir20"
     },
     {
       "name": "Matt Van Horn",
@@ -99,49 +129,49 @@
       "url": "https://github.com/mvanhorn"
     },
     {
-      "name": "rUv",
-      "username": "ruvnet",
-      "url": "https://github.com/ruvnet"
+      "name": "YHH",
+      "username": "esengine",
+      "url": "https://github.com/esengine"
     },
     {
-      "name": "Georgios Konstantopoulos",
-      "username": "gakonst",
-      "url": "https://github.com/gakonst"
+      "name": "Ryan Carniato",
+      "username": "ryansolid",
+      "url": "https://github.com/ryansolid"
     },
     {
-      "name": "Jim Manico",
-      "username": "jmanico",
-      "url": "https://github.com/jmanico"
+      "name": "Maximilian Roos",
+      "username": "max-sixty",
+      "url": "https://github.com/max-sixty"
     },
     {
-      "name": "Gil Megidish",
-      "username": "gmegidish",
-      "url": "https://github.com/gmegidish"
+      "name": "Lars Trieloff",
+      "username": "trieloff",
+      "url": "https://github.com/trieloff"
     },
     {
-      "name": "Maziyar Panahi",
-      "username": "maziyarpanahi",
-      "url": "https://github.com/maziyarpanahi"
+      "name": "Christian Byrne",
+      "username": "christian-byrne",
+      "url": "https://github.com/christian-byrne"
     },
     {
-      "name": "Mitchell Hashimoto",
-      "username": "mitchellh",
-      "url": "https://github.com/mitchellh"
+      "name": "Tim Besard",
+      "username": "maleadt",
+      "url": "https://github.com/maleadt"
     },
     {
-      "name": "Mahmoud Mabrouk",
-      "username": "mmabrouk",
-      "url": "https://github.com/mmabrouk"
+      "name": "boykopovar",
+      "username": "boykopovar",
+      "url": "https://github.com/boykopovar"
     },
     {
-      "name": "Mattt",
-      "username": "mattt",
-      "url": "https://github.com/mattt"
+      "name": "Chimney",
+      "username": "ccch1mneyyy",
+      "url": "https://github.com/ccch1mneyyy"
     },
     {
-      "name": "YeonGyu-Kim",
-      "username": "code-yeongyu",
-      "url": "https://github.com/code-yeongyu"
+      "name": "Huang Xin",
+      "username": "chrox",
+      "url": "https://github.com/chrox"
     },
     {
       "name": "Tienson Qin",
@@ -149,29 +179,19 @@
       "url": "https://github.com/tiensonqin"
     },
     {
-      "name": "Yaowei Zheng",
-      "username": "hiyouga",
-      "url": "https://github.com/hiyouga"
+      "name": "Gaurav Gosain",
+      "username": "Gaurav-Gosain",
+      "url": "https://github.com/Gaurav-Gosain"
     },
     {
-      "name": "seven332",
-      "username": "seven332",
-      "url": "https://github.com/seven332"
+      "name": "Mason Daugherty",
+      "username": "mdrxy",
+      "url": "https://github.com/mdrxy"
     },
     {
-      "name": "Harsh",
-      "username": "Kaos599",
-      "url": "https://github.com/Kaos599"
-    },
-    {
-      "name": "Elie Habib",
-      "username": "koala73",
-      "url": "https://github.com/koala73"
-    },
-    {
-      "name": "Xiaoxia",
-      "username": "78",
-      "url": "https://github.com/78"
+      "name": "kalil0321",
+      "username": "kalil0321",
+      "url": "https://github.com/kalil0321"
     }
   ]
 }
