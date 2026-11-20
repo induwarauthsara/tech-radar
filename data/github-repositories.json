@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T21:43:33Z",
+  "updated_at": "2026-11-20T21:25:43Z",
   "items": [
     {
       "name": "firecrawl",
@@ -94,89 +94,9 @@
   ],
   "developers": [
     {
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "url": "https://github.com/colbymchenry"
-    },
-    {
       "name": "Tristan Teufel",
       "username": "firsttris",
       "url": "https://github.com/firsttris"
-    },
-    {
-      "name": "Matt",
-      "username": "mattzcarey",
-      "url": "https://github.com/mattzcarey"
-    },
-    {
-      "name": "Brigs",
-      "username": "abrignoni",
-      "url": "https://github.com/abrignoni"
-    },
-    {
-      "name": "SaladDay",
-      "username": "SaladDay",
-      "url": "https://github.com/SaladDay"
-    },
-    {
-      "name": "Amir Raminfar",
-      "username": "amir20",
-      "url": "https://github.com/amir20"
-    },
-    {
-      "name": "Matt Van Horn",
-      "username": "mvanhorn",
-      "url": "https://github.com/mvanhorn"
-    },
-    {
-      "name": "YHH",
-      "username": "esengine",
-      "url": "https://github.com/esengine"
-    },
-    {
-      "name": "Ryan Carniato",
-      "username": "ryansolid",
-      "url": "https://github.com/ryansolid"
-    },
-    {
-      "name": "Maximilian Roos",
-      "username": "max-sixty",
-      "url": "https://github.com/max-sixty"
-    },
-    {
-      "name": "Lars Trieloff",
-      "username": "trieloff",
-      "url": "https://github.com/trieloff"
-    },
-    {
-      "name": "Christian Byrne",
-      "username": "christian-byrne",
-      "url": "https://github.com/christian-byrne"
-    },
-    {
-      "name": "Tim Besard",
-      "username": "maleadt",
-      "url": "https://github.com/maleadt"
-    },
-    {
-      "name": "boykopovar",
-      "username": "boykopovar",
-      "url": "https://github.com/boykopovar"
-    },
-    {
-      "name": "Chimney",
-      "username": "ccch1mneyyy",
-      "url": "https://github.com/ccch1mneyyy"
-    },
-    {
-      "name": "Huang Xin",
-      "username": "chrox",
-      "url": "https://github.com/chrox"
-    },
-    {
-      "name": "Tienson Qin",
-      "username": "tiensonqin",
-      "url": "https://github.com/tiensonqin"
     },
     {
       "name": "Gaurav Gosain",
@@ -184,14 +104,94 @@
       "url": "https://github.com/Gaurav-Gosain"
     },
     {
-      "name": "Mason Daugherty",
-      "username": "mdrxy",
-      "url": "https://github.com/mdrxy"
+      "name": "Claus Ibsen",
+      "username": "davsclaus",
+      "url": "https://github.com/davsclaus"
+    },
+    {
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "url": "https://github.com/colbymchenry"
+    },
+    {
+      "name": "Amir Raminfar",
+      "username": "amir20",
+      "url": "https://github.com/amir20"
+    },
+    {
+      "name": "Christian Byrne",
+      "username": "christian-byrne",
+      "url": "https://github.com/christian-byrne"
+    },
+    {
+      "name": "SaladDay",
+      "username": "SaladDay",
+      "url": "https://github.com/SaladDay"
+    },
+    {
+      "name": "Ryan Carniato",
+      "username": "ryansolid",
+      "url": "https://github.com/ryansolid"
+    },
+    {
+      "name": "rUv",
+      "username": "ruvnet",
+      "url": "https://github.com/ruvnet"
     },
     {
       "name": "kalil0321",
       "username": "kalil0321",
       "url": "https://github.com/kalil0321"
+    },
+    {
+      "name": "Ben Brandt",
+      "username": "benbrandt",
+      "url": "https://github.com/benbrandt"
+    },
+    {
+      "name": "Matt",
+      "username": "mattzcarey",
+      "url": "https://github.com/mattzcarey"
+    },
+    {
+      "name": "boykopovar",
+      "username": "boykopovar",
+      "url": "https://github.com/boykopovar"
+    },
+    {
+      "name": "Tim Besard",
+      "username": "maleadt",
+      "url": "https://github.com/maleadt"
+    },
+    {
+      "name": "Brigs",
+      "username": "abrignoni",
+      "url": "https://github.com/abrignoni"
+    },
+    {
+      "name": "Harsh",
+      "username": "Kaos599",
+      "url": "https://github.com/Kaos599"
+    },
+    {
+      "name": "Xiaoxia",
+      "username": "78",
+      "url": "https://github.com/78"
+    },
+    {
+      "name": "lif",
+      "username": "majiayu000",
+      "url": "https://github.com/majiayu000"
+    },
+    {
+      "name": "Mason Daugherty",
+      "username": "mdrxy",
+      "url": "https://github.com/mdrxy"
+    },
+    {
+      "name": "jxxghp",
+      "username": "jxxghp",
+      "url": "https://github.com/jxxghp"
     }
   ]
 }
