@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T21:25:43Z",
+  "updated_at": "2026-11-21T20:12:01Z",
   "items": [
     {
       "name": "firecrawl",
@@ -94,19 +94,19 @@
   ],
   "developers": [
     {
-      "name": "Tristan Teufel",
-      "username": "firsttris",
-      "url": "https://github.com/firsttris"
+      "name": "Tim Besard",
+      "username": "maleadt",
+      "url": "https://github.com/maleadt"
     },
     {
-      "name": "Gaurav Gosain",
-      "username": "Gaurav-Gosain",
-      "url": "https://github.com/Gaurav-Gosain"
+      "name": "Erwin L.",
+      "username": "guilyx",
+      "url": "https://github.com/guilyx"
     },
     {
-      "name": "Claus Ibsen",
-      "username": "davsclaus",
-      "url": "https://github.com/davsclaus"
+      "name": "Yufeng He",
+      "username": "he-yufeng",
+      "url": "https://github.com/he-yufeng"
     },
     {
       "name": "Colby Mchenry",
@@ -114,29 +114,19 @@
       "url": "https://github.com/colbymchenry"
     },
     {
-      "name": "Amir Raminfar",
-      "username": "amir20",
-      "url": "https://github.com/amir20"
+      "name": "Andrew Nakas",
+      "username": "andrewnakas",
+      "url": "https://github.com/andrewnakas"
     },
     {
-      "name": "Christian Byrne",
-      "username": "christian-byrne",
-      "url": "https://github.com/christian-byrne"
+      "name": "Jeong-Sik Yun",
+      "username": "jeong-sik",
+      "url": "https://github.com/jeong-sik"
     },
     {
-      "name": "SaladDay",
-      "username": "SaladDay",
-      "url": "https://github.com/SaladDay"
-    },
-    {
-      "name": "Ryan Carniato",
-      "username": "ryansolid",
-      "url": "https://github.com/ryansolid"
-    },
-    {
-      "name": "rUv",
-      "username": "ruvnet",
-      "url": "https://github.com/ruvnet"
+      "name": "Wesley Liddick",
+      "username": "Wei-Shaw",
+      "url": "https://github.com/Wei-Shaw"
     },
     {
       "name": "kalil0321",
@@ -144,9 +134,9 @@
       "url": "https://github.com/kalil0321"
     },
     {
-      "name": "Ben Brandt",
-      "username": "benbrandt",
-      "url": "https://github.com/benbrandt"
+      "name": "Gaurav Gosain",
+      "username": "Gaurav-Gosain",
+      "url": "https://github.com/Gaurav-Gosain"
     },
     {
       "name": "Matt",
@@ -154,34 +144,29 @@
       "url": "https://github.com/mattzcarey"
     },
     {
-      "name": "boykopovar",
-      "username": "boykopovar",
-      "url": "https://github.com/boykopovar"
+      "name": "Tristan Teufel",
+      "username": "firsttris",
+      "url": "https://github.com/firsttris"
     },
     {
-      "name": "Tim Besard",
-      "username": "maleadt",
-      "url": "https://github.com/maleadt"
+      "name": "jxxghp",
+      "username": "jxxghp",
+      "url": "https://github.com/jxxghp"
     },
     {
-      "name": "Brigs",
-      "username": "abrignoni",
-      "url": "https://github.com/abrignoni"
+      "name": "SaladDay",
+      "username": "SaladDay",
+      "url": "https://github.com/SaladDay"
     },
     {
-      "name": "Harsh",
-      "username": "Kaos599",
-      "url": "https://github.com/Kaos599"
+      "name": "Abue Ammar",
+      "username": "abue-ammar",
+      "url": "https://github.com/abue-ammar"
     },
     {
-      "name": "Xiaoxia",
-      "username": "78",
-      "url": "https://github.com/78"
-    },
-    {
-      "name": "lif",
-      "username": "majiayu000",
-      "url": "https://github.com/majiayu000"
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "url": "https://github.com/mvanhorn"
     },
     {
       "name": "Mason Daugherty",
@@ -189,9 +174,24 @@
       "url": "https://github.com/mdrxy"
     },
     {
-      "name": "jxxghp",
-      "username": "jxxghp",
-      "url": "https://github.com/jxxghp"
+      "name": "Mahmoud Mabrouk",
+      "username": "mmabrouk",
+      "url": "https://github.com/mmabrouk"
+    },
+    {
+      "name": "Alan Buscaglia",
+      "username": "Alan-TheGentleman",
+      "url": "https://github.com/Alan-TheGentleman"
+    },
+    {
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "url": "https://github.com/pbakaus"
+    },
+    {
+      "name": "Ben Brandt",
+      "username": "benbrandt",
+      "url": "https://github.com/benbrandt"
     }
   ]
 }
