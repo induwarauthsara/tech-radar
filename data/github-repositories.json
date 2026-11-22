@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T20:12:01Z",
+  "updated_at": "2026-11-22T20:26:34Z",
   "items": [
     {
       "name": "firecrawl",
@@ -94,74 +94,9 @@
   ],
   "developers": [
     {
-      "name": "Tim Besard",
-      "username": "maleadt",
-      "url": "https://github.com/maleadt"
-    },
-    {
-      "name": "Erwin L.",
-      "username": "guilyx",
-      "url": "https://github.com/guilyx"
-    },
-    {
-      "name": "Yufeng He",
-      "username": "he-yufeng",
-      "url": "https://github.com/he-yufeng"
-    },
-    {
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "url": "https://github.com/colbymchenry"
-    },
-    {
-      "name": "Andrew Nakas",
-      "username": "andrewnakas",
-      "url": "https://github.com/andrewnakas"
-    },
-    {
-      "name": "Jeong-Sik Yun",
-      "username": "jeong-sik",
-      "url": "https://github.com/jeong-sik"
-    },
-    {
-      "name": "Wesley Liddick",
-      "username": "Wei-Shaw",
-      "url": "https://github.com/Wei-Shaw"
-    },
-    {
-      "name": "kalil0321",
-      "username": "kalil0321",
-      "url": "https://github.com/kalil0321"
-    },
-    {
-      "name": "Gaurav Gosain",
-      "username": "Gaurav-Gosain",
-      "url": "https://github.com/Gaurav-Gosain"
-    },
-    {
-      "name": "Matt",
-      "username": "mattzcarey",
-      "url": "https://github.com/mattzcarey"
-    },
-    {
-      "name": "Tristan Teufel",
-      "username": "firsttris",
-      "url": "https://github.com/firsttris"
-    },
-    {
-      "name": "jxxghp",
-      "username": "jxxghp",
-      "url": "https://github.com/jxxghp"
-    },
-    {
-      "name": "SaladDay",
-      "username": "SaladDay",
-      "url": "https://github.com/SaladDay"
-    },
-    {
-      "name": "Abue Ammar",
-      "username": "abue-ammar",
-      "url": "https://github.com/abue-ammar"
+      "name": "Alan Buscaglia",
+      "username": "Alan-TheGentleman",
+      "url": "https://github.com/Alan-TheGentleman"
     },
     {
       "name": "Matt Van Horn",
@@ -169,9 +104,44 @@
       "url": "https://github.com/mvanhorn"
     },
     {
-      "name": "Mason Daugherty",
-      "username": "mdrxy",
-      "url": "https://github.com/mdrxy"
+      "name": "Xiaoxia",
+      "username": "78",
+      "url": "https://github.com/78"
+    },
+    {
+      "name": "Wesley Liddick",
+      "username": "Wei-Shaw",
+      "url": "https://github.com/Wei-Shaw"
+    },
+    {
+      "name": "Christian Byrne",
+      "username": "christian-byrne",
+      "url": "https://github.com/christian-byrne"
+    },
+    {
+      "name": "ahmadrosid",
+      "username": "ahmadrosid",
+      "url": "https://github.com/ahmadrosid"
+    },
+    {
+      "name": "kalil0321",
+      "username": "kalil0321",
+      "url": "https://github.com/kalil0321"
+    },
+    {
+      "name": "Daniel Meppiel",
+      "username": "danielmeppiel",
+      "url": "https://github.com/danielmeppiel"
+    },
+    {
+      "name": "Rach",
+      "username": "justrach",
+      "url": "https://github.com/justrach"
+    },
+    {
+      "name": "jxxghp",
+      "username": "jxxghp",
+      "url": "https://github.com/jxxghp"
     },
     {
       "name": "Mahmoud Mabrouk",
@@ -179,19 +149,49 @@
       "url": "https://github.com/mmabrouk"
     },
     {
-      "name": "Alan Buscaglia",
-      "username": "Alan-TheGentleman",
-      "url": "https://github.com/Alan-TheGentleman"
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "url": "https://github.com/colbymchenry"
     },
     {
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "url": "https://github.com/pbakaus"
+      "name": "Shaw",
+      "username": "lalalune",
+      "url": "https://github.com/lalalune"
+    },
+    {
+      "name": "Gaurav Gosain",
+      "username": "Gaurav-Gosain",
+      "url": "https://github.com/Gaurav-Gosain"
+    },
+    {
+      "name": "Jochen Niebuhr",
+      "username": "jniebuhr",
+      "url": "https://github.com/jniebuhr"
+    },
+    {
+      "name": "Yufeng He",
+      "username": "he-yufeng",
+      "url": "https://github.com/he-yufeng"
+    },
+    {
+      "name": "Abue Ammar",
+      "username": "abue-ammar",
+      "url": "https://github.com/abue-ammar"
     },
     {
       "name": "Ben Brandt",
       "username": "benbrandt",
       "url": "https://github.com/benbrandt"
+    },
+    {
+      "name": "Amir Raminfar",
+      "username": "amir20",
+      "url": "https://github.com/amir20"
+    },
+    {
+      "name": "Harsh",
+      "username": "Kaos599",
+      "url": "https://github.com/Kaos599"
     }
   ]
 }
