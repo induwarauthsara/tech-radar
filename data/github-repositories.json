@@ -1,102 +1,22 @@
 {
-  "updated_at": "2026-11-22T20:26:34Z",
+  "updated_at": "2026-11-24T01:08:03Z",
   "items": [
     {
-      "name": "firecrawl",
-      "full_name": "firecrawl/firecrawl",
-      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "language": "TypeScript",
-      "stars_label": "204,076",
-      "period_stars": "795 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "nginx",
-      "full_name": "nginx/nginx",
-      "description": "The official NGINX Open Source repository.",
-      "url": "https://github.com/nginx/nginx",
-      "language": "C",
-      "stars_label": "32,302",
-      "period_stars": "66 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "diagram-design",
-      "full_name": "cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "language": "HTML",
-      "stars_label": "68,571",
-      "period_stars": "332 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "app-store-compliance",
-      "full_name": "mjmirza/app-store-compliance",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-      "url": "https://github.com/mjmirza/app-store-compliance",
-      "language": "Shell",
-      "stars_label": "1,761",
-      "period_stars": "542 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "opensre",
-      "full_name": "Tracer-Cloud/opensre",
-      "description": "The open-source agent for CI/CD reliability.",
-      "url": "https://github.com/Tracer-Cloud/opensre",
-      "language": "Python",
-      "stars_label": "13,069",
-      "period_stars": "25 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "AFFiNE",
-      "full_name": "toeverything/AFFiNE",
-      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "url": "https://github.com/toeverything/AFFiNE",
-      "language": "TypeScript",
-      "stars_label": "75,091",
-      "period_stars": "170 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "Ghost-Downloader-3",
-      "full_name": "XiaoYouChR/Ghost-Downloader-3",
-      "description": "The only downloader you need. 下载器的集大成者。",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "language": "Python",
-      "stars_label": "12,608",
-      "period_stars": "449 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "autoclip",
-      "full_name": "zhouxiaoka/autoclip",
-      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "language": "Python",
-      "stars_label": "11,156",
-      "period_stars": "110 stars today",
-      "trend_period": "Daily"
-    },
-    {
-      "name": "instagram-agent-skill",
-      "full_name": "Jakeschincariol/instagram-agent-skill",
-      "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
-      "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
-      "language": "Python",
-      "stars_label": "7,323",
-      "period_stars": "5,309 stars this month",
+      "name": "magpie",
+      "full_name": "yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "url": "https://github.com/yetone/magpie",
+      "language": "Go",
+      "stars_label": "40,482",
+      "period_stars": "20,747 stars this month",
       "trend_period": "Monthly"
     }
   ],
   "developers": [
     {
-      "name": "Alan Buscaglia",
-      "username": "Alan-TheGentleman",
-      "url": "https://github.com/Alan-TheGentleman"
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "url": "https://github.com/tt-a1i"
     },
     {
       "name": "Matt Van Horn",
@@ -104,69 +24,9 @@
       "url": "https://github.com/mvanhorn"
     },
     {
-      "name": "Xiaoxia",
-      "username": "78",
-      "url": "https://github.com/78"
-    },
-    {
-      "name": "Wesley Liddick",
-      "username": "Wei-Shaw",
-      "url": "https://github.com/Wei-Shaw"
-    },
-    {
-      "name": "Christian Byrne",
-      "username": "christian-byrne",
-      "url": "https://github.com/christian-byrne"
-    },
-    {
-      "name": "ahmadrosid",
-      "username": "ahmadrosid",
-      "url": "https://github.com/ahmadrosid"
-    },
-    {
-      "name": "kalil0321",
-      "username": "kalil0321",
-      "url": "https://github.com/kalil0321"
-    },
-    {
-      "name": "Daniel Meppiel",
-      "username": "danielmeppiel",
-      "url": "https://github.com/danielmeppiel"
-    },
-    {
       "name": "Rach",
       "username": "justrach",
       "url": "https://github.com/justrach"
-    },
-    {
-      "name": "jxxghp",
-      "username": "jxxghp",
-      "url": "https://github.com/jxxghp"
-    },
-    {
-      "name": "Mahmoud Mabrouk",
-      "username": "mmabrouk",
-      "url": "https://github.com/mmabrouk"
-    },
-    {
-      "name": "Colby Mchenry",
-      "username": "colbymchenry",
-      "url": "https://github.com/colbymchenry"
-    },
-    {
-      "name": "Shaw",
-      "username": "lalalune",
-      "url": "https://github.com/lalalune"
-    },
-    {
-      "name": "Gaurav Gosain",
-      "username": "Gaurav-Gosain",
-      "url": "https://github.com/Gaurav-Gosain"
-    },
-    {
-      "name": "Jochen Niebuhr",
-      "username": "jniebuhr",
-      "url": "https://github.com/jniebuhr"
     },
     {
       "name": "Yufeng He",
@@ -174,24 +34,84 @@
       "url": "https://github.com/he-yufeng"
     },
     {
+      "name": "Wesley Liddick",
+      "username": "Wei-Shaw",
+      "url": "https://github.com/Wei-Shaw"
+    },
+    {
+      "name": "Neil",
+      "username": "nwparker",
+      "url": "https://github.com/nwparker"
+    },
+    {
+      "name": "ahmadrosid",
+      "username": "ahmadrosid",
+      "url": "https://github.com/ahmadrosid"
+    },
+    {
+      "name": "Chimney",
+      "username": "ccch1mneyyy",
+      "url": "https://github.com/ccch1mneyyy"
+    },
+    {
+      "name": "Brigs",
+      "username": "abrignoni",
+      "url": "https://github.com/abrignoni"
+    },
+    {
+      "name": "Alireza Rezvani",
+      "username": "alirezarezvani",
+      "url": "https://github.com/alirezarezvani"
+    },
+    {
+      "name": "jxxghp",
+      "username": "jxxghp",
+      "url": "https://github.com/jxxghp"
+    },
+    {
+      "name": "Shaw",
+      "username": "lalalune",
+      "url": "https://github.com/lalalune"
+    },
+    {
+      "name": "J. Nick Koston",
+      "username": "bdraco",
+      "url": "https://github.com/bdraco"
+    },
+    {
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "url": "https://github.com/pbakaus"
+    },
+    {
+      "name": "Fei2411",
+      "username": "Fei2411",
+      "url": "https://github.com/Fei2411"
+    },
+    {
+      "name": "jongleberry",
+      "username": "jonathanong",
+      "url": "https://github.com/jonathanong"
+    },
+    {
+      "name": "Gaurav Gosain",
+      "username": "Gaurav-Gosain",
+      "url": "https://github.com/Gaurav-Gosain"
+    },
+    {
+      "name": "Michael Ramos",
+      "username": "backnotprop",
+      "url": "https://github.com/backnotprop"
+    },
+    {
+      "name": "Tienson Qin",
+      "username": "tiensonqin",
+      "url": "https://github.com/tiensonqin"
+    },
+    {
       "name": "Abue Ammar",
       "username": "abue-ammar",
       "url": "https://github.com/abue-ammar"
-    },
-    {
-      "name": "Ben Brandt",
-      "username": "benbrandt",
-      "url": "https://github.com/benbrandt"
-    },
-    {
-      "name": "Amir Raminfar",
-      "username": "amir20",
-      "url": "https://github.com/amir20"
-    },
-    {
-      "name": "Harsh",
-      "username": "Kaos599",
-      "url": "https://github.com/Kaos599"
     }
   ]
 }
