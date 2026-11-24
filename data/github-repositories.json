@@ -1,27 +1,32 @@
 {
-  "updated_at": "2026-11-24T01:08:03Z",
+  "updated_at": "2026-11-24T23:12:04Z",
   "items": [
     {
-      "name": "magpie",
-      "full_name": "yetone/magpie",
-      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "url": "https://github.com/yetone/magpie",
-      "language": "Go",
-      "stars_label": "40,482",
-      "period_stars": "20,747 stars this month",
+      "name": "dsh-our-free-model",
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "language": "JavaScript",
+      "stars_label": "85,995",
+      "period_stars": "48,139 stars this month",
       "trend_period": "Monthly"
     }
   ],
   "developers": [
     {
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "url": "https://github.com/tt-a1i"
-    },
-    {
       "name": "Matt Van Horn",
       "username": "mvanhorn",
       "url": "https://github.com/mvanhorn"
+    },
+    {
+      "name": "Shaw",
+      "username": "lalalune",
+      "url": "https://github.com/lalalune"
+    },
+    {
+      "name": "Daniel Meppiel",
+      "username": "danielmeppiel",
+      "url": "https://github.com/danielmeppiel"
     },
     {
       "name": "Rach",
@@ -29,9 +34,9 @@
       "url": "https://github.com/justrach"
     },
     {
-      "name": "Yufeng He",
-      "username": "he-yufeng",
-      "url": "https://github.com/he-yufeng"
+      "name": "Dax",
+      "username": "thdxr",
+      "url": "https://github.com/thdxr"
     },
     {
       "name": "Wesley Liddick",
@@ -39,9 +44,24 @@
       "url": "https://github.com/Wei-Shaw"
     },
     {
-      "name": "Neil",
-      "username": "nwparker",
-      "url": "https://github.com/nwparker"
+      "name": "Magnus Hedemark",
+      "username": "magnus919",
+      "url": "https://github.com/magnus919"
+    },
+    {
+      "name": "J. Nick Koston",
+      "username": "bdraco",
+      "url": "https://github.com/bdraco"
+    },
+    {
+      "name": "Akshay Deo",
+      "username": "akshaydeo",
+      "url": "https://github.com/akshaydeo"
+    },
+    {
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "url": "https://github.com/tt-a1i"
     },
     {
       "name": "ahmadrosid",
@@ -54,64 +74,44 @@
       "url": "https://github.com/ccch1mneyyy"
     },
     {
-      "name": "Brigs",
-      "username": "abrignoni",
-      "url": "https://github.com/abrignoni"
-    },
-    {
-      "name": "Alireza Rezvani",
-      "username": "alirezarezvani",
-      "url": "https://github.com/alirezarezvani"
-    },
-    {
       "name": "jxxghp",
       "username": "jxxghp",
       "url": "https://github.com/jxxghp"
     },
     {
-      "name": "Shaw",
-      "username": "lalalune",
-      "url": "https://github.com/lalalune"
+      "name": "Yaowei Zheng",
+      "username": "hiyouga",
+      "url": "https://github.com/hiyouga"
     },
     {
-      "name": "J. Nick Koston",
-      "username": "bdraco",
-      "url": "https://github.com/bdraco"
+      "name": "Yufeng He",
+      "username": "he-yufeng",
+      "url": "https://github.com/he-yufeng"
     },
     {
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "url": "https://github.com/pbakaus"
+      "name": "Dotta",
+      "username": "cryppadotta",
+      "url": "https://github.com/cryppadotta"
     },
     {
-      "name": "Fei2411",
-      "username": "Fei2411",
-      "url": "https://github.com/Fei2411"
+      "name": "Илия",
+      "username": "777genius",
+      "url": "https://github.com/777genius"
     },
     {
-      "name": "jongleberry",
-      "username": "jonathanong",
-      "url": "https://github.com/jonathanong"
+      "name": "Matthias Seitz",
+      "username": "mattsse",
+      "url": "https://github.com/mattsse"
     },
     {
-      "name": "Gaurav Gosain",
-      "username": "Gaurav-Gosain",
-      "url": "https://github.com/Gaurav-Gosain"
+      "name": "秀吉",
+      "username": "thc1006",
+      "url": "https://github.com/thc1006"
     },
     {
-      "name": "Michael Ramos",
-      "username": "backnotprop",
-      "url": "https://github.com/backnotprop"
-    },
-    {
-      "name": "Tienson Qin",
-      "username": "tiensonqin",
-      "url": "https://github.com/tiensonqin"
-    },
-    {
-      "name": "Abue Ammar",
-      "username": "abue-ammar",
-      "url": "https://github.com/abue-ammar"
+      "name": "Jochen Niebuhr",
+      "username": "jniebuhr",
+      "url": "https://github.com/jniebuhr"
     }
   ]
 }
