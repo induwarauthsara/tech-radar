@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-24T23:12:04Z",
+  "updated_at": "2026-11-25T22:40:23Z",
   "items": [
     {
-      "name": "dsh-our-free-model",
-      "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
-      "language": "JavaScript",
-      "stars_label": "85,995",
-      "period_stars": "48,139 stars this month",
-      "trend_period": "Monthly"
+      "name": "nod",
+      "full_name": "n8n-io/nod",
+      "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.",
+      "url": "https://github.com/n8n-io/nod",
+      "language": "TypeScript",
+      "stars_label": "3,550",
+      "period_stars": "1,011 stars this week",
+      "trend_period": "Weekly"
     }
   ],
   "developers": [
     {
-      "name": "Matt Van Horn",
-      "username": "mvanhorn",
-      "url": "https://github.com/mvanhorn"
+      "name": "Cinna Davis",
+      "username": "1337isnot1337",
+      "url": "https://github.com/1337isnot1337"
     },
     {
       "name": "Shaw",
@@ -24,19 +24,29 @@
       "url": "https://github.com/lalalune"
     },
     {
-      "name": "Daniel Meppiel",
-      "username": "danielmeppiel",
-      "url": "https://github.com/danielmeppiel"
+      "name": "ahmadrosid",
+      "username": "ahmadrosid",
+      "url": "https://github.com/ahmadrosid"
     },
     {
-      "name": "Rach",
-      "username": "justrach",
-      "url": "https://github.com/justrach"
+      "name": "Matthias Seitz",
+      "username": "mattsse",
+      "url": "https://github.com/mattsse"
     },
     {
-      "name": "Dax",
-      "username": "thdxr",
-      "url": "https://github.com/thdxr"
+      "name": "Yair Morgenstern",
+      "username": "yairm210",
+      "url": "https://github.com/yairm210"
+    },
+    {
+      "name": "tt-a1i",
+      "username": "tt-a1i",
+      "url": "https://github.com/tt-a1i"
+    },
+    {
+      "name": "Wey Gu",
+      "username": "wey-gu",
+      "url": "https://github.com/wey-gu"
     },
     {
       "name": "Wesley Liddick",
@@ -49,24 +59,14 @@
       "url": "https://github.com/magnus919"
     },
     {
-      "name": "J. Nick Koston",
-      "username": "bdraco",
-      "url": "https://github.com/bdraco"
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "url": "https://github.com/mvanhorn"
     },
     {
-      "name": "Akshay Deo",
-      "username": "akshaydeo",
-      "url": "https://github.com/akshaydeo"
-    },
-    {
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "url": "https://github.com/tt-a1i"
-    },
-    {
-      "name": "ahmadrosid",
-      "username": "ahmadrosid",
-      "url": "https://github.com/ahmadrosid"
+      "name": "Paul Bakaus",
+      "username": "pbakaus",
+      "url": "https://github.com/pbakaus"
     },
     {
       "name": "Chimney",
@@ -74,24 +74,24 @@
       "url": "https://github.com/ccch1mneyyy"
     },
     {
-      "name": "jxxghp",
-      "username": "jxxghp",
-      "url": "https://github.com/jxxghp"
+      "name": "Gergő Móricz",
+      "username": "mogery",
+      "url": "https://github.com/mogery"
     },
     {
-      "name": "Yaowei Zheng",
-      "username": "hiyouga",
-      "url": "https://github.com/hiyouga"
+      "name": "Liangsheng Yin",
+      "username": "hnyls2002",
+      "url": "https://github.com/hnyls2002"
     },
     {
-      "name": "Yufeng He",
-      "username": "he-yufeng",
-      "url": "https://github.com/he-yufeng"
+      "name": "Alireza Rezvani",
+      "username": "alirezarezvani",
+      "url": "https://github.com/alirezarezvani"
     },
     {
-      "name": "Dotta",
-      "username": "cryppadotta",
-      "url": "https://github.com/cryppadotta"
+      "name": "J. Nick Koston",
+      "username": "bdraco",
+      "url": "https://github.com/bdraco"
     },
     {
       "name": "Илия",
@@ -99,19 +99,19 @@
       "url": "https://github.com/777genius"
     },
     {
-      "name": "Matthias Seitz",
-      "username": "mattsse",
-      "url": "https://github.com/mattsse"
+      "name": "Leonardo Maldonado",
+      "username": "leonardomso",
+      "url": "https://github.com/leonardomso"
     },
     {
-      "name": "秀吉",
-      "username": "thc1006",
-      "url": "https://github.com/thc1006"
+      "name": "Yufeng He",
+      "username": "he-yufeng",
+      "url": "https://github.com/he-yufeng"
     },
     {
-      "name": "Jochen Niebuhr",
-      "username": "jniebuhr",
-      "url": "https://github.com/jniebuhr"
+      "name": "YeonGyu-Kim",
+      "username": "code-yeongyu",
+      "url": "https://github.com/code-yeongyu"
     }
   ]
 }
