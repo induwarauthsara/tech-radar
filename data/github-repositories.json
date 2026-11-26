@@ -1,37 +1,22 @@
 {
-  "updated_at": "2026-11-25T22:40:23Z",
+  "updated_at": "2026-11-26T22:30:03Z",
   "items": [
     {
-      "name": "nod",
-      "full_name": "n8n-io/nod",
-      "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.",
-      "url": "https://github.com/n8n-io/nod",
-      "language": "TypeScript",
-      "stars_label": "3,550",
-      "period_stars": "1,011 stars this week",
+      "name": "obsidian-skills",
+      "full_name": "obsidianmd/obsidian-skills",
+      "description": "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.",
+      "url": "https://github.com/obsidianmd/obsidian-skills",
+      "language": "Shell",
+      "stars_label": "53,975",
+      "period_stars": "704 stars this week",
       "trend_period": "Weekly"
     }
   ],
   "developers": [
     {
-      "name": "Cinna Davis",
-      "username": "1337isnot1337",
-      "url": "https://github.com/1337isnot1337"
-    },
-    {
       "name": "Shaw",
       "username": "lalalune",
       "url": "https://github.com/lalalune"
-    },
-    {
-      "name": "ahmadrosid",
-      "username": "ahmadrosid",
-      "url": "https://github.com/ahmadrosid"
-    },
-    {
-      "name": "Matthias Seitz",
-      "username": "mattsse",
-      "url": "https://github.com/mattsse"
     },
     {
       "name": "Yair Morgenstern",
@@ -39,59 +24,59 @@
       "url": "https://github.com/yairm210"
     },
     {
-      "name": "tt-a1i",
-      "username": "tt-a1i",
-      "url": "https://github.com/tt-a1i"
-    },
-    {
       "name": "Wey Gu",
       "username": "wey-gu",
       "url": "https://github.com/wey-gu"
     },
     {
-      "name": "Wesley Liddick",
-      "username": "Wei-Shaw",
-      "url": "https://github.com/Wei-Shaw"
+      "name": "Cinna Davis",
+      "username": "1337isnot1337",
+      "url": "https://github.com/1337isnot1337"
     },
     {
-      "name": "Magnus Hedemark",
-      "username": "magnus919",
-      "url": "https://github.com/magnus919"
+      "name": "Dotta",
+      "username": "cryppadotta",
+      "url": "https://github.com/cryppadotta"
     },
     {
-      "name": "Matt Van Horn",
-      "username": "mvanhorn",
-      "url": "https://github.com/mvanhorn"
+      "name": "Douwe Maan",
+      "username": "DouweM",
+      "url": "https://github.com/DouweM"
     },
     {
-      "name": "Paul Bakaus",
-      "username": "pbakaus",
-      "url": "https://github.com/pbakaus"
+      "name": "Martin Vogel",
+      "username": "DeusData",
+      "url": "https://github.com/DeusData"
     },
     {
-      "name": "Chimney",
-      "username": "ccch1mneyyy",
-      "url": "https://github.com/ccch1mneyyy"
+      "name": "Trevin Chow",
+      "username": "tmchow",
+      "url": "https://github.com/tmchow"
     },
     {
-      "name": "Gergő Móricz",
-      "username": "mogery",
-      "url": "https://github.com/mogery"
+      "name": "Saiem Gilani",
+      "username": "saiemgilani",
+      "url": "https://github.com/saiemgilani"
     },
     {
-      "name": "Liangsheng Yin",
-      "username": "hnyls2002",
-      "url": "https://github.com/hnyls2002"
+      "name": "Igor Lukanin",
+      "username": "igorlukanin",
+      "url": "https://github.com/igorlukanin"
     },
     {
-      "name": "Alireza Rezvani",
-      "username": "alirezarezvani",
-      "url": "https://github.com/alirezarezvani"
+      "name": "Elie Habib",
+      "username": "koala73",
+      "url": "https://github.com/koala73"
     },
     {
-      "name": "J. Nick Koston",
-      "username": "bdraco",
-      "url": "https://github.com/bdraco"
+      "name": "YeonGyu-Kim",
+      "username": "code-yeongyu",
+      "url": "https://github.com/code-yeongyu"
+    },
+    {
+      "name": "Andrés Marafioti",
+      "username": "andimarafioti",
+      "url": "https://github.com/andimarafioti"
     },
     {
       "name": "Илия",
@@ -99,19 +84,34 @@
       "url": "https://github.com/777genius"
     },
     {
-      "name": "Leonardo Maldonado",
-      "username": "leonardomso",
-      "url": "https://github.com/leonardomso"
+      "name": "J. Nick Koston",
+      "username": "bdraco",
+      "url": "https://github.com/bdraco"
     },
     {
-      "name": "Yufeng He",
-      "username": "he-yufeng",
-      "url": "https://github.com/he-yufeng"
+      "name": "Michael Brooks",
+      "username": "mwbrooks",
+      "url": "https://github.com/mwbrooks"
     },
     {
-      "name": "YeonGyu-Kim",
-      "username": "code-yeongyu",
-      "url": "https://github.com/code-yeongyu"
+      "name": "Gergő Móricz",
+      "username": "mogery",
+      "url": "https://github.com/mogery"
+    },
+    {
+      "name": "Frank Fiegel",
+      "username": "punkpeye",
+      "url": "https://github.com/punkpeye"
+    },
+    {
+      "name": "Jim Manico",
+      "username": "jmanico",
+      "url": "https://github.com/jmanico"
+    },
+    {
+      "name": "rUv",
+      "username": "ruvnet",
+      "url": "https://github.com/ruvnet"
     }
   ]
 }
