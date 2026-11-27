@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T22:30:03Z",
+  "updated_at": "2026-11-27T22:14:13Z",
   "items": [
     {
       "title": "Reinforcement learning with prediction-based rewards",
@@ -470,12 +470,12 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "title": "Atlantic 1866: information and shipping in the age of the telegraph",
       "summary": "Comments",
       "description": "Comments",
-      "url": "https://scottaaronson.blog/?p=10379",
+      "url": "https://atlantic-1866.com/",
       "source": "Hacker News",
-      "published": "Wed, 25 Nov 2026 19:11:27 +0000",
+      "published": "Wed, 25 Nov 2026 20:55:26 +0000",
       "category": "Technology"
     },
     {
@@ -486,6 +486,15 @@
       "source": "GitHub Blog",
       "published": "Wed, 25 Nov 2026 16:00:00 +0000",
       "category": "AI & Agents"
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "summary": "Comments",
+      "description": "Comments",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "Hacker News",
+      "published": "Wed, 25 Nov 2026 15:16:53 +0000",
+      "category": "Technology"
     },
     {
       "title": "How to choose the next safe step in application modernization",
@@ -515,12 +524,12 @@
       "category": "AI & Agents"
     },
     {
-      "title": "Curiosity Is No Solo Act",
+      "title": "Lydian Chromatic Concept of Tonal Organization",
       "summary": "Comments",
       "description": "Comments",
-      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "url": "https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization",
       "source": "Hacker News",
-      "published": "Wed, 25 Nov 2026 00:37:07 +0000",
+      "published": "Wed, 25 Nov 2026 04:46:49 +0000",
       "category": "Technology"
     },
     {
@@ -800,15 +809,6 @@
       "url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai",
       "source": "OpenAI News",
       "published": "Wed, 22 Oct 2025 16:00:00 GMT",
-      "category": "AI & Agents"
-    },
-    {
-      "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
-      "summary": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
-      "description": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
-      "url": "https://openai.com/index/japan-economic-blueprint",
-      "source": "OpenAI News",
-      "published": "Wed, 22 Oct 2025 00:00:00 GMT",
       "category": "AI & Agents"
     }
   ]

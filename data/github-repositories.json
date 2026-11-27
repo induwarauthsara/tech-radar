@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T22:30:03Z",
+  "updated_at": "2026-11-27T22:14:13Z",
   "items": [
     {
       "name": "obsidian-skills",
@@ -14,19 +14,14 @@
   ],
   "developers": [
     {
-      "name": "Shaw",
-      "username": "lalalune",
-      "url": "https://github.com/lalalune"
-    },
-    {
-      "name": "Yair Morgenstern",
-      "username": "yairm210",
-      "url": "https://github.com/yairm210"
-    },
-    {
       "name": "Wey Gu",
       "username": "wey-gu",
       "url": "https://github.com/wey-gu"
+    },
+    {
+      "name": "Shaw",
+      "username": "lalalune",
+      "url": "https://github.com/lalalune"
     },
     {
       "name": "Cinna Davis",
@@ -34,24 +29,9 @@
       "url": "https://github.com/1337isnot1337"
     },
     {
-      "name": "Dotta",
-      "username": "cryppadotta",
-      "url": "https://github.com/cryppadotta"
-    },
-    {
-      "name": "Douwe Maan",
-      "username": "DouweM",
-      "url": "https://github.com/DouweM"
-    },
-    {
-      "name": "Martin Vogel",
-      "username": "DeusData",
-      "url": "https://github.com/DeusData"
-    },
-    {
-      "name": "Trevin Chow",
-      "username": "tmchow",
-      "url": "https://github.com/tmchow"
+      "name": "Matt Van Horn",
+      "username": "mvanhorn",
+      "url": "https://github.com/mvanhorn"
     },
     {
       "name": "Saiem Gilani",
@@ -59,34 +39,19 @@
       "url": "https://github.com/saiemgilani"
     },
     {
-      "name": "Igor Lukanin",
-      "username": "igorlukanin",
-      "url": "https://github.com/igorlukanin"
+      "name": "Willie",
+      "username": "runkids",
+      "url": "https://github.com/runkids"
     },
     {
-      "name": "Elie Habib",
-      "username": "koala73",
-      "url": "https://github.com/koala73"
+      "name": "SaladDay",
+      "username": "SaladDay",
+      "url": "https://github.com/SaladDay"
     },
     {
-      "name": "YeonGyu-Kim",
-      "username": "code-yeongyu",
-      "url": "https://github.com/code-yeongyu"
-    },
-    {
-      "name": "Andrés Marafioti",
-      "username": "andimarafioti",
-      "url": "https://github.com/andimarafioti"
-    },
-    {
-      "name": "Илия",
-      "username": "777genius",
-      "url": "https://github.com/777genius"
-    },
-    {
-      "name": "J. Nick Koston",
-      "username": "bdraco",
-      "url": "https://github.com/bdraco"
+      "name": "冬霧",
+      "username": "chthollyphile",
+      "url": "https://github.com/chthollyphile"
     },
     {
       "name": "Michael Brooks",
@@ -94,24 +59,59 @@
       "url": "https://github.com/mwbrooks"
     },
     {
-      "name": "Gergő Móricz",
-      "username": "mogery",
-      "url": "https://github.com/mogery"
+      "name": "Martin Vogel",
+      "username": "DeusData",
+      "url": "https://github.com/DeusData"
     },
     {
-      "name": "Frank Fiegel",
-      "username": "punkpeye",
-      "url": "https://github.com/punkpeye"
+      "name": "David Zhang",
+      "username": "Git-on-my-level",
+      "url": "https://github.com/Git-on-my-level"
     },
     {
-      "name": "Jim Manico",
-      "username": "jmanico",
-      "url": "https://github.com/jmanico"
+      "name": "Colby Mchenry",
+      "username": "colbymchenry",
+      "url": "https://github.com/colbymchenry"
     },
     {
-      "name": "rUv",
-      "username": "ruvnet",
-      "url": "https://github.com/ruvnet"
+      "name": "Steve Preu",
+      "username": "unbraind",
+      "url": "https://github.com/unbraind"
+    },
+    {
+      "name": "Douwe Maan",
+      "username": "DouweM",
+      "url": "https://github.com/DouweM"
+    },
+    {
+      "name": "Alex Choi",
+      "username": "alexechoi",
+      "url": "https://github.com/alexechoi"
+    },
+    {
+      "name": "Yair Morgenstern",
+      "username": "yairm210",
+      "url": "https://github.com/yairm210"
+    },
+    {
+      "name": "Pratham Mishra",
+      "username": "Pratham-Mishra04",
+      "url": "https://github.com/Pratham-Mishra04"
+    },
+    {
+      "name": "Илия",
+      "username": "777genius",
+      "url": "https://github.com/777genius"
+    },
+    {
+      "name": "Sergey Vidyuk",
+      "username": "sv",
+      "url": "https://github.com/sv"
+    },
+    {
+      "name": "Tobias Lütke",
+      "username": "tobi",
+      "url": "https://github.com/tobi"
     }
   ]
 }
